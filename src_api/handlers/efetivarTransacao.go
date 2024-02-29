@@ -2,7 +2,6 @@ package handlers
 
 import (
 	"encoding/json"
-	"fmt"
 	"log"
 	"net/http"
 	"strconv"
@@ -39,26 +38,23 @@ func EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	
 	//transacao
 	transacao.IdCliente = idCliente
-	id, err := models.Insert(transacao)
-
-	var resp map[string]any
-
+	err = models.Efetivar(transacao)
 	if err != nil {
-		resp = map[string]any{
-			"Error":   true,
-			"Message": fmt.Sprintf("ocorreu um erro ao processar a transacao: %v", err),
-		}
-		w.WriteHeader(http.StatusUnprocessableEntity)
-	} else {
-		resp = map[string]any{
-			"Error":   false,
-			"Message": fmt.Sprintf("transacao processada com sucesso: %d", id),
-		}
-		w.WriteHeader(http.StatusOK)
+		log.Printf("erro ao fazer decode json: %v", err)
+		http.Error(w, http.StatusText(http.StatusUnprocessableEntity), http.StatusUnprocessableEntity)
+		return
+	}
+
+	//consulto o saldo atual do cliente
+	cliente, err := models.BuscarClientePorId(idCliente)
+	if err != nil {
+		log.Printf("erro ao fazer decode json: %v", err)
+		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
+		return
 	}
 
 	w.Header().Add("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(resp)
+	json.NewEncoder(w).Encode(cliente)
+	w.WriteHeader(http.StatusOK)
 	
-
 }

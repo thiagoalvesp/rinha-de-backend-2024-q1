@@ -5,22 +5,23 @@ import (
 	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/db"
 )
 
-func Insert(transacao Transacao) (id int64, err error) {
+//retonar o cliente nessa transacao
+func Efetivar(transacao Transacao) (err error) {
 
 	switch transacao.Tipo {
 	case `c`:
 		//Inserir Transacao
-		err = EfetivarCredito(transacao, id)
+		err = EfetivarCredito(transacao)
 		break
 	case `d`:
-		err = EfetivarDebito(transacao, id)
+		err = EfetivarDebito(transacao)
 		break
 	}
 
-	return id, err
+	return err
 }
 
-func EfetivarDebito(transacao Transacao, id int64) error {
+func EfetivarDebito(transacao Transacao) error {
 
 	conn, err := db.OpenConnection()
 	if err != nil {
@@ -37,8 +38,7 @@ func EfetivarDebito(transacao Transacao, id int64) error {
 	row.Scan(&podeEfetivar)
 	if podeEfetivar {
 		//Inserir Transacao
-		query := `INSERT INTO transacoes (idCliente, valor, tipo, descricao) VALUES ($1, $2, $3, $4) RETURNING id`
-		err = tx.QueryRow(query, transacao.IdCliente, transacao.Valor, transacao.Tipo, transacao.Descricao).Scan(&id)
+			_, err = tx.Exec(`INSERT INTO transacoes (idCliente, valor, tipo, descricao) VALUES ($1, $2, $3, $4) RETURNING id`, transacao.IdCliente, transacao.Valor, transacao.Tipo, transacao.Descricao)
 		//Atualizar o saldo
 		if err == nil {
 			_, err = tx.Exec(`UPDATE clientes SET saldo= saldo + $1 WHERE id=$2`, transacao.Valor*-1, transacao.IdCliente)
@@ -56,7 +56,7 @@ func EfetivarDebito(transacao Transacao, id int64) error {
 	return err
 }
 
-func EfetivarCredito(transacao Transacao, id int64) error {
+func EfetivarCredito(transacao Transacao) error {
 
 	conn, err := db.OpenConnection()
 	if err != nil {
@@ -66,9 +66,8 @@ func EfetivarCredito(transacao Transacao, id int64) error {
 
 	// Inicie a transação
 	tx, err := conn.Begin()
-
-	query := `INSERT INTO transacoes (idCliente, valor, tipo, descricao) VALUES ($1, $2, $3, $4) RETURNING id`
-	err = tx.QueryRow(query, transacao.IdCliente, transacao.Valor, transacao.Tipo, transacao.Descricao).Scan(&id)
+	
+	_, err = tx.Exec(`INSERT INTO transacoes (idCliente, valor, tipo, descricao) VALUES ($1, $2, $3, $4) RETURNING id`, transacao.IdCliente, transacao.Valor, transacao.Tipo, transacao.Descricao)
 	if err == nil {
 		_, err = tx.Exec(`UPDATE clientes SET saldo= saldo + $1 WHERE id=$2`, transacao.Valor, transacao.IdCliente)
 	}
