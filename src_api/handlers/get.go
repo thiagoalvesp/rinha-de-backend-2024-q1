@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/go-chi/chi/v5"
-	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/models"
+	//"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/models"
 )
 
 func Get(w http.ResponseWriter, r *http.Request) {
@@ -23,7 +23,7 @@ func Get(w http.ResponseWriter, r *http.Request) {
 
 	//404 qndo nao retornar clientes
 	
-	transacao, err := models.Get(int64(id))
+	//transacao, err := models.Get(int64(id))
 	if err != nil {
 		log.Printf("Erro ao buscar registro: %v", err)
 		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
@@ -31,5 +31,5 @@ func Get(w http.ResponseWriter, r *http.Request) {
 	}
 
 	w.Header().Add("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(transacao)
+	json.NewEncoder(w).Encode(id)
 }

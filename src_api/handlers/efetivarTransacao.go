@@ -11,7 +11,7 @@ import (
 	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/models"
 )
 
-func Create(w http.ResponseWriter, r *http.Request) {
+func EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	var transacao models.Transacao
 
 	Sid := chi.URLParam(r, "id")
@@ -30,6 +30,12 @@ func Create(w http.ResponseWriter, r *http.Request) {
 	}
 	
 	//cliente existe?
+	_, err = models.BuscarClientePorId(idCliente)
+	if err != nil {
+		log.Printf("erro ao fazer decode json: %v", err)
+		http.Error(w, http.StatusText(http.StatusNotFound), http.StatusNotFound)
+		return
+	}
 	
 	//transacao
 	transacao.IdCliente = idCliente
