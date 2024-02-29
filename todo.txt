@@ -1,0 +1,11 @@
+configurar o fleet  x
+script x
+configurar o docker-compose
+configurar o banco
+subir a api atendendo os critérios da rinha
+configurar o nginx
+configurar o teste (gattling)
+
+
+404
+e erro qndo der erro nas requests
