@@ -20,7 +20,7 @@ func main() {
 
 	r := chi.NewRouter()
 	r.Post("/clientes/{id}/transacoes", handlers.EfetivarTransacao)
-	r.Get("/clientes/{id}/extrato", handlers.Get)
+	r.Get("/clientes/{id}/extrato", handlers.ConsultarExtrato)
 
 	err = http.ListenAndServe(fmt.Sprintf(":%s", configs.GetServerPort()), r)
 	if err != nil {

@@ -14,3 +14,14 @@ type Cliente struct {
 	Saldo      int64 `json:"total"`
 	Limite      int64 `json:"limite"`
 }
+
+type Saldo struct {
+	Total      int64 `json:"total"`
+	DataExtrato string `json:"data_extrato"`
+	Limite      int64 `json:"limite"`
+}
+
+type Extrato struct {
+	Saldo Saldo `json:"saldo"`
+	UltimasTransacoes []Transacao `json:"ultimas_transacoes"`
+}

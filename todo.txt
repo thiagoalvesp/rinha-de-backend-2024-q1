@@ -1,11 +1,15 @@
 configurar o fleet  x
 script x
-configurar o docker-compose
-configurar o banco
-subir a api atendendo os critérios da rinha
+configurar o docker-compose x
+configurar o banco x
+subir a api atendendo os critérios da rinha x
+configurar o docker-compose para a aplicacao
+configurar o docker-compose para o nginx
 configurar o nginx
 configurar o teste (gattling)
 
 
-404
-e erro qndo der erro nas requests
+revisar os log de error
+log.fatal(err)
+
+Teste unitario
