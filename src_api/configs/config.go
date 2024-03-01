@@ -23,9 +23,12 @@ type DBConfig struct {
 
 
 func init() {
-	viper.SetDefault("api.port", "9000")
-	viper.SetDefault("database.host", "localhost")
+	viper.SetDefault("api.port", "8080")
+	viper.SetDefault("database.host", "db")
 	viper.SetDefault("database.port", "5432")
+	viper.SetDefault("database.user", "admin")
+	viper.SetDefault("database.pass", "123")
+	viper.SetDefault("database.name", "rinha")
 }
 
 func Load() error {

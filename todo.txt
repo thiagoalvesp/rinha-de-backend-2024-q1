@@ -3,13 +3,40 @@ script x
 configurar o docker-compose x
 configurar o banco x
 subir a api atendendo os critérios da rinha x
-configurar o docker-compose para a aplicacao
-configurar o docker-compose para o nginx
-configurar o nginx
-configurar o teste (gattling)
+configurar o docker-compose para a aplicacao x
+configurar o docker-compose para o nginx x
+configurar o nginx x
+configurar o teste (gattling) x
+
+
+-------------------------------
+1000 workes nao suficiente
+pool de conexao do postgress
+2024/02/29 23:40:28 erro ao fazer decode json: dial tcp 172.23.0.2:5432: connect: connection timed out
+api01-1  | 2024/02/29 23:40:31 http: superfluous response.WriteHeader call from github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/handlers.EfetivarTransacao (efetivarTransacao.go:58)
+api01-1  | 2024/02/29 23:40:16 erro ao fazer decode json: saldo insuficiente
+------------------------------
 
 
 revisar os log de error
 log.fatal(err)
 
+
+config nao pega do arquivo em prod
+ajustar a config por ambiente
 Teste unitario
+
+//ajudaaaa para memoria do tio aqui
+# Construir a imagem Docker
+docker build -t thiagoalvesp/api-rinha-de-backend-2024-q1:latest .\src_api\
+#para o ambiente da rinha
+docker buildx build --platform linux/amd64 -t ana/minha-api-matadora:latest .
+
+
+# Fazer login no Docker Hub
+docker login
+
+# Enviar a imagem para o Docker Hub
+docker push thiagoalvesp/api-rinha-de-backend-2024-q1:latest
+
+docker-compose up -d
