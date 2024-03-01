@@ -10,7 +10,7 @@ import (
 	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/models"
 )
 
-func EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
+func (p Pool) EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	var transacao models.Transacao
 
 	Sid := chi.URLParam(r, "id")
@@ -20,25 +20,25 @@ func EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
 		return
 	}
-	
+
 	err = json.NewDecoder(r.Body).Decode(&transacao)
 	if err != nil {
 		log.Printf("erro ao fazer decode json: %v", err)
 		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
 		return
 	}
-	
+
 	//cliente existe?
-	_, err = models.BuscarClientePorId(idCliente)
+	_, err = models.BuscarClientePorId(idCliente, p.ConnPool)
 	if err != nil {
 		log.Printf("erro ao fazer decode json: %v", err)
 		http.Error(w, http.StatusText(http.StatusNotFound), http.StatusNotFound)
 		return
 	}
-	
+
 	//transacao
 	transacao.IdCliente = idCliente
-	err = models.Efetivar(transacao)
+	err = models.Efetivar(transacao, p.ConnPool)
 	if err != nil {
 		log.Printf("erro ao fazer decode json: %v", err)
 		http.Error(w, http.StatusText(http.StatusUnprocessableEntity), http.StatusUnprocessableEntity)
@@ -46,15 +46,16 @@ func EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	}
 
 	//consulto o saldo atual do cliente
-	cliente, err := models.BuscarClientePorId(idCliente)
+	cliente, err := models.BuscarClientePorId(idCliente, p.ConnPool)
 	if err != nil {
 		log.Printf("erro ao fazer decode json: %v", err)
 		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
 		return
 	}
 
-	w.Header().Add("Content-Type", "application/json")
-	json.NewEncoder(w).Encode(cliente)
-	w.WriteHeader(http.StatusOK)
-	
+	if err == nil {
+		w.Header().Add("Content-Type", "application/json")
+		json.NewEncoder(w).Encode(cliente)
+	}
+
 }

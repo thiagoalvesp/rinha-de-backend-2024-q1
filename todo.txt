@@ -10,10 +10,8 @@ configurar o teste (gattling) x
 
 
 -------------------------------
-1000 workes nao suficiente
-pool de conexao do postgress
-2024/02/29 23:40:28 erro ao fazer decode json: dial tcp 172.23.0.2:5432: connect: connection timed out
-api01-1  | 2024/02/29 23:40:31 http: superfluous response.WriteHeader call from github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/handlers.EfetivarTransacao (efetivarTransacao.go:58)
+1000 workes nao suficiente x
+pool de conexao do postgress x
 api01-1  | 2024/02/29 23:40:16 erro ao fazer decode json: saldo insuficiente
 ------------------------------
 
@@ -21,7 +19,8 @@ api01-1  | 2024/02/29 23:40:16 erro ao fazer decode json: saldo insuficiente
 revisar os log de error
 log.fatal(err)
 
-
+colocar as config na main
+remover os log do pool de conexao
 config nao pega do arquivo em prod
 ajustar a config por ambiente
 Teste unitario
@@ -40,3 +39,4 @@ docker login
 docker push thiagoalvesp/api-rinha-de-backend-2024-q1:latest
 
 docker-compose up -d
+docker-compose down -v

@@ -25,3 +25,4 @@ type Extrato struct {
 	Saldo Saldo `json:"saldo"`
 	UltimasTransacoes []Transacao `json:"ultimas_transacoes"`
 }
+

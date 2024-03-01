@@ -14,13 +14,17 @@ services:
     # ao banco de dados na fase de desenvolvimento.
     ports:
       - "8081:8080"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 40s
+      retries: 5
     depends_on:
       - db
     deploy:
       resources:
         limits:
           cpus: "0.6"
-          memory: "200MB"
+          memory: "170MB"
 
   api02:
     image: thiagoalvesp/api-rinha-de-backend-2024-q1:latest
@@ -35,10 +39,12 @@ services:
       resources:
         limits:
           cpus: "0.6"
-          memory: "200MB"
+          memory: "170MB"
 
   nginx:
     image: nginx:latest
+    environment:
+      - TZ='America/Sao_Paulo'
     volumes:
       - ./nginx.config:/etc/nginx/nginx.conf:ro
     depends_on:
@@ -51,7 +57,7 @@ services:
       resources:
         limits:
           cpus: "0.17"
-          memory: "10MB"
+          memory: "70MB"
 
   db:
     image: postgres:latest
