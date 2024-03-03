@@ -17,22 +17,19 @@ func BuscarClientePorId(idCliente int, connPoll *pgxpool.Pool) (cliente Cliente,
 	return
 }
 
+func CarregarExtratoPorCliente(cliente Cliente, connPoll *pgxpool.Pool) (extrato Extrato, err error) {
 
-func BuscarExtratoPorId(idCliente int, connPoll *pgxpool.Pool) (extrato Extrato, err error) {
+	//carregar dados do cliente no extrato
+	extrato.Saldo.Total = cliente.Saldo
+	extrato.Saldo.Limite = cliente.Limite
 
-	//carregar dados do cliente
-	row := connPoll.QueryRow(context.Background(),`SELECT saldo, limite FROM clientes WHERE id=$1`, idCliente)
-	err = row.Scan(&extrato.Saldo.Total, &extrato.Saldo.Limite)
-	if err != nil {
-		return
-	}
 	//carregar a data do extrato
 	agora := time.Now()
 	agoraFormatado := agora.Format("2006-01-02T15:04:05.999999Z")
 	extrato.Saldo.DataExtrato = agoraFormatado
 
 	//carregar dados das transacoes
-	rows, err := connPoll.Query(context.Background(),"SELECT valor, tipo, descricao,  TO_CHAR(realizada_em, 'YYYY-MM-DD\"T\"HH24:MI:SS.US\"Z\"') realizada_em FROM transacoes WHERE idCliente = $1 ORDER BY id DESC LIMIT 10", idCliente)
+	rows, err := connPoll.Query(context.Background(),"SELECT valor, tipo, descricao,  TO_CHAR(realizada_em, 'YYYY-MM-DD\"T\"HH24:MI:SS.US\"Z\"') realizada_em FROM transacoes WHERE idCliente = $1 ORDER BY id DESC LIMIT 10", cliente.Id)
 	if err != nil {
 		return
 	}

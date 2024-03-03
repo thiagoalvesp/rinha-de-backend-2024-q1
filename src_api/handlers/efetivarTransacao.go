@@ -28,28 +28,19 @@ func (p Pool) EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	//cliente existe?
-	_, err = models.BuscarClientePorId(idCliente, p.ConnPool)
+	//cliente existe
+	cliente, err := models.BuscarClientePorId(idCliente, p.ConnPool)
 	if err != nil {
 		log.Printf("erro ao buscar o cliente: %v", err)
 		http.Error(w, http.StatusText(http.StatusNotFound), http.StatusNotFound)
 		return
 	}
 
-	//transacao
-	transacao.IdCliente = idCliente
-	err = models.Efetivar(transacao, p.ConnPool)
+	//efetiva a transacao e retorna o saldo atualizado
+	cliente, err = models.Efetivar(cliente, transacao, p.ConnPool)
 	if err != nil {
 		log.Printf("erro ao efetivar a transacao: %v", err)
 		http.Error(w, http.StatusText(http.StatusUnprocessableEntity), http.StatusUnprocessableEntity)
-		return
-	}
-
-	//consulto o saldo atual do cliente
-	cliente, err := models.BuscarClientePorId(idCliente, p.ConnPool)
-	if err != nil {
-		log.Printf("erro ao buscar o cliente para devolver o saldo %v", err)
-		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
 		return
 	}
 

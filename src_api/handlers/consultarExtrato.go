@@ -21,7 +21,7 @@ func (p Pool) ConsultarExtrato(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	//cliente existe?
-	_, err = models.BuscarClientePorId(id, p.ConnPool)
+	cliente, err := models.BuscarClientePorId(id, p.ConnPool)
 	if err != nil {
 		log.Printf("erro ao fazer decode json: %v", err)
 		http.Error(w, http.StatusText(http.StatusNotFound), http.StatusNotFound)
@@ -29,7 +29,7 @@ func (p Pool) ConsultarExtrato(w http.ResponseWriter, r *http.Request) {
 	}
 
 	//carregar o extrato
-	extrato, err := models.BuscarExtratoPorId(id, p.ConnPool)
+	extrato, err := models.CarregarExtratoPorCliente(cliente, p.ConnPool)
 	if err != nil {
 		log.Printf("Erro ao consultar o extrato: %v", err)
 		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
