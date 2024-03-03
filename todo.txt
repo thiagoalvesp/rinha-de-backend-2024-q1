@@ -13,6 +13,14 @@ configurar o teste (gattling) x
 1000 workes nao suficiente x
 pool de conexao do postgress x
 api01-1  | 2024/02/29 23:40:16 erro ao fazer decode json: saldo insuficiente
+mudar o gattling para bater em dev 8080 x
+configurar o OS para aceitar mais requisicoes x
+netsh int ipv4 set dynamic tcp start=1025 num=57975
+
+2024/03/03 09:27:22 erro ao fazer decode json: saldo insuficiente x
+2024/03/03 09:27:19 erro ao fazer decode json: json: cannot unmarshal number 1.2 into Go struct field Transacao.valor of type int64 x
+sem modelo
+
 ------------------------------
 
 

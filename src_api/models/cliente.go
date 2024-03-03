@@ -3,7 +3,6 @@ package models
 import (
 	"context"
 	"github.com/jackc/pgx/v5/pgxpool"
-	"log"
 	"time"
 )
 
@@ -32,9 +31,8 @@ func BuscarExtratoPorId(idCliente int, connPoll *pgxpool.Pool) (extrato Extrato,
 	agoraFormatado := agora.Format("2006-01-02T15:04:05.999999Z")
 	extrato.Saldo.DataExtrato = agoraFormatado
 
-	log.Println("antes da query")
 	//carregar dados das transacoes
-	rows, err := connPoll.Query(context.Background(),"SELECT valor, tipo, descricao,  TO_CHAR(realizada_em, 'YYYY-MM-DD\"T\"HH24:MI:SS.US\"Z\"') realizada_em FROM transacoes WHERE idCliente = 1 ORDER BY id DESC LIMIT 10")
+	rows, err := connPoll.Query(context.Background(),"SELECT valor, tipo, descricao,  TO_CHAR(realizada_em, 'YYYY-MM-DD\"T\"HH24:MI:SS.US\"Z\"') realizada_em FROM transacoes WHERE idCliente = $1 ORDER BY id DESC LIMIT 10", idCliente)
 	if err != nil {
 		return
 	}

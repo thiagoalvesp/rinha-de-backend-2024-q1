@@ -1,8 +1,0 @@
-[api]
-port = "8080"
-
-[database]
-host = "localhost" #db
-user = "admin"
-pass = "123"
-name = "rinha"

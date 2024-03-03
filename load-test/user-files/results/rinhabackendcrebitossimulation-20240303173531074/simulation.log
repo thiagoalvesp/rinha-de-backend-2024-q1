@@ -1,0 +1,3733 @@
+RUN	RinhaBackendCrebitosSimulation	rinhabackendcrebitossimulation	1709487331074	Rinha de Backend - 2024/Q1: CrÃ©bito	3.10.3
+USER	validação concorrência transações - d	START	1709487333158
+USER	validação concorrência transações - d	START	1709487333158
+USER	validação concorrência transações - d	START	1709487333159
+USER	validação concorrência transações - d	START	1709487333159
+USER	validação concorrência transações - d	START	1709487333161
+USER	validação concorrência transações - d	START	1709487333161
+USER	validação concorrência transações - d	START	1709487333159
+USER	validação concorrência transações - d	START	1709487333159
+USER	validação concorrência transações - d	START	1709487333159
+USER	validação concorrência transações - d	START	1709487333162
+USER	validação concorrência transações - d	START	1709487333162
+USER	validação concorrência transações - d	START	1709487333163
+USER	validação concorrência transações - d	START	1709487333163
+USER	validação concorrência transações - d	START	1709487333164
+USER	validação concorrência transações - d	START	1709487333164
+USER	validação concorrência transações - d	START	1709487333165
+USER	validação concorrência transações - d	START	1709487333159
+USER	validação concorrência transações - d	START	1709487333226
+USER	validação concorrência transações - d	START	1709487333230
+USER	validação concorrência transações - d	START	1709487333230
+USER	validação concorrência transações - d	START	1709487333238
+USER	validação concorrência transações - d	START	1709487333239
+USER	validação concorrência transações - d	START	1709487333240
+USER	validação concorrência transações - d	START	1709487333243
+USER	validação concorrência transações - d	START	1709487333249
+REQUEST		validações	1709487333162	1709487333197	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333095	1709487333232	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333228	1709487333270	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333095	1709487333225	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333095	1709487333228	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333096	1709487333205	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333096	1709487333197	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333096	1709487333222	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333094	1709487333303	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333095	1709487333285	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333096	1709487333281	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333095	1709487333222	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333095	1709487333286	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333095	1709487333206	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333241	1709487333279	KO	status.find.is(200), but actually found 422
+USER	validação concorrência transações - d	END	1709487333488
+USER	validação concorrência transações - d	END	1709487333489
+USER	validação concorrência transações - d	END	1709487333489
+USER	validação concorrência transações - d	END	1709487333489
+USER	validação concorrência transações - d	END	1709487333489
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+USER	validação concorrência transações - d	END	1709487333490
+REQUEST		validações	1709487333243	1709487333491	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333096	1709487333492	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333161	1709487333492	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333164	1709487333492	KO	status.find.is(200), but actually found 422
+USER	validação concorrência transações - d	END	1709487333492
+USER	validação concorrência transações - d	END	1709487333493
+USER	validação concorrência transações - d	END	1709487333493
+USER	validação concorrência transações - d	END	1709487333493
+REQUEST		validações	1709487333163	1709487333498	KO	status.find.is(200), but actually found 422
+USER	validação concorrência transações - d	END	1709487333499
+REQUEST		validações	1709487333096	1709487333499	KO	status.find.is(200), but actually found 422
+USER	validação concorrência transações - d	END	1709487333502
+REQUEST		validações	1709487333161	1709487333506	KO	status.find.is(200), but actually found 422
+USER	validação concorrência transações - d	END	1709487333507
+REQUEST		validações	1709487333096	1709487333806	KO	status.find.is(200), but actually found 422
+REQUEST		validações	1709487333096	1709487333821	KO	status.find.is(200), but actually found 422
+USER	validação concorrência transações - d	END	1709487333814
+USER	validação concorrência transações - d	END	1709487333838
+REQUEST		validações	1709487333233	1709487333915	KO	status.find.is(200), but actually found 422
+USER	validação concorrência transações - d	END	1709487333922
+USER	validação concorrência saldo - -25	START	1709487334862
+REQUEST		validações	1709487334861	1709487334879	KO	jmesPath(saldo.total).find.is(-25), but actually found -9154225
+USER	validação concorrência saldo - -25	END	1709487335000
+USER	validação concorrência transações - c	START	1709487335860
+USER	validação concorrência transações - c	START	1709487335860
+USER	validação concorrência transações - c	START	1709487335860
+USER	validação concorrência transações - c	START	1709487335860
+USER	validação concorrência transações - c	START	1709487335860
+USER	validação concorrência transações - c	START	1709487335861
+USER	validação concorrência transações - c	START	1709487335862
+USER	validação concorrência transações - c	START	1709487335862
+USER	validação concorrência transações - c	START	1709487335863
+USER	validação concorrência transações - c	START	1709487335863
+USER	validação concorrência transações - c	START	1709487335863
+USER	validação concorrência transações - c	START	1709487335864
+USER	validação concorrência transações - c	START	1709487335864
+USER	validação concorrência transações - c	START	1709487335866
+USER	validação concorrência transações - c	START	1709487335866
+USER	validação concorrência transações - c	START	1709487335866
+USER	validação concorrência transações - c	START	1709487335866
+USER	validação concorrência transações - c	START	1709487335866
+USER	validação concorrência transações - c	START	1709487335868
+USER	validação concorrência transações - c	START	1709487335868
+USER	validação concorrência transações - c	START	1709487335869
+USER	validação concorrência transações - c	START	1709487335869
+USER	validação concorrência transações - c	START	1709487335869
+USER	validação concorrência transações - c	START	1709487335873
+USER	validação concorrência transações - c	START	1709487335874
+REQUEST		validações	1709487335860	1709487336712	OK	 
+USER	validação concorrência transações - c	END	1709487336715
+REQUEST		validações	1709487335863	1709487336726	OK	 
+USER	validação concorrência transações - c	END	1709487336729
+REQUEST		validações	1709487335868	1709487337406	OK	 
+USER	validação concorrência transações - c	END	1709487337411
+REQUEST		validações	1709487335866	1709487337503	OK	 
+USER	validação concorrência transações - c	END	1709487337509
+REQUEST		validações	1709487335865	1709487337602	OK	 
+USER	validação concorrência transações - c	END	1709487337606
+REQUEST		validações	1709487335860	1709487337615	OK	 
+USER	validação concorrência transações - c	END	1709487337616
+REQUEST		validações	1709487335863	1709487337626	OK	 
+USER	validação concorrência transações - c	END	1709487337628
+REQUEST		validações	1709487335871	1709487337701	OK	 
+USER	validação concorrência transações - c	END	1709487337702
+REQUEST		validações	1709487335862	1709487337712	OK	 
+USER	validação concorrência transações - c	END	1709487337714
+REQUEST		validações	1709487335862	1709487337802	OK	 
+USER	validação concorrência transações - c	END	1709487337803
+REQUEST		validações	1709487335870	1709487337814	OK	 
+USER	validação concorrência transações - c	END	1709487337817
+REQUEST		validações	1709487335860	1709487337821	OK	 
+USER	validação concorrência transações - c	END	1709487337822
+REQUEST		validações	1709487335863	1709487337845	OK	 
+USER	validação concorrência transações - c	END	1709487337850
+REQUEST		validações	1709487335863	1709487337860	OK	 
+USER	validação concorrência transações - c	END	1709487337863
+REQUEST		validações	1709487335869	1709487337910	OK	 
+USER	validação concorrência transações - c	END	1709487337914
+REQUEST		validações	1709487335863	1709487337924	OK	 
+USER	validação concorrência transações - c	END	1709487337927
+REQUEST		validações	1709487335860	1709487337943	OK	 
+USER	validação concorrência transações - c	END	1709487337944
+REQUEST		validações	1709487335866	1709487337967	OK	 
+USER	validação concorrência transações - c	END	1709487337969
+REQUEST		validações	1709487335860	1709487337984	OK	 
+USER	validação concorrência transações - c	END	1709487337990
+REQUEST		validações	1709487335869	1709487338012	OK	 
+USER	validação concorrência transações - c	END	1709487338018
+REQUEST		validações	1709487335868	1709487338021	OK	 
+USER	validação concorrência transações - c	END	1709487338027
+REQUEST		validações	1709487335865	1709487338048	OK	 
+USER	validação concorrência transações - c	END	1709487338050
+REQUEST		validações	1709487335868	1709487338061	OK	 
+USER	validação concorrência transações - c	END	1709487338062
+REQUEST		validações	1709487335860	1709487338069	OK	 
+USER	validação concorrência transações - c	END	1709487338070
+REQUEST		validações	1709487335865	1709487338076	OK	 
+USER	validação concorrência transações - c	END	1709487338078
+USER	validação concorrência saldo - 0	START	1709487338849
+REQUEST		validações	1709487338848	1709487338862	KO	jmesPath(saldo.total).find.is(0), but actually found -9154200
+USER	validação concorrência saldo - 0	END	1709487338865
+USER	validações	START	1709487339861
+USER	validações	START	1709487339861
+USER	validações	START	1709487339861
+USER	validações	START	1709487339861
+USER	validações	START	1709487339861
+USER	validação HTTP 404	START	1709487339862
+REQUEST		validações	1709487339861	1709487339872	OK	 
+USER	validação HTTP 404	END	1709487339873
+REQUEST		validações	1709487339883	1709487339917	KO	jmesPath(saldo.total).find.is(0), but actually found -11651718
+REQUEST		validações	1709487339883	1709487339908	KO	jmesPath(saldo.total).find.is(0), but actually found -11355846
+REQUEST		validações	1709487339883	1709487339925	KO	jmesPath(saldo.total).find.is(0), but actually found -9154200
+REQUEST		validações	1709487339886	1709487339926	KO	jmesPath(saldo.total).find.is(0), but actually found -11517455
+REQUEST		validações	1709487339889	1709487339958	KO	jmesPath(saldo.total).find.is(0), but actually found -13685003
+REQUEST		validações	1709487339921	1709487339982	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709487339921	1709487340001	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709487340006	1709487340023	KO	status.find.in(200), but actually found 422
+REQUEST		validações	1709487339991	1709487340019	KO	status.find.in(200), but actually found 422
+REQUEST		validações	1709487339929	1709487340055	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709487339962	1709487340062	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709487339930	1709487340064	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709487340057	1709487340089	KO	status.find.in(200), but actually found 422
+REQUEST		validações	1709487340034	1709487340056	KO	jmesPath(ultimas_transacoes[0].descricao).find.is(devolve), but actually found toma
+REQUEST		validações	1709487340034	1709487340061	KO	jmesPath(ultimas_transacoes[0].descricao).find.is(devolve), but actually found toma
+REQUEST		validações	1709487340082	1709487340112	KO	status.find.in(200), but actually found 422
+REQUEST		validações	1709487340091	1709487340116	KO	jmesPath(ultimas_transacoes[0].descricao).find.is(devolve), but actually found toma
+REQUEST		validações	1709487340065	1709487340189	KO	status.find.in(200), but actually found 422
+REQUEST		validações	1709487340117	1709487340171	KO	jmesPath(ultimas_transacoes[0].descricao).find.is(devolve), but actually found toma
+REQUEST		validações	1709487340096	1709487340216	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709487340191	1709487340219	KO	jmesPath(ultimas_transacoes[0].descricao).find.is(devolve), but actually found toma
+REQUEST		validações	1709487340099	1709487340243	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709487340221	1709487340246	OK	 
+REQUEST		validações	1709487340130	1709487340244	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709487340246	1709487340254	OK	 
+REQUEST		validações	1709487340247	1709487340265	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340248	1709487340267	OK	 
+REQUEST		validações	1709487340258	1709487340273	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340196	1709487340273	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709487340227	1709487340295	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709487340268	1709487340305	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340281	1709487340316	OK	 
+REQUEST		validações	1709487340299	1709487340322	OK	 
+REQUEST		validações	1709487340275	1709487340330	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340319	1709487340332	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340323	1709487340344	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340267	1709487340348	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340306	1709487340356	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340336	1709487340378	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340334	1709487340390	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340345	1709487340407	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340357	1709487340428	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340357	1709487340470	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340380	1709487340471	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340392	1709487340522	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709487340526
+REQUEST		validações	1709487340409	1709487340557	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709487340472	1709487340594	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709487340596
+REQUEST		validações	1709487340472	1709487340597	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709487340598
+REQUEST		validações	1709487340432	1709487340600	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709487340602
+REQUEST		validações	1709487340558	1709487340614	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709487340616
+USER	extratos	START	1709487340938
+USER	créditos	START	1709487340951
+USER	débitos	START	1709487340951
+REQUEST		extratos	1709487340937	1709487340970	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487340985
+REQUEST		débitos	1709487340949	1709487340990	OK	 
+USER	débitos	END	1709487340999
+REQUEST		créditos	1709487340949	1709487341004	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487341013
+USER	extratos	START	1709487341880
+USER	créditos	START	1709487341880
+REQUEST		extratos	1709487341879	1709487341888	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487341890
+USER	débitos	START	1709487341898
+REQUEST		créditos	1709487341879	1709487341906	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487341913
+REQUEST		débitos	1709487341897	1709487341914	OK	 
+USER	débitos	END	1709487341916
+USER	débitos	START	1709487342129
+REQUEST		débitos	1709487342126	1709487342135	OK	 
+USER	débitos	END	1709487342136
+USER	débitos	START	1709487342376
+USER	créditos	START	1709487342376
+REQUEST		débitos	1709487342376	1709487342385	OK	 
+USER	débitos	END	1709487342387
+REQUEST		créditos	1709487342376	1709487342419	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487342421
+USER	débitos	START	1709487342651
+REQUEST		débitos	1709487342647	1709487342680	OK	 
+USER	débitos	END	1709487342682
+USER	débitos	START	1709487342889
+USER	extratos	START	1709487342898
+USER	créditos	START	1709487342907
+REQUEST		débitos	1709487342887	1709487342935	OK	 
+USER	débitos	END	1709487342936
+REQUEST		extratos	1709487342896	1709487342943	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487342946
+REQUEST		créditos	1709487342905	1709487343018	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487343021
+USER	débitos	START	1709487343064
+REQUEST		débitos	1709487343063	1709487343085	OK	 
+USER	débitos	END	1709487343103
+USER	créditos	START	1709487343136
+REQUEST		créditos	1709487343134	1709487343216	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487343221
+USER	débitos	START	1709487343230
+REQUEST		débitos	1709487343215	1709487343240	OK	 
+USER	débitos	END	1709487343243
+USER	créditos	START	1709487343385
+USER	débitos	START	1709487343385
+REQUEST		débitos	1709487343384	1709487343392	OK	 
+USER	débitos	END	1709487343394
+REQUEST		créditos	1709487343384	1709487343404	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487343406
+USER	débitos	START	1709487343556
+REQUEST		débitos	1709487343556	1709487343562	OK	 
+USER	débitos	END	1709487343565
+USER	créditos	START	1709487343634
+REQUEST		créditos	1709487343633	1709487343651	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487343653
+USER	débitos	START	1709487343712
+REQUEST		débitos	1709487343712	1709487343717	OK	 
+USER	débitos	END	1709487343718
+USER	débitos	START	1709487343883
+USER	extratos	START	1709487343883
+USER	créditos	START	1709487343883
+REQUEST		extratos	1709487343882	1709487343894	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+REQUEST		débitos	1709487343882	1709487343895	OK	 
+USER	extratos	END	1709487343899
+USER	débitos	END	1709487343899
+REQUEST		créditos	1709487343883	1709487343913	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487343917
+USER	débitos	START	1709487344025
+REQUEST		débitos	1709487344024	1709487344041	OK	 
+USER	débitos	END	1709487344050
+USER	créditos	START	1709487344135
+REQUEST		créditos	1709487344134	1709487344153	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487344155
+USER	débitos	START	1709487344171
+REQUEST		débitos	1709487344167	1709487344181	OK	 
+USER	débitos	END	1709487344184
+USER	débitos	START	1709487344306
+REQUEST		débitos	1709487344305	1709487344316	OK	 
+USER	débitos	END	1709487344318
+USER	créditos	START	1709487344383
+REQUEST		créditos	1709487344383	1709487344421	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487344422
+USER	débitos	START	1709487344447
+REQUEST		débitos	1709487344446	1709487344452	OK	 
+USER	débitos	END	1709487344453
+USER	débitos	START	1709487344604
+REQUEST		débitos	1709487344603	1709487344613	OK	 
+USER	débitos	END	1709487344624
+USER	créditos	START	1709487344633
+REQUEST		créditos	1709487344632	1709487344684	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487344693
+USER	débitos	START	1709487344746
+REQUEST		débitos	1709487344743	1709487344773	OK	 
+USER	débitos	END	1709487344780
+USER	créditos	START	1709487344886
+USER	extratos	START	1709487344886
+USER	débitos	START	1709487344886
+REQUEST		extratos	1709487344884	1709487344906	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+REQUEST		débitos	1709487344885	1709487344911	OK	 
+USER	débitos	END	1709487344921
+USER	extratos	END	1709487344921
+REQUEST		créditos	1709487344884	1709487344942	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487344954
+USER	débitos	START	1709487344986
+REQUEST		débitos	1709487344986	1709487344994	OK	 
+USER	débitos	END	1709487344995
+USER	créditos	START	1709487345084
+REQUEST		créditos	1709487345080	1709487345101	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487345106
+USER	débitos	START	1709487345116
+REQUEST		débitos	1709487345112	1709487345123	OK	 
+USER	débitos	END	1709487345124
+USER	débitos	START	1709487345220
+REQUEST		débitos	1709487345219	1709487345224	OK	 
+USER	débitos	END	1709487345225
+USER	créditos	START	1709487345284
+REQUEST		créditos	1709487345281	1709487345300	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487345301
+USER	débitos	START	1709487345327
+REQUEST		débitos	1709487345326	1709487345334	OK	 
+USER	débitos	END	1709487345335
+USER	débitos	START	1709487345435
+REQUEST		débitos	1709487345435	1709487345439	OK	 
+USER	débitos	END	1709487345441
+USER	créditos	START	1709487345482
+REQUEST		créditos	1709487345482	1709487345498	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487345504
+USER	débitos	START	1709487345560
+REQUEST		débitos	1709487345559	1709487345568	OK	 
+USER	débitos	END	1709487345570
+USER	débitos	START	1709487345671
+REQUEST		débitos	1709487345669	1709487345675	OK	 
+USER	débitos	END	1709487345676
+USER	créditos	START	1709487345686
+REQUEST		créditos	1709487345685	1709487345703	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487345705
+USER	débitos	START	1709487345777
+REQUEST		débitos	1709487345776	1709487345786	OK	 
+USER	débitos	END	1709487345787
+USER	débitos	START	1709487345886
+USER	créditos	START	1709487345886
+USER	extratos	START	1709487345886
+REQUEST		débitos	1709487345885	1709487345894	OK	 
+USER	débitos	END	1709487345896
+REQUEST		extratos	1709487345885	1709487345901	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487345903
+REQUEST		créditos	1709487345885	1709487345937	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487345939
+USER	débitos	START	1709487345978
+REQUEST		débitos	1709487345978	1709487345987	OK	 
+USER	débitos	END	1709487345988
+USER	créditos	START	1709487346055
+USER	débitos	START	1709487346071
+REQUEST		créditos	1709487346054	1709487346075	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487346077
+REQUEST		débitos	1709487346070	1709487346091	OK	 
+USER	débitos	END	1709487346093
+USER	débitos	START	1709487346148
+REQUEST		débitos	1709487346147	1709487346155	OK	 
+USER	débitos	END	1709487346156
+USER	créditos	START	1709487346211
+REQUEST		créditos	1709487346210	1709487346226	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487346228
+USER	débitos	START	1709487346243
+REQUEST		débitos	1709487346241	1709487346250	OK	 
+USER	débitos	END	1709487346251
+USER	débitos	START	1709487346336
+REQUEST		débitos	1709487346335	1709487346344	OK	 
+USER	débitos	END	1709487346345
+USER	extratos	START	1709487346382
+USER	créditos	START	1709487346382
+REQUEST		extratos	1709487346381	1709487346393	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487346397
+REQUEST		créditos	1709487346382	1709487346410	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487346413
+USER	débitos	START	1709487346428
+REQUEST		débitos	1709487346427	1709487346434	OK	 
+USER	débitos	END	1709487346435
+USER	débitos	START	1709487346522
+REQUEST		débitos	1709487346521	1709487346527	OK	 
+USER	débitos	END	1709487346528
+USER	créditos	START	1709487346554
+REQUEST		créditos	1709487346553	1709487346573	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487346575
+USER	débitos	START	1709487346616
+REQUEST		débitos	1709487346615	1709487346620	OK	 
+USER	débitos	END	1709487346621
+USER	créditos	START	1709487346708
+USER	débitos	START	1709487346708
+REQUEST		débitos	1709487346708	1709487346714	OK	 
+USER	débitos	END	1709487346716
+REQUEST		créditos	1709487346708	1709487346722	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487346726
+USER	débitos	START	1709487346786
+REQUEST		débitos	1709487346785	1709487346793	OK	 
+USER	débitos	END	1709487346794
+USER	extratos	START	1709487346880
+USER	créditos	START	1709487346880
+USER	débitos	START	1709487346881
+REQUEST		débitos	1709487346879	1709487346895	OK	 
+USER	débitos	END	1709487346897
+REQUEST		extratos	1709487346879	1709487346903	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487346905
+REQUEST		créditos	1709487346879	1709487346923	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487346926
+USER	débitos	START	1709487346957
+REQUEST		débitos	1709487346956	1709487346967	OK	 
+USER	débitos	END	1709487346969
+USER	créditos	START	1709487347020
+REQUEST		créditos	1709487347019	1709487347032	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487347036
+USER	débitos	START	1709487347038
+REQUEST		débitos	1709487347037	1709487347044	OK	 
+USER	débitos	END	1709487347045
+USER	débitos	START	1709487347113
+REQUEST		débitos	1709487347113	1709487347121	OK	 
+USER	débitos	END	1709487347123
+USER	créditos	START	1709487347161
+REQUEST		créditos	1709487347160	1709487347176	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487347179
+USER	débitos	START	1709487347191
+REQUEST		débitos	1709487347190	1709487347204	OK	 
+USER	débitos	END	1709487347207
+USER	débitos	START	1709487347269
+REQUEST		débitos	1709487347268	1709487347276	OK	 
+USER	débitos	END	1709487347279
+USER	créditos	START	1709487347316
+REQUEST		créditos	1709487347315	1709487347327	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487347329
+USER	débitos	START	1709487347348
+REQUEST		débitos	1709487347347	1709487347356	OK	 
+USER	débitos	END	1709487347357
+USER	débitos	START	1709487347424
+REQUEST		débitos	1709487347423	1709487347429	OK	 
+USER	débitos	END	1709487347430
+USER	créditos	START	1709487347457
+REQUEST		créditos	1709487347456	1709487347471	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487347473
+USER	débitos	START	1709487347503
+REQUEST		débitos	1709487347502	1709487347509	OK	 
+USER	débitos	END	1709487347510
+USER	débitos	START	1709487347580
+REQUEST		débitos	1709487347579	1709487347585	OK	 
+USER	débitos	END	1709487347586
+USER	créditos	START	1709487347598
+REQUEST		créditos	1709487347595	1709487347613	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487347614
+USER	débitos	START	1709487347662
+REQUEST		débitos	1709487347661	1709487347671	OK	 
+USER	débitos	END	1709487347672
+USER	débitos	START	1709487347721
+REQUEST		débitos	1709487347721	1709487347726	OK	 
+USER	débitos	END	1709487347727
+USER	créditos	START	1709487347738
+REQUEST		créditos	1709487347737	1709487347750	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487347752
+USER	débitos	START	1709487347799
+REQUEST		débitos	1709487347798	1709487347804	OK	 
+USER	débitos	END	1709487347805
+USER	extratos	START	1709487347876
+USER	créditos	START	1709487347876
+USER	débitos	START	1709487347876
+REQUEST		débitos	1709487347875	1709487347883	OK	 
+USER	débitos	END	1709487347885
+REQUEST		extratos	1709487347875	1709487347885	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487347887
+REQUEST		créditos	1709487347875	1709487347898	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487347903
+USER	débitos	START	1709487347953
+REQUEST		débitos	1709487347953	1709487347962	OK	 
+USER	débitos	END	1709487347964
+USER	créditos	START	1709487348000
+USER	débitos	START	1709487348016
+REQUEST		créditos	1709487347999	1709487348015	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348018
+REQUEST		débitos	1709487348015	1709487348024	OK	 
+USER	débitos	END	1709487348026
+USER	débitos	START	1709487348076
+REQUEST		débitos	1709487348075	1709487348082	OK	 
+USER	débitos	END	1709487348083
+USER	créditos	START	1709487348140
+USER	débitos	START	1709487348158
+REQUEST		créditos	1709487348139	1709487348158	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348160
+REQUEST		débitos	1709487348157	1709487348172	OK	 
+USER	débitos	END	1709487348174
+USER	débitos	START	1709487348218
+REQUEST		débitos	1709487348217	1709487348226	OK	 
+USER	débitos	END	1709487348227
+USER	créditos	START	1709487348265
+USER	débitos	START	1709487348279
+REQUEST		créditos	1709487348264	1709487348280	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348282
+REQUEST		débitos	1709487348279	1709487348290	OK	 
+USER	débitos	END	1709487348296
+USER	débitos	START	1709487348341
+REQUEST		débitos	1709487348340	1709487348348	OK	 
+USER	débitos	END	1709487348350
+USER	créditos	START	1709487348387
+USER	extratos	START	1709487348387
+REQUEST		extratos	1709487348387	1709487348394	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487348395
+REQUEST		créditos	1709487348387	1709487348402	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348403
+USER	débitos	START	1709487348420
+REQUEST		débitos	1709487348417	1709487348428	OK	 
+USER	débitos	END	1709487348429
+USER	débitos	START	1709487348481
+REQUEST		débitos	1709487348481	1709487348489	OK	 
+USER	débitos	END	1709487348490
+USER	créditos	START	1709487348514
+REQUEST		créditos	1709487348513	1709487348536	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348539
+USER	débitos	START	1709487348549
+REQUEST		débitos	1709487348548	1709487348566	OK	 
+USER	débitos	END	1709487348568
+USER	débitos	START	1709487348625
+REQUEST		débitos	1709487348623	1709487348631	OK	 
+USER	débitos	END	1709487348632
+USER	créditos	START	1709487348636
+REQUEST		créditos	1709487348634	1709487348655	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348657
+USER	débitos	START	1709487348680
+REQUEST		débitos	1709487348679	1709487348686	OK	 
+USER	débitos	END	1709487348687
+USER	débitos	START	1709487348741
+REQUEST		débitos	1709487348740	1709487348747	OK	 
+USER	débitos	END	1709487348749
+USER	créditos	START	1709487348761
+REQUEST		créditos	1709487348759	1709487348784	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348788
+USER	débitos	START	1709487348821
+REQUEST		débitos	1709487348820	1709487348827	OK	 
+USER	débitos	END	1709487348829
+USER	créditos	START	1709487348882
+USER	extratos	START	1709487348882
+USER	débitos	START	1709487348886
+REQUEST		extratos	1709487348882	1709487348895	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487348898
+REQUEST		débitos	1709487348883	1709487348905	OK	 
+USER	débitos	END	1709487348906
+REQUEST		créditos	1709487348882	1709487348910	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487348912
+USER	débitos	START	1709487348945
+REQUEST		débitos	1709487348944	1709487348951	OK	 
+USER	débitos	END	1709487348953
+USER	créditos	START	1709487349006
+USER	débitos	START	1709487349006
+REQUEST		débitos	1709487349006	1709487349017	OK	 
+USER	débitos	END	1709487349023
+REQUEST		créditos	1709487349006	1709487349030	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349032
+USER	débitos	START	1709487349067
+REQUEST		débitos	1709487349067	1709487349075	OK	 
+USER	débitos	END	1709487349076
+USER	créditos	START	1709487349131
+USER	débitos	START	1709487349131
+REQUEST		débitos	1709487349130	1709487349140	OK	 
+USER	débitos	END	1709487349142
+REQUEST		créditos	1709487349130	1709487349170	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349172
+USER	débitos	START	1709487349194
+REQUEST		débitos	1709487349193	1709487349206	OK	 
+USER	débitos	END	1709487349207
+USER	créditos	START	1709487349256
+USER	débitos	START	1709487349260
+REQUEST		débitos	1709487349256	1709487349275	OK	 
+USER	débitos	END	1709487349276
+REQUEST		créditos	1709487349254	1709487349293	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349295
+USER	débitos	START	1709487349320
+REQUEST		débitos	1709487349317	1709487349331	OK	 
+USER	débitos	END	1709487349333
+USER	créditos	START	1709487349380
+USER	extratos	START	1709487349382
+USER	débitos	START	1709487349387
+REQUEST		extratos	1709487349381	1709487349392	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487349395
+REQUEST		débitos	1709487349385	1709487349400	OK	 
+USER	débitos	END	1709487349403
+REQUEST		créditos	1709487349379	1709487349406	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349411
+USER	débitos	START	1709487349442
+REQUEST		débitos	1709487349441	1709487349449	OK	 
+USER	débitos	END	1709487349450
+USER	débitos	START	1709487349506
+USER	créditos	START	1709487349508
+REQUEST		débitos	1709487349505	1709487349514	OK	 
+USER	débitos	END	1709487349517
+REQUEST		créditos	1709487349506	1709487349532	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349535
+USER	débitos	START	1709487349567
+REQUEST		débitos	1709487349566	1709487349577	OK	 
+USER	débitos	END	1709487349578
+USER	créditos	START	1709487349629
+USER	débitos	START	1709487349629
+REQUEST		débitos	1709487349627	1709487349653	OK	 
+USER	débitos	END	1709487349654
+REQUEST		créditos	1709487349628	1709487349664	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349668
+USER	débitos	START	1709487349691
+REQUEST		débitos	1709487349690	1709487349700	OK	 
+USER	débitos	END	1709487349704
+USER	créditos	START	1709487349757
+USER	débitos	START	1709487349759
+REQUEST		débitos	1709487349758	1709487349772	OK	 
+USER	débitos	END	1709487349774
+REQUEST		créditos	1709487349753	1709487349779	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349781
+USER	débitos	START	1709487349817
+REQUEST		débitos	1709487349816	1709487349831	OK	 
+USER	débitos	END	1709487349832
+USER	extratos	START	1709487349879
+USER	débitos	START	1709487349879
+USER	créditos	START	1709487349886
+REQUEST		débitos	1709487349878	1709487349892	OK	 
+USER	débitos	END	1709487349896
+REQUEST		extratos	1709487349878	1709487349905	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487349908
+REQUEST		créditos	1709487349879	1709487349930	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487349933
+USER	débitos	START	1709487349940
+REQUEST		débitos	1709487349939	1709487349953	OK	 
+USER	débitos	END	1709487349955
+USER	créditos	START	1709487349988
+USER	débitos	START	1709487349988
+REQUEST		débitos	1709487349987	1709487350000	OK	 
+USER	débitos	END	1709487350002
+REQUEST		créditos	1709487349987	1709487350008	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350010
+USER	débitos	START	1709487350047
+REQUEST		débitos	1709487350046	1709487350055	OK	 
+USER	débitos	END	1709487350057
+USER	créditos	START	1709487350077
+USER	débitos	START	1709487350093
+REQUEST		créditos	1709487350076	1709487350096	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350099
+REQUEST		débitos	1709487350092	1709487350104	OK	 
+USER	débitos	END	1709487350105
+USER	débitos	START	1709487350140
+REQUEST		débitos	1709487350139	1709487350147	OK	 
+USER	débitos	END	1709487350148
+USER	créditos	START	1709487350189
+USER	débitos	START	1709487350193
+REQUEST		débitos	1709487350192	1709487350200	OK	 
+USER	débitos	END	1709487350202
+REQUEST		créditos	1709487350187	1709487350211	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350212
+USER	débitos	START	1709487350248
+REQUEST		débitos	1709487350247	1709487350256	OK	 
+USER	débitos	END	1709487350258
+USER	créditos	START	1709487350279
+REQUEST		créditos	1709487350278	1709487350299	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350300
+USER	débitos	START	1709487350316
+REQUEST		débitos	1709487350315	1709487350334	OK	 
+USER	débitos	END	1709487350338
+USER	débitos	START	1709487350357
+REQUEST		débitos	1709487350356	1709487350367	OK	 
+USER	débitos	END	1709487350368
+USER	créditos	START	1709487350392
+USER	débitos	START	1709487350408
+REQUEST		débitos	1709487350406	1709487350423	OK	 
+USER	débitos	END	1709487350425
+REQUEST		créditos	1709487350390	1709487350447	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350448
+USER	créditos	START	1709487350481
+USER	débitos	START	1709487350482
+REQUEST		débitos	1709487350477	1709487350502	OK	 
+USER	débitos	END	1709487350503
+USER	débitos	START	1709487350516
+REQUEST		créditos	1709487350480	1709487350542	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350544
+REQUEST		débitos	1709487350515	1709487350559	OK	 
+USER	débitos	END	1709487350560
+USER	débitos	START	1709487350565
+USER	créditos	START	1709487350592
+REQUEST		débitos	1709487350563	1709487350597	OK	 
+USER	débitos	END	1709487350598
+USER	débitos	START	1709487350626
+REQUEST		créditos	1709487350591	1709487350629	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350634
+REQUEST		débitos	1709487350624	1709487350659	OK	 
+USER	débitos	END	1709487350660
+USER	débitos	START	1709487350677
+USER	créditos	START	1709487350682
+REQUEST		débitos	1709487350676	1709487350703	OK	 
+USER	débitos	END	1709487350705
+USER	débitos	START	1709487350728
+REQUEST		débitos	1709487350727	1709487350744	OK	 
+USER	débitos	END	1709487350745
+REQUEST		créditos	1709487350681	1709487350758	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350760
+USER	débitos	START	1709487350778
+USER	créditos	START	1709487350792
+REQUEST		débitos	1709487350777	1709487350796	OK	 
+USER	débitos	END	1709487350797
+REQUEST		créditos	1709487350791	1709487350820	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350822
+USER	débitos	START	1709487350835
+REQUEST		débitos	1709487350832	1709487350847	OK	 
+USER	débitos	END	1709487350848
+USER	débitos	START	1709487350876
+USER	créditos	START	1709487350876
+USER	extratos	START	1709487350880
+REQUEST		débitos	1709487350875	1709487350929	OK	 
+REQUEST		extratos	1709487350879	1709487350930	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	débitos	START	1709487350932
+USER	débitos	END	1709487350934
+USER	extratos	END	1709487350934
+REQUEST		débitos	1709487350931	1709487350940	OK	 
+USER	débitos	END	1709487350944
+USER	débitos	START	1709487350980
+USER	créditos	START	1709487350980
+REQUEST		créditos	1709487350875	1709487350988	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487350993
+REQUEST		débitos	1709487350979	1709487350998	OK	 
+USER	débitos	END	1709487351001
+REQUEST		créditos	1709487350979	1709487351018	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351020
+USER	débitos	START	1709487351037
+REQUEST		débitos	1709487351036	1709487351056	OK	 
+USER	débitos	END	1709487351057
+USER	créditos	START	1709487351082
+USER	débitos	START	1709487351082
+REQUEST		débitos	1709487351081	1709487351111	OK	 
+USER	débitos	END	1709487351113
+USER	débitos	START	1709487351130
+REQUEST		créditos	1709487351081	1709487351151	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351163
+REQUEST		débitos	1709487351129	1709487351175	OK	 
+USER	débitos	END	1709487351176
+USER	créditos	START	1709487351185
+USER	débitos	START	1709487351185
+REQUEST		débitos	1709487351184	1709487351203	OK	 
+USER	débitos	END	1709487351204
+REQUEST		créditos	1709487351184	1709487351215	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351217
+USER	débitos	START	1709487351233
+REQUEST		débitos	1709487351232	1709487351263	OK	 
+USER	débitos	END	1709487351264
+USER	débitos	START	1709487351279
+USER	créditos	START	1709487351284
+REQUEST		débitos	1709487351277	1709487351303	OK	 
+USER	débitos	END	1709487351306
+REQUEST		créditos	1709487351283	1709487351331	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351332
+USER	débitos	START	1709487351343
+REQUEST		débitos	1709487351342	1709487351357	OK	 
+USER	débitos	END	1709487351361
+USER	créditos	START	1709487351378
+USER	débitos	START	1709487351378
+USER	extratos	START	1709487351391
+REQUEST		débitos	1709487351377	1709487351411	OK	 
+USER	débitos	END	1709487351414
+REQUEST		créditos	1709487351377	1709487351418	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351423
+REQUEST		extratos	1709487351390	1709487351434	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487351436
+USER	débitos	START	1709487351435
+REQUEST		débitos	1709487351433	1709487351444	OK	 
+USER	débitos	END	1709487351445
+USER	débitos	START	1709487351483
+USER	créditos	START	1709487351483
+REQUEST		débitos	1709487351483	1709487351499	OK	 
+USER	débitos	END	1709487351500
+REQUEST		créditos	1709487351483	1709487351509	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351511
+USER	créditos	START	1709487351606
+USER	débitos	START	1709487351610
+USER	débitos	START	1709487351618
+REQUEST		débitos	1709487351603	1709487351624	OK	 
+USER	débitos	END	1709487351627
+REQUEST		débitos	1709487351609	1709487351631	OK	 
+USER	débitos	END	1709487351632
+REQUEST		créditos	1709487351602	1709487351635	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351637
+USER	débitos	START	1709487351637
+REQUEST		débitos	1709487351635	1709487351683	OK	 
+USER	débitos	END	1709487351684
+USER	débitos	START	1709487351699
+USER	créditos	START	1709487351699
+REQUEST		débitos	1709487351698	1709487351714	OK	 
+USER	débitos	END	1709487351715
+REQUEST		créditos	1709487351698	1709487351722	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351723
+USER	débitos	START	1709487351741
+REQUEST		débitos	1709487351741	1709487351746	OK	 
+USER	débitos	END	1709487351747
+USER	créditos	START	1709487351780
+USER	débitos	START	1709487351780
+REQUEST		débitos	1709487351779	1709487351786	OK	 
+USER	débitos	END	1709487351788
+REQUEST		créditos	1709487351779	1709487351793	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351795
+USER	débitos	START	1709487351860
+REQUEST		débitos	1709487351859	1709487351877	OK	 
+USER	débitos	END	1709487351881
+USER	créditos	START	1709487351894
+USER	débitos	START	1709487351894
+USER	extratos	START	1709487351895
+REQUEST		débitos	1709487351893	1709487351923	OK	 
+USER	débitos	END	1709487351925
+USER	débitos	START	1709487351930
+REQUEST		extratos	1709487351894	1709487351931	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487351936
+REQUEST		débitos	1709487351929	1709487351943	OK	 
+USER	débitos	END	1709487351944
+REQUEST		créditos	1709487351893	1709487351949	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351951
+USER	débitos	START	1709487351970
+USER	créditos	START	1709487351970
+REQUEST		débitos	1709487351969	1709487351981	OK	 
+USER	débitos	END	1709487351982
+REQUEST		créditos	1709487351969	1709487351988	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487351991
+USER	débitos	START	1709487352022
+REQUEST		débitos	1709487352022	1709487352031	OK	 
+USER	débitos	END	1709487352032
+USER	créditos	START	1709487352051
+USER	débitos	START	1709487352069
+REQUEST		créditos	1709487352050	1709487352093	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352094
+REQUEST		débitos	1709487352068	1709487352096	OK	 
+USER	débitos	END	1709487352097
+USER	débitos	START	1709487352122
+REQUEST		débitos	1709487352122	1709487352134	OK	 
+USER	débitos	END	1709487352135
+USER	débitos	START	1709487352153
+USER	créditos	START	1709487352153
+REQUEST		débitos	1709487352152	1709487352175	OK	 
+USER	débitos	END	1709487352176
+REQUEST		créditos	1709487352152	1709487352186	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352191
+USER	débitos	START	1709487352208
+USER	créditos	START	1709487352223
+REQUEST		débitos	1709487352206	1709487352248	OK	 
+USER	débitos	END	1709487352258
+USER	débitos	START	1709487352270
+REQUEST		débitos	1709487352267	1709487352286	OK	 
+USER	débitos	END	1709487352289
+USER	créditos	START	1709487352299
+USER	débitos	START	1709487352301
+REQUEST		créditos	1709487352222	1709487352304	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352307
+USER	débitos	START	1709487352341
+REQUEST		débitos	1709487352300	1709487352346	OK	 
+USER	débitos	END	1709487352347
+REQUEST		créditos	1709487352298	1709487352354	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352357
+REQUEST		débitos	1709487352340	1709487352359	OK	 
+USER	débitos	END	1709487352360
+USER	extratos	START	1709487352386
+USER	créditos	START	1709487352396
+USER	débitos	START	1709487352398
+REQUEST		extratos	1709487352385	1709487352400	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487352402
+USER	débitos	START	1709487352434
+REQUEST		débitos	1709487352397	1709487352458	OK	 
+USER	débitos	END	1709487352460
+USER	créditos	START	1709487352478
+REQUEST		créditos	1709487352396	1709487352480	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	START	1709487352482
+USER	créditos	END	1709487352485
+REQUEST		débitos	1709487352430	1709487352490	OK	 
+USER	débitos	END	1709487352491
+REQUEST		débitos	1709487352481	1709487352506	OK	 
+USER	débitos	END	1709487352508
+USER	débitos	START	1709487352537
+USER	créditos	START	1709487352551
+USER	débitos	START	1709487352568
+REQUEST		créditos	1709487352476	1709487352576	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352577
+REQUEST		débitos	1709487352535	1709487352585	OK	 
+USER	débitos	END	1709487352588
+REQUEST		débitos	1709487352566	1709487352588	OK	 
+USER	débitos	END	1709487352588
+USER	débitos	START	1709487352611
+REQUEST		créditos	1709487352550	1709487352614	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352618
+USER	créditos	START	1709487352646
+REQUEST		débitos	1709487352610	1709487352646	OK	 
+USER	débitos	END	1709487352647
+USER	débitos	START	1709487352660
+REQUEST		débitos	1709487352659	1709487352678	OK	 
+USER	débitos	END	1709487352680
+REQUEST		créditos	1709487352644	1709487352693	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352695
+USER	débitos	START	1709487352710
+USER	créditos	START	1709487352715
+REQUEST		débitos	1709487352709	1709487352762	OK	 
+USER	débitos	END	1709487352764
+USER	débitos	START	1709487352771
+REQUEST		créditos	1709487352715	1709487352778	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487352781
+REQUEST		débitos	1709487352770	1709487352783	OK	 
+USER	débitos	END	1709487352785
+USER	débitos	START	1709487352792
+USER	créditos	START	1709487352809
+USER	débitos	START	1709487352845
+REQUEST		débitos	1709487352791	1709487352857	OK	 
+USER	débitos	END	1709487352861
+USER	créditos	START	1709487352876
+USER	extratos	START	1709487352877
+USER	débitos	START	1709487352877
+REQUEST		débitos	1709487352845	1709487352918	OK	 
+USER	débitos	END	1709487352919
+USER	débitos	START	1709487352924
+REQUEST		extratos	1709487352874	1709487352929	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+REQUEST		débitos	1709487352876	1709487352931	OK	 
+USER	extratos	END	1709487352932
+USER	débitos	END	1709487352932
+REQUEST		débitos	1709487352921	1709487352949	OK	 
+USER	débitos	END	1709487352950
+USER	débitos	START	1709487352971
+USER	créditos	START	1709487352971
+USER	débitos	START	1709487353016
+REQUEST		débitos	1709487352970	1709487353030	OK	 
+USER	débitos	END	1709487353031
+REQUEST		créditos	1709487352808	1709487353041	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353046
+USER	débitos	START	1709487353048
+USER	créditos	START	1709487353048
+REQUEST		créditos	1709487352875	1709487353067	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353070
+USER	débitos	START	1709487353092
+REQUEST		créditos	1709487352970	1709487353094	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353096
+USER	débitos	START	1709487353143
+USER	créditos	START	1709487353145
+REQUEST		débitos	1709487353015	1709487353148	OK	 
+USER	débitos	END	1709487353150
+USER	débitos	START	1709487353175
+REQUEST		créditos	1709487353047	1709487353197	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353198
+REQUEST		débitos	1709487353047	1709487353216	OK	 
+USER	débitos	END	1709487353217
+USER	créditos	START	1709487353218
+USER	débitos	START	1709487353220
+REQUEST		débitos	1709487353091	1709487353251	OK	 
+USER	débitos	END	1709487353255
+USER	débitos	START	1709487353263
+USER	créditos	START	1709487353293
+USER	débitos	START	1709487353293
+REQUEST		créditos	1709487353144	1709487353306	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353308
+REQUEST		débitos	1709487353139	1709487353322	OK	 
+USER	débitos	END	1709487353323
+REQUEST		débitos	1709487353174	1709487353336	OK	 
+USER	débitos	END	1709487353337
+USER	débitos	START	1709487353338
+REQUEST		débitos	1709487353219	1709487353342	OK	 
+USER	débitos	END	1709487353342
+REQUEST		créditos	1709487353215	1709487353366	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353367
+USER	débitos	START	1709487353385
+USER	créditos	START	1709487353406
+USER	extratos	START	1709487353427
+USER	débitos	START	1709487353444
+USER	débitos	START	1709487353465
+USER	créditos	START	1709487353479
+REQUEST		créditos	1709487353292	1709487353499	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353501
+REQUEST		débitos	1709487353262	1709487353512	OK	 
+USER	débitos	END	1709487353514
+REQUEST		débitos	1709487353292	1709487353524	OK	 
+USER	débitos	END	1709487353526
+REQUEST		débitos	1709487353337	1709487353533	OK	 
+REQUEST		extratos	1709487353425	1709487353532	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+REQUEST		créditos	1709487353406	1709487353533	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	END	1709487353535
+USER	extratos	END	1709487353536
+USER	créditos	END	1709487353536
+REQUEST		débitos	1709487353384	1709487353544	OK	 
+USER	débitos	END	1709487353546
+REQUEST		débitos	1709487353443	1709487353545	OK	 
+USER	débitos	END	1709487353546
+REQUEST		débitos	1709487353463	1709487353547	OK	 
+USER	débitos	END	1709487353548
+USER	débitos	START	1709487353558
+REQUEST		créditos	1709487353478	1709487353560	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353562
+REQUEST		débitos	1709487353557	1709487353575	OK	 
+USER	débitos	END	1709487353576
+USER	créditos	START	1709487353583
+USER	débitos	START	1709487353585
+USER	débitos	START	1709487353610
+REQUEST		débitos	1709487353584	1709487353623	OK	 
+REQUEST		débitos	1709487353610	1709487353624	OK	 
+USER	créditos	START	1709487353627
+USER	débitos	END	1709487353628
+USER	débitos	END	1709487353628
+USER	débitos	START	1709487353631
+REQUEST		débitos	1709487353630	1709487353641	OK	 
+USER	débitos	END	1709487353648
+REQUEST		créditos	1709487353581	1709487353666	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353667
+REQUEST		créditos	1709487353626	1709487353683	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353685
+USER	débitos	START	1709487353699
+REQUEST		débitos	1709487353698	1709487353714	OK	 
+USER	débitos	END	1709487353716
+USER	créditos	START	1709487353722
+USER	débitos	START	1709487353722
+REQUEST		débitos	1709487353721	1709487353751	OK	 
+USER	débitos	END	1709487353752
+USER	débitos	START	1709487353753
+REQUEST		créditos	1709487353721	1709487353772	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353774
+REQUEST		débitos	1709487353752	1709487353780	OK	 
+USER	débitos	END	1709487353784
+USER	créditos	START	1709487353797
+USER	débitos	START	1709487353797
+REQUEST		débitos	1709487353796	1709487353814	OK	 
+USER	débitos	END	1709487353815
+REQUEST		créditos	1709487353796	1709487353823	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487353824
+USER	débitos	START	1709487353844
+REQUEST		débitos	1709487353843	1709487353861	OK	 
+USER	débitos	END	1709487353862
+USER	débitos	START	1709487353901
+USER	créditos	START	1709487353901
+USER	extratos	START	1709487353903
+USER	débitos	START	1709487353922
+USER	créditos	START	1709487353961
+REQUEST		débitos	1709487353900	1709487353961	OK	 
+USER	débitos	START	1709487353968
+USER	débitos	END	1709487353969
+REQUEST		extratos	1709487353903	1709487354001	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	débitos	START	1709487354002
+REQUEST		créditos	1709487353901	1709487354007	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	extratos	END	1709487354015
+USER	créditos	END	1709487354015
+USER	créditos	START	1709487354031
+USER	débitos	START	1709487354046
+REQUEST		débitos	1709487353921	1709487354055	OK	 
+USER	débitos	END	1709487354066
+REQUEST		débitos	1709487353967	1709487354066	OK	 
+USER	débitos	END	1709487354070
+USER	débitos	START	1709487354077
+REQUEST		débitos	1709487354001	1709487354082	OK	 
+USER	créditos	START	1709487354093
+REQUEST		débitos	1709487354045	1709487354099	OK	 
+USER	débitos	END	1709487354100
+USER	débitos	END	1709487354100
+REQUEST		débitos	1709487354076	1709487354104	OK	 
+USER	débitos	END	1709487354110
+USER	débitos	START	1709487354128
+REQUEST		créditos	1709487353953	1709487354168	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		débitos	1709487354127	1709487354170	OK	 
+USER	créditos	START	1709487354177
+USER	créditos	END	1709487354181
+USER	débitos	END	1709487354181
+USER	débitos	START	1709487354182
+USER	débitos	START	1709487354201
+REQUEST		créditos	1709487354030	1709487354222	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		créditos	1709487354092	1709487354227	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354231
+USER	créditos	END	1709487354231
+REQUEST		débitos	1709487354180	1709487354234	OK	 
+REQUEST		débitos	1709487354200	1709487354236	OK	 
+USER	créditos	START	1709487354237
+USER	débitos	END	1709487354242
+USER	débitos	END	1709487354242
+USER	débitos	START	1709487354247
+USER	débitos	START	1709487354277
+REQUEST		créditos	1709487354176	1709487354283	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354285
+REQUEST		débitos	1709487354246	1709487354298	OK	 
+REQUEST		débitos	1709487354276	1709487354301	OK	 
+USER	débitos	END	1709487354305
+USER	débitos	END	1709487354305
+USER	créditos	START	1709487354308
+USER	débitos	START	1709487354328
+USER	débitos	START	1709487354373
+USER	extratos	START	1709487354387
+USER	créditos	START	1709487354391
+USER	débitos	START	1709487354403
+REQUEST		créditos	1709487354233	1709487354413	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354414
+USER	créditos	START	1709487354448
+USER	débitos	START	1709487354452
+USER	débitos	START	1709487354482
+REQUEST		extratos	1709487354386	1709487354489	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+REQUEST		débitos	1709487354372	1709487354492	OK	 
+REQUEST		débitos	1709487354327	1709487354492	OK	 
+REQUEST		créditos	1709487354307	1709487354496	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	extratos	END	1709487354500
+USER	débitos	END	1709487354500
+USER	débitos	END	1709487354500
+USER	créditos	END	1709487354500
+REQUEST		débitos	1709487354402	1709487354506	OK	 
+USER	débitos	END	1709487354512
+REQUEST		débitos	1709487354451	1709487354513	OK	 
+USER	débitos	END	1709487354514
+USER	débitos	START	1709487354528
+USER	créditos	START	1709487354545
+REQUEST		débitos	1709487354481	1709487354559	OK	 
+USER	débitos	END	1709487354562
+USER	débitos	START	1709487354567
+REQUEST		créditos	1709487354390	1709487354597	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354598
+USER	créditos	START	1709487354607
+USER	débitos	START	1709487354612
+REQUEST		créditos	1709487354447	1709487354616	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354620
+USER	débitos	START	1709487354651
+USER	créditos	START	1709487354665
+REQUEST		débitos	1709487354526	1709487354667	OK	 
+USER	débitos	END	1709487354668
+USER	débitos	START	1709487354688
+REQUEST		créditos	1709487354538	1709487354689	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354691
+REQUEST		débitos	1709487354611	1709487354693	OK	 
+USER	débitos	END	1709487354695
+REQUEST		créditos	1709487354606	1709487354723	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354727
+USER	débitos	START	1709487354736
+REQUEST		débitos	1709487354565	1709487354741	OK	 
+USER	débitos	END	1709487354743
+USER	créditos	START	1709487354744
+REQUEST		créditos	1709487354665	1709487354754	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354756
+USER	débitos	START	1709487354759
+REQUEST		débitos	1709487354650	1709487354776	OK	 
+USER	débitos	END	1709487354778
+REQUEST		débitos	1709487354686	1709487354795	OK	 
+USER	débitos	END	1709487354797
+REQUEST		créditos	1709487354743	1709487354806	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354809
+REQUEST		débitos	1709487354735	1709487354813	OK	 
+USER	débitos	END	1709487354814
+USER	débitos	START	1709487354819
+USER	créditos	START	1709487354821
+REQUEST		débitos	1709487354758	1709487354845	OK	 
+USER	débitos	END	1709487354849
+USER	débitos	START	1709487354867
+USER	extratos	START	1709487354875
+REQUEST		créditos	1709487354820	1709487354874	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354875
+USER	débitos	START	1709487354892
+REQUEST		débitos	1709487354816	1709487354896	OK	 
+USER	créditos	START	1709487354897
+USER	débitos	END	1709487354898
+USER	débitos	START	1709487354921
+USER	débitos	START	1709487354945
+REQUEST		débitos	1709487354864	1709487354948	OK	 
+USER	débitos	END	1709487354948
+USER	créditos	START	1709487354950
+USER	débitos	START	1709487354984
+REQUEST		extratos	1709487354874	1709487354987	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487354988
+REQUEST		créditos	1709487354897	1709487354996	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487354997
+REQUEST		débitos	1709487354890	1709487355027	OK	 
+USER	créditos	START	1709487355030
+USER	débitos	END	1709487355032
+USER	débitos	START	1709487355033
+USER	débitos	START	1709487355063
+REQUEST		créditos	1709487354949	1709487355079	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355083
+USER	débitos	START	1709487355092
+USER	créditos	START	1709487355101
+USER	débitos	START	1709487355126
+USER	créditos	START	1709487355172
+USER	débitos	START	1709487355175
+REQUEST		créditos	1709487355029	1709487355198	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355200
+USER	débitos	START	1709487355202
+USER	débitos	START	1709487355231
+REQUEST		débitos	1709487354944	1709487355254	OK	 
+USER	débitos	END	1709487355255
+REQUEST		débitos	1709487354983	1709487355257	OK	 
+REQUEST		débitos	1709487355031	1709487355259	OK	 
+REQUEST		débitos	1709487355061	1709487355260	OK	 
+REQUEST		créditos	1709487355100	1709487355259	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	END	1709487355266
+USER	débitos	END	1709487355266
+USER	débitos	END	1709487355266
+USER	créditos	END	1709487355266
+REQUEST		débitos	1709487355125	1709487355269	OK	 
+REQUEST		créditos	1709487355170	1709487355268	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		débitos	1709487355091	1709487355271	OK	 
+REQUEST		débitos	1709487355230	1709487355276	OK	 
+USER	débitos	END	1709487355278
+USER	débitos	END	1709487355278
+USER	créditos	END	1709487355278
+USER	débitos	END	1709487355278
+USER	débitos	START	1709487355281
+USER	créditos	START	1709487355293
+REQUEST		débitos	1709487354920	1709487355295	OK	 
+USER	débitos	END	1709487355297
+USER	créditos	START	1709487355311
+USER	débitos	START	1709487355311
+REQUEST		débitos	1709487355279	1709487355335	OK	 
+USER	débitos	END	1709487355337
+USER	débitos	START	1709487355346
+REQUEST		débitos	1709487355310	1709487355358	OK	 
+USER	débitos	END	1709487355360
+REQUEST		créditos	1709487355252	1709487355362	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355364
+REQUEST		créditos	1709487355310	1709487355377	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355380
+USER	débitos	START	1709487355390
+REQUEST		débitos	1709487355343	1709487355393	OK	 
+USER	débitos	END	1709487355394
+REQUEST		débitos	1709487355173	1709487355396	OK	 
+REQUEST		débitos	1709487355201	1709487355396	OK	 
+USER	débitos	END	1709487355396
+USER	débitos	END	1709487355396
+REQUEST		débitos	1709487355389	1709487355414	OK	 
+USER	débitos	END	1709487355415
+USER	créditos	START	1709487355450
+USER	extratos	START	1709487355454
+REQUEST		extratos	1709487355453	1709487355475	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487355478
+USER	débitos	START	1709487355481
+REQUEST		débitos	1709487355471	1709487355492	OK	 
+USER	débitos	START	1709487355495
+REQUEST		débitos	1709487355494	1709487355503	OK	 
+USER	débitos	END	1709487355508
+USER	débitos	END	1709487355508
+USER	créditos	START	1709487355513
+USER	débitos	START	1709487355523
+USER	débitos	START	1709487355528
+USER	créditos	START	1709487355537
+USER	débitos	START	1709487355566
+REQUEST		créditos	1709487355484	1709487355569	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355572
+REQUEST		débitos	1709487355519	1709487355600	OK	 
+USER	débitos	START	1709487355604
+REQUEST		créditos	1709487355415	1709487355580	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	END	1709487355605
+USER	créditos	END	1709487355606
+REQUEST		créditos	1709487355535	1709487355611	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355613
+USER	créditos	START	1709487355625
+USER	débitos	START	1709487355632
+REQUEST		débitos	1709487355527	1709487355649	OK	 
+USER	débitos	END	1709487355650
+USER	créditos	START	1709487355664
+REQUEST		débitos	1709487355561	1709487355665	OK	 
+USER	débitos	END	1709487355666
+USER	débitos	START	1709487355685
+REQUEST		créditos	1709487355625	1709487355691	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355697
+REQUEST		débitos	1709487355602	1709487355708	OK	 
+USER	débitos	END	1709487355710
+USER	débitos	START	1709487355714
+REQUEST		débitos	1709487355632	1709487355720	OK	 
+USER	débitos	END	1709487355721
+REQUEST		créditos	1709487355663	1709487355723	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355724
+REQUEST		débitos	1709487355683	1709487355734	OK	 
+USER	débitos	END	1709487355734
+REQUEST		débitos	1709487355713	1709487355737	OK	 
+USER	débitos	END	1709487355739
+USER	créditos	START	1709487355744
+USER	débitos	START	1709487355750
+REQUEST		débitos	1709487355745	1709487355759	OK	 
+USER	débitos	END	1709487355763
+REQUEST		créditos	1709487355743	1709487355782	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355784
+USER	débitos	START	1709487355789
+REQUEST		débitos	1709487355788	1709487355801	OK	 
+USER	débitos	END	1709487355801
+USER	créditos	START	1709487355818
+USER	débitos	START	1709487355820
+REQUEST		débitos	1709487355820	1709487355837	OK	 
+USER	débitos	END	1709487355838
+USER	débitos	START	1709487355850
+REQUEST		débitos	1709487355849	1709487355859	OK	 
+USER	débitos	END	1709487355861
+REQUEST		créditos	1709487355818	1709487355866	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355870
+USER	créditos	START	1709487355880
+USER	extratos	START	1709487355887
+USER	débitos	START	1709487355889
+USER	débitos	START	1709487355911
+REQUEST		extratos	1709487355886	1709487355917	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487355927
+REQUEST		débitos	1709487355888	1709487355928	OK	 
+USER	débitos	END	1709487355929
+USER	débitos	START	1709487355964
+USER	créditos	START	1709487355968
+REQUEST		créditos	1709487355879	1709487355973	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487355974
+USER	débitos	START	1709487355990
+REQUEST		débitos	1709487355910	1709487355992	OK	 
+USER	débitos	END	1709487355992
+REQUEST		débitos	1709487355962	1709487356003	OK	 
+USER	débitos	END	1709487356004
+REQUEST		créditos	1709487355968	1709487356008	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356009
+REQUEST		débitos	1709487355989	1709487356013	OK	 
+USER	débitos	END	1709487356014
+USER	débitos	START	1709487356018
+USER	créditos	START	1709487356018
+REQUEST		débitos	1709487356017	1709487356033	OK	 
+USER	débitos	END	1709487356034
+REQUEST		créditos	1709487356017	1709487356046	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356048
+USER	débitos	START	1709487356049
+REQUEST		débitos	1709487356048	1709487356058	OK	 
+USER	débitos	END	1709487356059
+USER	créditos	START	1709487356080
+USER	débitos	START	1709487356096
+REQUEST		débitos	1709487356095	1709487356106	OK	 
+USER	débitos	END	1709487356107
+REQUEST		créditos	1709487356079	1709487356116	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356120
+USER	débitos	START	1709487356128
+REQUEST		débitos	1709487356125	1709487356139	OK	 
+USER	débitos	END	1709487356141
+USER	créditos	START	1709487356142
+USER	débitos	START	1709487356158
+REQUEST		créditos	1709487356141	1709487356170	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356171
+REQUEST		débitos	1709487356157	1709487356174	OK	 
+USER	débitos	END	1709487356175
+USER	débitos	START	1709487356184
+REQUEST		débitos	1709487356184	1709487356202	OK	 
+USER	débitos	END	1709487356203
+USER	créditos	START	1709487356217
+USER	débitos	START	1709487356218
+REQUEST		débitos	1709487356217	1709487356226	OK	 
+USER	débitos	END	1709487356228
+REQUEST		créditos	1709487356217	1709487356239	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356245
+USER	débitos	START	1709487356263
+REQUEST		débitos	1709487356262	1709487356269	OK	 
+USER	débitos	END	1709487356269
+USER	créditos	START	1709487356279
+REQUEST		créditos	1709487356278	1709487356293	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	START	1709487356295
+USER	créditos	END	1709487356295
+REQUEST		débitos	1709487356294	1709487356304	OK	 
+USER	débitos	END	1709487356305
+USER	débitos	START	1709487356325
+REQUEST		débitos	1709487356325	1709487356330	OK	 
+USER	débitos	END	1709487356331
+USER	créditos	START	1709487356358
+USER	débitos	START	1709487356372
+REQUEST		créditos	1709487356357	1709487356371	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356373
+REQUEST		débitos	1709487356371	1709487356382	OK	 
+USER	débitos	END	1709487356383
+USER	extratos	START	1709487356386
+USER	débitos	START	1709487356402
+REQUEST		extratos	1709487356385	1709487356409	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487356413
+USER	créditos	START	1709487356420
+REQUEST		débitos	1709487356401	1709487356421	OK	 
+USER	débitos	END	1709487356421
+USER	débitos	START	1709487356436
+REQUEST		créditos	1709487356419	1709487356456	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356458
+REQUEST		débitos	1709487356435	1709487356459	OK	 
+USER	débitos	END	1709487356460
+USER	débitos	START	1709487356465
+REQUEST		débitos	1709487356464	1709487356473	OK	 
+USER	débitos	END	1709487356474
+USER	créditos	START	1709487356481
+USER	débitos	START	1709487356510
+REQUEST		créditos	1709487356479	1709487356509	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356511
+REQUEST		débitos	1709487356509	1709487356522	OK	 
+USER	débitos	END	1709487356523
+USER	débitos	START	1709487356545
+USER	créditos	START	1709487356549
+REQUEST		débitos	1709487356544	1709487356558	OK	 
+USER	débitos	END	1709487356559
+USER	débitos	START	1709487356572
+REQUEST		créditos	1709487356548	1709487356578	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		débitos	1709487356571	1709487356582	OK	 
+USER	créditos	END	1709487356583
+USER	débitos	END	1709487356583
+USER	débitos	START	1709487356607
+REQUEST		débitos	1709487356606	1709487356615	OK	 
+USER	débitos	END	1709487356627
+USER	créditos	START	1709487356630
+USER	débitos	START	1709487356634
+REQUEST		débitos	1709487356633	1709487356661	OK	 
+USER	débitos	END	1709487356662
+USER	débitos	START	1709487356679
+USER	créditos	START	1709487356679
+REQUEST		débitos	1709487356679	1709487356689	OK	 
+USER	débitos	END	1709487356690
+REQUEST		créditos	1709487356629	1709487356695	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356697
+USER	débitos	START	1709487356710
+REQUEST		créditos	1709487356679	1709487356715	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356718
+REQUEST		débitos	1709487356709	1709487356735	OK	 
+USER	débitos	END	1709487356736
+USER	débitos	START	1709487356740
+REQUEST		débitos	1709487356739	1709487356751	OK	 
+USER	débitos	END	1709487356752
+USER	créditos	START	1709487356758
+USER	débitos	START	1709487356786
+REQUEST		créditos	1709487356757	1709487356797	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356800
+REQUEST		débitos	1709487356785	1709487356806	OK	 
+USER	débitos	END	1709487356807
+USER	débitos	START	1709487356817
+USER	créditos	START	1709487356819
+REQUEST		débitos	1709487356816	1709487356847	OK	 
+USER	débitos	END	1709487356849
+USER	débitos	START	1709487356853
+USER	débitos	START	1709487356878
+USER	extratos	START	1709487356878
+USER	créditos	START	1709487356883
+REQUEST		débitos	1709487356851	1709487356885	OK	 
+USER	débitos	END	1709487356886
+REQUEST		créditos	1709487356818	1709487356893	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356895
+REQUEST		débitos	1709487356877	1709487356898	OK	 
+USER	débitos	END	1709487356899
+REQUEST		extratos	1709487356878	1709487356901	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487356902
+USER	débitos	START	1709487356908
+REQUEST		débitos	1709487356907	1709487356936	OK	 
+USER	débitos	END	1709487356937
+USER	créditos	START	1709487356939
+USER	débitos	START	1709487356939
+REQUEST		créditos	1709487356876	1709487356958	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487356960
+REQUEST		débitos	1709487356938	1709487356978	OK	 
+USER	débitos	END	1709487356979
+USER	débitos	START	1709487356984
+REQUEST		créditos	1709487356938	1709487357001	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357004
+REQUEST		débitos	1709487356983	1709487357008	OK	 
+USER	débitos	END	1709487357010
+USER	débitos	START	1709487357015
+USER	créditos	START	1709487357017
+USER	débitos	START	1709487357047
+REQUEST		débitos	1709487357014	1709487357047	OK	 
+USER	débitos	END	1709487357048
+REQUEST		débitos	1709487357046	1709487357069	OK	 
+USER	débitos	END	1709487357070
+REQUEST		créditos	1709487357016	1709487357072	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357074
+USER	créditos	START	1709487357076
+USER	débitos	START	1709487357076
+REQUEST		débitos	1709487357076	1709487357093	OK	 
+USER	débitos	END	1709487357094
+REQUEST		créditos	1709487357075	1709487357101	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357102
+USER	débitos	START	1709487357107
+REQUEST		débitos	1709487357106	1709487357117	OK	 
+USER	débitos	END	1709487357117
+USER	débitos	START	1709487357138
+USER	créditos	START	1709487357143
+REQUEST		débitos	1709487357137	1709487357153	OK	 
+USER	débitos	END	1709487357153
+REQUEST		créditos	1709487357142	1709487357165	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357167
+USER	débitos	START	1709487357168
+REQUEST		débitos	1709487357167	1709487357176	OK	 
+USER	débitos	END	1709487357178
+USER	débitos	START	1709487357199
+USER	créditos	START	1709487357199
+REQUEST		débitos	1709487357198	1709487357210	OK	 
+USER	débitos	END	1709487357211
+REQUEST		créditos	1709487357198	1709487357223	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357225
+USER	débitos	START	1709487357231
+REQUEST		débitos	1709487357231	1709487357239	OK	 
+USER	débitos	END	1709487357240
+USER	créditos	START	1709487357260
+REQUEST		créditos	1709487357260	1709487357273	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357275
+USER	débitos	START	1709487357276
+REQUEST		débitos	1709487357275	1709487357284	OK	 
+USER	débitos	END	1709487357284
+USER	débitos	START	1709487357307
+REQUEST		débitos	1709487357306	1709487357315	OK	 
+USER	débitos	END	1709487357316
+USER	créditos	START	1709487357322
+REQUEST		créditos	1709487357321	1709487357336	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357338
+USER	débitos	START	1709487357338
+REQUEST		débitos	1709487357338	1709487357350	OK	 
+USER	débitos	END	1709487357351
+USER	débitos	START	1709487357372
+USER	extratos	START	1709487357374
+REQUEST		débitos	1709487357371	1709487357381	OK	 
+USER	débitos	END	1709487357382
+REQUEST		extratos	1709487357374	1709487357384	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487357386
+USER	créditos	START	1709487357389
+USER	débitos	START	1709487357404
+REQUEST		débitos	1709487357403	1709487357418	OK	 
+USER	débitos	END	1709487357418
+REQUEST		créditos	1709487357384	1709487357423	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357424
+USER	débitos	START	1709487357433
+REQUEST		débitos	1709487357432	1709487357443	OK	 
+USER	débitos	END	1709487357444
+USER	créditos	START	1709487357448
+USER	débitos	START	1709487357464
+REQUEST		créditos	1709487357447	1709487357470	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357472
+REQUEST		débitos	1709487357463	1709487357477	OK	 
+USER	débitos	END	1709487357479
+USER	débitos	START	1709487357494
+REQUEST		débitos	1709487357493	1709487357504	OK	 
+USER	débitos	END	1709487357505
+USER	créditos	START	1709487357517
+USER	débitos	START	1709487357527
+REQUEST		débitos	1709487357524	1709487357537	OK	 
+USER	débitos	END	1709487357538
+USER	débitos	START	1709487357558
+REQUEST		créditos	1709487357514	1709487357565	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357566
+REQUEST		débitos	1709487357557	1709487357571	OK	 
+USER	débitos	END	1709487357572
+USER	créditos	START	1709487357574
+USER	débitos	START	1709487357587
+REQUEST		créditos	1709487357573	1709487357595	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487357601
+REQUEST		débitos	1709487357586	1709487357604	OK	 
+USER	débitos	END	1709487357606
+USER	débitos	START	1709487357617
+REQUEST		débitos	1709487357616	1709487357623	OK	 
+USER	débitos	END	1709487357624
+USER	créditos	START	1709487357633
+USER	débitos	START	1709487357663
+REQUEST		débitos	1709487357663	1709487357669	OK	 
+USER	débitos	END	1709487357670
+USER	débitos	START	1709487357694
+USER	créditos	START	1709487357694
+REQUEST		débitos	1709487357694	1709487357701	OK	 
+USER	débitos	END	1709487357702
+USER	débitos	START	1709487357727
+REQUEST		débitos	1709487357726	1709487357735	OK	 
+USER	débitos	END	1709487357736
+USER	débitos	START	1709487357756
+USER	créditos	START	1709487357759
+REQUEST		débitos	1709487357755	1709487357773	OK	 
+USER	débitos	END	1709487357774
+USER	débitos	START	1709487357786
+REQUEST		débitos	1709487357786	1709487357791	OK	 
+USER	débitos	END	1709487357792
+USER	débitos	START	1709487357816
+USER	créditos	START	1709487357817
+REQUEST		débitos	1709487357815	1709487357835	OK	 
+USER	débitos	END	1709487357836
+USER	débitos	START	1709487357848
+REQUEST		débitos	1709487357847	1709487357856	OK	 
+USER	débitos	END	1709487357857
+USER	débitos	START	1709487357877
+USER	créditos	START	1709487357877
+USER	extratos	START	1709487357879
+REQUEST		débitos	1709487357877	1709487357905	OK	 
+USER	débitos	END	1709487357908
+USER	débitos	START	1709487357914
+REQUEST		extratos	1709487357878	1709487357934	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487357935
+USER	créditos	START	1709487357939
+USER	débitos	START	1709487357939
+REQUEST		débitos	1709487357909	1709487357966	OK	 
+REQUEST		débitos	1709487357938	1709487357966	OK	 
+USER	débitos	END	1709487357967
+USER	débitos	END	1709487357968
+USER	débitos	START	1709487357971
+REQUEST		débitos	1709487357970	1709487357986	OK	 
+USER	débitos	END	1709487357989
+USER	créditos	START	1709487358003
+USER	débitos	START	1709487358008
+REQUEST		débitos	1709487358006	1709487358038	OK	 
+USER	débitos	START	1709487358048
+USER	créditos	START	1709487358050
+USER	débitos	END	1709487358051
+USER	débitos	START	1709487358066
+REQUEST		débitos	1709487358034	1709487358079	OK	 
+USER	débitos	END	1709487358080
+REQUEST		débitos	1709487358065	1709487358082	OK	 
+USER	débitos	END	1709487358085
+USER	débitos	START	1709487358096
+USER	créditos	START	1709487358113
+USER	débitos	START	1709487358130
+REQUEST		débitos	1709487358095	1709487358133	OK	 
+USER	débitos	END	1709487358134
+REQUEST		créditos	1709487357632	1709487358140	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358143
+REQUEST		créditos	1709487357694	1709487358156	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358158
+USER	débitos	START	1709487358158
+REQUEST		créditos	1709487358002	1709487358161	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358162
+REQUEST		créditos	1709487357816	1709487358166	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		débitos	1709487358127	1709487358168	OK	 
+REQUEST		créditos	1709487357938	1709487358168	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358169
+USER	débitos	END	1709487358169
+USER	créditos	END	1709487358169
+REQUEST		créditos	1709487358049	1709487358171	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358172
+USER	créditos	START	1709487358175
+REQUEST		créditos	1709487357877	1709487358182	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358184
+REQUEST		débitos	1709487358157	1709487358187	OK	 
+USER	débitos	END	1709487358188
+USER	débitos	START	1709487358190
+REQUEST		créditos	1709487357756	1709487358198	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358199
+REQUEST		débitos	1709487358189	1709487358206	OK	 
+USER	débitos	END	1709487358207
+REQUEST		créditos	1709487358110	1709487358210	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358211
+REQUEST		créditos	1709487358174	1709487358214	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358215
+USER	extratos	START	1709487358220
+USER	débitos	START	1709487358220
+REQUEST		débitos	1709487358220	1709487358234	OK	 
+USER	débitos	END	1709487358235
+USER	créditos	START	1709487358237
+REQUEST		extratos	1709487358220	1709487358240	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487358242
+USER	débitos	START	1709487358253
+REQUEST		créditos	1709487358236	1709487358255	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358257
+REQUEST		débitos	1709487358252	1709487358264	OK	 
+USER	débitos	END	1709487358265
+USER	débitos	START	1709487358282
+REQUEST		débitos	1709487358282	1709487358289	OK	 
+USER	débitos	END	1709487358290
+USER	créditos	START	1709487358298
+REQUEST		créditos	1709487358297	1709487358313	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	START	1709487358314
+USER	créditos	END	1709487358315
+REQUEST		débitos	1709487358314	1709487358323	OK	 
+USER	débitos	END	1709487358324
+USER	débitos	START	1709487358328
+REQUEST		débitos	1709487358328	1709487358340	OK	 
+USER	débitos	END	1709487358341
+USER	créditos	START	1709487358345
+USER	débitos	START	1709487358365
+REQUEST		créditos	1709487358344	1709487358384	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358385
+REQUEST		débitos	1709487358359	1709487358391	OK	 
+USER	débitos	END	1709487358392
+USER	débitos	START	1709487358393
+REQUEST		débitos	1709487358393	1709487358403	OK	 
+USER	débitos	END	1709487358404
+USER	créditos	START	1709487358407
+USER	débitos	START	1709487358422
+REQUEST		débitos	1709487358421	1709487358442	OK	 
+USER	débitos	END	1709487358443
+USER	débitos	START	1709487358465
+REQUEST		créditos	1709487358406	1709487358465	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358467
+USER	créditos	START	1709487358472
+REQUEST		débitos	1709487358463	1709487358481	OK	 
+USER	débitos	END	1709487358482
+USER	débitos	START	1709487358486
+REQUEST		débitos	1709487358485	1709487358498	OK	 
+USER	débitos	END	1709487358499
+REQUEST		créditos	1709487358471	1709487358504	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358505
+USER	débitos	START	1709487358519
+REQUEST		débitos	1709487358518	1709487358528	OK	 
+USER	débitos	END	1709487358530
+USER	créditos	START	1709487358537
+USER	extratos	START	1709487358547
+USER	débitos	START	1709487358549
+REQUEST		débitos	1709487358548	1709487358562	OK	 
+USER	débitos	END	1709487358563
+REQUEST		extratos	1709487358546	1709487358571	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487358573
+USER	débitos	START	1709487358576
+REQUEST		créditos	1709487358536	1709487358576	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358577
+REQUEST		débitos	1709487358575	1709487358583	OK	 
+USER	débitos	END	1709487358584
+USER	créditos	START	1709487358592
+USER	débitos	START	1709487358607
+REQUEST		débitos	1709487358607	1709487358616	OK	 
+USER	débitos	END	1709487358616
+REQUEST		créditos	1709487358591	1709487358620	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358622
+USER	débitos	START	1709487358638
+USER	créditos	START	1709487358650
+REQUEST		débitos	1709487358638	1709487358658	OK	 
+USER	débitos	END	1709487358659
+USER	débitos	START	1709487358670
+REQUEST		créditos	1709487358649	1709487358670	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358671
+REQUEST		débitos	1709487358669	1709487358680	OK	 
+USER	débitos	END	1709487358681
+USER	créditos	START	1709487358702
+USER	débitos	START	1709487358702
+REQUEST		débitos	1709487358701	1709487358711	OK	 
+USER	débitos	END	1709487358714
+REQUEST		créditos	1709487358701	1709487358726	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358727
+USER	débitos	START	1709487358732
+REQUEST		débitos	1709487358732	1709487358739	OK	 
+USER	débitos	END	1709487358740
+USER	créditos	START	1709487358763
+USER	débitos	START	1709487358763
+REQUEST		débitos	1709487358762	1709487358774	OK	 
+USER	débitos	END	1709487358775
+REQUEST		créditos	1709487358762	1709487358792	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	START	1709487358794
+USER	créditos	END	1709487358797
+REQUEST		débitos	1709487358794	1709487358807	OK	 
+USER	débitos	END	1709487358808
+USER	débitos	START	1709487358825
+USER	créditos	START	1709487358825
+REQUEST		débitos	1709487358825	1709487358839	OK	 
+USER	débitos	END	1709487358839
+USER	débitos	START	1709487358862
+REQUEST		créditos	1709487358825	1709487358865	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358876
+USER	créditos	START	1709487358889
+USER	débitos	START	1709487358889
+USER	extratos	START	1709487358890
+REQUEST		débitos	1709487358857	1709487358892	OK	 
+USER	débitos	END	1709487358897
+USER	débitos	START	1709487358905
+REQUEST		extratos	1709487358889	1709487358920	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487358921
+REQUEST		débitos	1709487358889	1709487358922	OK	 
+USER	débitos	END	1709487358923
+REQUEST		débitos	1709487358904	1709487358924	OK	 
+USER	débitos	END	1709487358926
+REQUEST		créditos	1709487358889	1709487358929	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358931
+USER	créditos	START	1709487358934
+USER	débitos	START	1709487358935
+REQUEST		débitos	1709487358935	1709487358945	OK	 
+USER	débitos	END	1709487358947
+USER	débitos	START	1709487358967
+REQUEST		créditos	1709487358933	1709487358971	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487358972
+REQUEST		débitos	1709487358967	1709487358983	OK	 
+USER	débitos	END	1709487358984
+USER	créditos	START	1709487358998
+USER	débitos	START	1709487358998
+REQUEST		débitos	1709487358997	1709487359009	OK	 
+USER	débitos	END	1709487359010
+USER	débitos	START	1709487359029
+REQUEST		créditos	1709487358997	1709487359036	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359037
+REQUEST		débitos	1709487359027	1709487359044	OK	 
+USER	débitos	END	1709487359045
+USER	créditos	START	1709487359059
+USER	débitos	START	1709487359063
+USER	débitos	START	1709487359074
+REQUEST		débitos	1709487359062	1709487359082	OK	 
+USER	débitos	END	1709487359083
+REQUEST		débitos	1709487359074	1709487359095	OK	 
+USER	débitos	END	1709487359096
+REQUEST		créditos	1709487359058	1709487359100	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359102
+USER	débitos	START	1709487359104
+REQUEST		débitos	1709487359103	1709487359111	OK	 
+USER	débitos	END	1709487359112
+USER	créditos	START	1709487359119
+USER	débitos	START	1709487359144
+REQUEST		créditos	1709487359119	1709487359149	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359151
+REQUEST		débitos	1709487359141	1709487359155	OK	 
+USER	débitos	END	1709487359156
+USER	débitos	START	1709487359166
+REQUEST		débitos	1709487359165	1709487359175	OK	 
+USER	débitos	END	1709487359176
+USER	créditos	START	1709487359182
+USER	débitos	START	1709487359198
+REQUEST		créditos	1709487359181	1709487359212	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359213
+REQUEST		débitos	1709487359197	1709487359213	OK	 
+USER	débitos	END	1709487359214
+USER	créditos	START	1709487359228
+USER	débitos	START	1709487359228
+REQUEST		débitos	1709487359228	1709487359238	OK	 
+USER	débitos	END	1709487359239
+REQUEST		créditos	1709487359228	1709487359254	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359255
+USER	débitos	START	1709487359258
+REQUEST		débitos	1709487359257	1709487359267	OK	 
+USER	débitos	END	1709487359267
+USER	débitos	START	1709487359274
+REQUEST		débitos	1709487359273	1709487359287	OK	 
+USER	débitos	END	1709487359288
+USER	créditos	START	1709487359289
+USER	débitos	START	1709487359305
+REQUEST		créditos	1709487359289	1709487359309	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359316
+USER	débitos	START	1709487359337
+REQUEST		débitos	1709487359304	1709487359348	OK	 
+USER	débitos	END	1709487359349
+USER	créditos	START	1709487359353
+REQUEST		débitos	1709487359336	1709487359364	OK	 
+USER	débitos	END	1709487359365
+USER	débitos	START	1709487359368
+USER	extratos	START	1709487359383
+USER	débitos	START	1709487359401
+REQUEST		débitos	1709487359367	1709487359405	OK	 
+USER	débitos	END	1709487359406
+REQUEST		extratos	1709487359382	1709487359414	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487359418
+USER	créditos	START	1709487359425
+USER	débitos	START	1709487359435
+REQUEST		créditos	1709487359352	1709487359444	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		débitos	1709487359400	1709487359447	OK	 
+USER	débitos	START	1709487359461
+USER	créditos	END	1709487359465
+USER	débitos	END	1709487359465
+USER	débitos	START	1709487359475
+USER	créditos	START	1709487359498
+REQUEST		débitos	1709487359434	1709487359503	OK	 
+USER	débitos	END	1709487359509
+USER	débitos	START	1709487359513
+REQUEST		débitos	1709487359461	1709487359519	OK	 
+USER	débitos	END	1709487359521
+REQUEST		débitos	1709487359474	1709487359524	OK	 
+USER	débitos	END	1709487359526
+REQUEST		créditos	1709487359425	1709487359526	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359528
+USER	créditos	START	1709487359540
+REQUEST		débitos	1709487359512	1709487359540	OK	 
+USER	débitos	END	1709487359542
+USER	débitos	START	1709487359546
+USER	débitos	START	1709487359568
+REQUEST		créditos	1709487359497	1709487359571	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359572
+USER	créditos	START	1709487359583
+USER	débitos	START	1709487359597
+REQUEST		créditos	1709487359538	1709487359610	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359611
+REQUEST		débitos	1709487359545	1709487359611	OK	 
+USER	débitos	END	1709487359614
+REQUEST		débitos	1709487359567	1709487359619	OK	 
+USER	débitos	END	1709487359620
+REQUEST		débitos	1709487359596	1709487359621	OK	 
+USER	débitos	END	1709487359622
+USER	débitos	START	1709487359632
+REQUEST		créditos	1709487359582	1709487359637	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359639
+USER	créditos	START	1709487359644
+REQUEST		débitos	1709487359630	1709487359652	OK	 
+USER	débitos	END	1709487359653
+USER	débitos	START	1709487359660
+REQUEST		débitos	1709487359659	1709487359669	OK	 
+USER	débitos	END	1709487359670
+REQUEST		créditos	1709487359643	1709487359671	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359672
+USER	débitos	START	1709487359675
+REQUEST		débitos	1709487359674	1709487359694	OK	 
+USER	débitos	END	1709487359695
+USER	débitos	START	1709487359706
+USER	créditos	START	1709487359706
+REQUEST		débitos	1709487359705	1709487359716	OK	 
+USER	débitos	END	1709487359716
+REQUEST		créditos	1709487359706	1709487359726	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359729
+USER	débitos	START	1709487359737
+REQUEST		débitos	1709487359736	1709487359744	OK	 
+USER	débitos	END	1709487359745
+USER	créditos	START	1709487359771
+USER	débitos	START	1709487359771
+REQUEST		débitos	1709487359769	1709487359783	OK	 
+USER	débitos	END	1709487359784
+REQUEST		créditos	1709487359769	1709487359790	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359791
+USER	débitos	START	1709487359800
+REQUEST		débitos	1709487359799	1709487359809	OK	 
+USER	débitos	END	1709487359810
+USER	créditos	START	1709487359815
+USER	débitos	START	1709487359831
+REQUEST		créditos	1709487359815	1709487359834	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359835
+REQUEST		débitos	1709487359830	1709487359839	OK	 
+USER	débitos	END	1709487359839
+USER	débitos	START	1709487359862
+REQUEST		débitos	1709487359861	1709487359874	OK	 
+USER	débitos	END	1709487359875
+USER	débitos	START	1709487359877
+USER	créditos	START	1709487359881
+USER	extratos	START	1709487359883
+REQUEST		débitos	1709487359877	1709487359893	OK	 
+USER	débitos	END	1709487359893
+REQUEST		extratos	1709487359882	1709487359895	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487359897
+REQUEST		créditos	1709487359879	1709487359901	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359902
+USER	débitos	START	1709487359906
+REQUEST		débitos	1709487359906	1709487359911	OK	 
+USER	débitos	END	1709487359912
+USER	créditos	START	1709487359940
+USER	débitos	START	1709487359940
+REQUEST		débitos	1709487359937	1709487359955	OK	 
+USER	débitos	END	1709487359956
+REQUEST		créditos	1709487359937	1709487359964	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359965
+USER	débitos	START	1709487359969
+REQUEST		débitos	1709487359968	1709487359975	OK	 
+USER	débitos	END	1709487359975
+USER	débitos	START	1709487359985
+USER	créditos	START	1709487359985
+REQUEST		débitos	1709487359984	1709487359990	OK	 
+USER	débitos	END	1709487359991
+REQUEST		créditos	1709487359984	1709487359997	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487359999
+USER	débitos	START	1709487360016
+REQUEST		débitos	1709487360015	1709487360027	OK	 
+USER	débitos	END	1709487360028
+USER	créditos	START	1709487360032
+USER	débitos	START	1709487360047
+REQUEST		débitos	1709487360047	1709487360055	OK	 
+USER	débitos	END	1709487360055
+REQUEST		créditos	1709487360031	1709487360059	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360060
+USER	débitos	START	1709487360064
+REQUEST		débitos	1709487360063	1709487360071	OK	 
+USER	débitos	END	1709487360071
+USER	créditos	START	1709487360094
+USER	débitos	START	1709487360094
+REQUEST		débitos	1709487360094	1709487360106	OK	 
+USER	débitos	END	1709487360106
+REQUEST		créditos	1709487360094	1709487360112	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360114
+USER	débitos	START	1709487360126
+REQUEST		débitos	1709487360125	1709487360135	OK	 
+USER	débitos	END	1709487360136
+USER	créditos	START	1709487360142
+USER	débitos	START	1709487360157
+REQUEST		créditos	1709487360141	1709487360159	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360161
+REQUEST		débitos	1709487360156	1709487360166	OK	 
+USER	débitos	END	1709487360167
+USER	débitos	START	1709487360171
+REQUEST		débitos	1709487360171	1709487360177	OK	 
+USER	débitos	END	1709487360177
+USER	créditos	START	1709487360204
+USER	débitos	START	1709487360205
+REQUEST		débitos	1709487360205	1709487360217	OK	 
+USER	débitos	END	1709487360218
+USER	extratos	START	1709487360219
+USER	débitos	START	1709487360227
+REQUEST		extratos	1709487360218	1709487360226	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487360229
+REQUEST		créditos	1709487360204	1709487360233	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360234
+REQUEST		débitos	1709487360226	1709487360235	OK	 
+USER	débitos	END	1709487360236
+USER	créditos	START	1709487360249
+USER	débitos	START	1709487360265
+REQUEST		créditos	1709487360249	1709487360269	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360270
+REQUEST		débitos	1709487360264	1709487360273	OK	 
+USER	débitos	END	1709487360274
+USER	débitos	START	1709487360282
+REQUEST		débitos	1709487360281	1709487360289	OK	 
+USER	débitos	END	1709487360289
+USER	débitos	START	1709487360312
+USER	créditos	START	1709487360312
+REQUEST		débitos	1709487360311	1709487360321	OK	 
+USER	débitos	END	1709487360322
+REQUEST		créditos	1709487360311	1709487360328	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360329
+USER	débitos	START	1709487360343
+REQUEST		débitos	1709487360343	1709487360354	OK	 
+USER	débitos	END	1709487360354
+USER	créditos	START	1709487360358
+REQUEST		créditos	1709487360358	1709487360370	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360371
+USER	débitos	START	1709487360374
+REQUEST		débitos	1709487360373	1709487360387	OK	 
+USER	débitos	END	1709487360388
+USER	débitos	START	1709487360389
+REQUEST		débitos	1709487360389	1709487360398	OK	 
+USER	débitos	END	1709487360399
+USER	créditos	START	1709487360404
+USER	débitos	START	1709487360438
+USER	débitos	START	1709487360462
+USER	créditos	START	1709487360466
+USER	débitos	START	1709487360486
+REQUEST		créditos	1709487360404	1709487360488	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360489
+USER	débitos	START	1709487360500
+REQUEST		débitos	1709487360438	1709487360509	OK	 
+USER	débitos	END	1709487360510
+USER	créditos	START	1709487360520
+REQUEST		débitos	1709487360461	1709487360526	OK	 
+USER	débitos	END	1709487360527
+USER	débitos	START	1709487360532
+REQUEST		débitos	1709487360500	1709487360535	OK	 
+USER	débitos	END	1709487360536
+REQUEST		créditos	1709487360465	1709487360538	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360539
+REQUEST		débitos	1709487360485	1709487360543	OK	 
+USER	débitos	END	1709487360544
+REQUEST		débitos	1709487360532	1709487360545	OK	 
+USER	débitos	END	1709487360547
+USER	extratos	START	1709487360552
+USER	débitos	START	1709487360561
+REQUEST		créditos	1709487360519	1709487360562	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360563
+REQUEST		extratos	1709487360551	1709487360565	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487360566
+REQUEST		débitos	1709487360561	1709487360572	OK	 
+USER	débitos	END	1709487360573
+USER	créditos	START	1709487360575
+USER	débitos	START	1709487360593
+USER	débitos	START	1709487360607
+REQUEST		débitos	1709487360592	1709487360608	OK	 
+USER	débitos	END	1709487360608
+REQUEST		créditos	1709487360574	1709487360613	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360614
+REQUEST		débitos	1709487360606	1709487360618	OK	 
+USER	débitos	END	1709487360619
+USER	créditos	START	1709487360621
+USER	débitos	START	1709487360637
+REQUEST		créditos	1709487360621	1709487360648	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360649
+REQUEST		débitos	1709487360636	1709487360649	OK	 
+USER	débitos	END	1709487360650
+USER	créditos	START	1709487360667
+USER	débitos	START	1709487360676
+REQUEST		débitos	1709487360675	1709487360689	OK	 
+USER	débitos	END	1709487360689
+USER	débitos	START	1709487360698
+REQUEST		créditos	1709487360666	1709487360708	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360709
+REQUEST		débitos	1709487360697	1709487360716	OK	 
+USER	débitos	END	1709487360716
+USER	débitos	START	1709487360717
+USER	créditos	START	1709487360729
+REQUEST		débitos	1709487360716	1709487360731	OK	 
+USER	débitos	END	1709487360732
+USER	débitos	START	1709487360746
+REQUEST		créditos	1709487360728	1709487360758	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360759
+REQUEST		débitos	1709487360744	1709487360772	OK	 
+USER	débitos	END	1709487360773
+USER	débitos	START	1709487360775
+USER	créditos	START	1709487360775
+REQUEST		débitos	1709487360774	1709487360790	OK	 
+USER	débitos	END	1709487360791
+USER	débitos	START	1709487360805
+REQUEST		créditos	1709487360774	1709487360812	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360812
+REQUEST		débitos	1709487360804	1709487360815	OK	 
+USER	débitos	END	1709487360815
+USER	débitos	START	1709487360835
+USER	créditos	START	1709487360835
+USER	débitos	START	1709487360852
+REQUEST		débitos	1709487360835	1709487360860	OK	 
+USER	débitos	END	1709487360860
+REQUEST		débitos	1709487360851	1709487360880	OK	 
+USER	débitos	END	1709487360881
+USER	extratos	START	1709487360881
+USER	créditos	START	1709487360881
+USER	débitos	START	1709487360882
+REQUEST		créditos	1709487360835	1709487360894	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360894
+REQUEST		extratos	1709487360881	1709487360902	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487360903
+USER	débitos	START	1709487360913
+REQUEST		créditos	1709487360881	1709487360918	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360919
+REQUEST		débitos	1709487360881	1709487360921	OK	 
+USER	débitos	END	1709487360921
+REQUEST		débitos	1709487360912	1709487360925	OK	 
+USER	débitos	END	1709487360925
+USER	débitos	START	1709487360928
+USER	créditos	START	1709487360931
+REQUEST		débitos	1709487360928	1709487360959	OK	 
+USER	débitos	END	1709487360960
+USER	débitos	START	1709487360971
+REQUEST		créditos	1709487360931	1709487360983	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487360984
+REQUEST		débitos	1709487360971	1709487360985	OK	 
+USER	débitos	END	1709487360986
+USER	créditos	START	1709487360986
+USER	débitos	START	1709487360986
+REQUEST		débitos	1709487360986	1709487361003	OK	 
+USER	débitos	END	1709487361004
+USER	débitos	START	1709487361020
+REQUEST		créditos	1709487360986	1709487361024	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361025
+USER	débitos	START	1709487361035
+USER	créditos	START	1709487361035
+REQUEST		débitos	1709487361019	1709487361047	OK	 
+USER	débitos	END	1709487361048
+REQUEST		débitos	1709487361034	1709487361055	OK	 
+USER	débitos	END	1709487361056
+USER	débitos	START	1709487361067
+REQUEST		créditos	1709487361034	1709487361075	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361076
+REQUEST		débitos	1709487361067	1709487361080	OK	 
+USER	débitos	END	1709487361081
+USER	créditos	START	1709487361083
+USER	débitos	START	1709487361098
+USER	débitos	START	1709487361117
+USER	créditos	START	1709487361130
+REQUEST		débitos	1709487361098	1709487361138	OK	 
+USER	débitos	END	1709487361140
+REQUEST		débitos	1709487361116	1709487361143	OK	 
+USER	débitos	END	1709487361143
+USER	débitos	START	1709487361146
+REQUEST		créditos	1709487361082	1709487361159	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361160
+REQUEST		débitos	1709487361145	1709487361163	OK	 
+USER	débitos	END	1709487361163
+REQUEST		créditos	1709487361130	1709487361171	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361172
+USER	débitos	START	1709487361184
+USER	créditos	START	1709487361185
+USER	débitos	START	1709487361192
+USER	débitos	START	1709487361223
+USER	créditos	START	1709487361237
+USER	débitos	START	1709487361244
+REQUEST		débitos	1709487361176	1709487361254	OK	 
+REQUEST		débitos	1709487361192	1709487361256	OK	 
+USER	débitos	END	1709487361257
+USER	débitos	END	1709487361257
+REQUEST		débitos	1709487361223	1709487361260	OK	 
+USER	débitos	END	1709487361261
+REQUEST		débitos	1709487361244	1709487361263	OK	 
+USER	débitos	END	1709487361264
+REQUEST		créditos	1709487361185	1709487361273	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	START	1709487361274
+USER	débitos	START	1709487361274
+USER	créditos	END	1709487361275
+REQUEST		créditos	1709487361237	1709487361287	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361288
+REQUEST		débitos	1709487361274	1709487361293	OK	 
+USER	débitos	END	1709487361294
+USER	débitos	START	1709487361298
+USER	créditos	START	1709487361331
+USER	débitos	START	1709487361332
+REQUEST		créditos	1709487361274	1709487361340	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361342
+USER	débitos	START	1709487361357
+REQUEST		débitos	1709487361331	1709487361357	OK	 
+USER	débitos	END	1709487361358
+REQUEST		débitos	1709487361297	1709487361360	OK	 
+USER	débitos	END	1709487361360
+REQUEST		débitos	1709487361356	1709487361383	OK	 
+USER	débitos	END	1709487361383
+USER	créditos	START	1709487361388
+USER	extratos	START	1709487361388
+USER	débitos	START	1709487361389
+REQUEST		créditos	1709487361331	1709487361389	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361392
+USER	débitos	START	1709487361405
+REQUEST		extratos	1709487361388	1709487361406	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487361407
+REQUEST		débitos	1709487361388	1709487361412	OK	 
+USER	débitos	END	1709487361413
+REQUEST		créditos	1709487361388	1709487361414	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361415
+REQUEST		débitos	1709487361404	1709487361420	OK	 
+USER	débitos	END	1709487361420
+USER	créditos	START	1709487361438
+USER	débitos	START	1709487361438
+REQUEST		débitos	1709487361438	1709487361450	OK	 
+USER	débitos	END	1709487361451
+USER	débitos	START	1709487361455
+REQUEST		créditos	1709487361437	1709487361461	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361462
+REQUEST		débitos	1709487361454	1709487361467	OK	 
+USER	débitos	END	1709487361468
+USER	créditos	START	1709487361486
+USER	débitos	START	1709487361493
+REQUEST		débitos	1709487361492	1709487361504	OK	 
+USER	débitos	END	1709487361505
+REQUEST		créditos	1709487361485	1709487361509	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361510
+USER	créditos	START	1709487361528
+USER	débitos	START	1709487361532
+REQUEST		débitos	1709487361532	1709487361540	OK	 
+USER	débitos	END	1709487361541
+USER	débitos	START	1709487361553
+REQUEST		créditos	1709487361528	1709487361555	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361556
+REQUEST		débitos	1709487361553	1709487361559	OK	 
+USER	débitos	END	1709487361560
+USER	créditos	START	1709487361578
+USER	débitos	START	1709487361585
+REQUEST		débitos	1709487361584	1709487361592	OK	 
+USER	débitos	END	1709487361593
+USER	débitos	START	1709487361595
+REQUEST		créditos	1709487361578	1709487361602	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361603
+REQUEST		débitos	1709487361595	1709487361606	OK	 
+USER	débitos	END	1709487361607
+USER	créditos	START	1709487361636
+USER	débitos	START	1709487361637
+REQUEST		débitos	1709487361636	1709487361651	OK	 
+USER	débitos	END	1709487361652
+USER	débitos	START	1709487361653
+REQUEST		créditos	1709487361636	1709487361659	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361660
+REQUEST		débitos	1709487361653	1709487361662	OK	 
+USER	débitos	END	1709487361662
+USER	créditos	START	1709487361681
+USER	débitos	START	1709487361681
+USER	débitos	START	1709487361697
+REQUEST		débitos	1709487361680	1709487361697	OK	 
+USER	débitos	END	1709487361701
+REQUEST		débitos	1709487361696	1709487361706	OK	 
+USER	débitos	END	1709487361707
+REQUEST		créditos	1709487361681	1709487361709	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361710
+USER	débitos	START	1709487361727
+USER	créditos	START	1709487361727
+REQUEST		débitos	1709487361727	1709487361734	OK	 
+USER	débitos	END	1709487361734
+REQUEST		créditos	1709487361727	1709487361740	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361740
+USER	débitos	START	1709487361743
+REQUEST		débitos	1709487361742	1709487361749	OK	 
+USER	débitos	END	1709487361750
+USER	débitos	START	1709487361783
+USER	créditos	START	1709487361783
+USER	débitos	START	1709487361803
+REQUEST		débitos	1709487361782	1709487361807	OK	 
+USER	débitos	END	1709487361808
+REQUEST		débitos	1709487361803	1709487361815	OK	 
+USER	débitos	END	1709487361815
+USER	débitos	START	1709487361840
+USER	créditos	START	1709487361840
+REQUEST		débitos	1709487361839	1709487361851	OK	 
+USER	débitos	END	1709487361852
+USER	débitos	START	1709487361855
+REQUEST		créditos	1709487361782	1709487361858	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361859
+REQUEST		créditos	1709487361839	1709487361863	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361864
+REQUEST		débitos	1709487361855	1709487361866	OK	 
+USER	débitos	END	1709487361867
+USER	débitos	START	1709487361887
+USER	créditos	START	1709487361887
+USER	extratos	START	1709487361888
+USER	débitos	START	1709487361904
+REQUEST		extratos	1709487361887	1709487361911	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487361912
+REQUEST		débitos	1709487361886	1709487361915	OK	 
+USER	débitos	END	1709487361916
+REQUEST		créditos	1709487361887	1709487361926	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		débitos	1709487361903	1709487361927	OK	 
+USER	créditos	END	1709487361927
+USER	débitos	END	1709487361927
+USER	créditos	START	1709487361935
+USER	débitos	START	1709487361935
+REQUEST		débitos	1709487361935	1709487361945	OK	 
+USER	débitos	END	1709487361945
+USER	débitos	START	1709487361951
+REQUEST		créditos	1709487361935	1709487361956	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487361957
+REQUEST		débitos	1709487361951	1709487361972	OK	 
+USER	débitos	END	1709487361973
+USER	créditos	START	1709487361991
+USER	débitos	START	1709487361993
+USER	débitos	START	1709487362007
+REQUEST		débitos	1709487361991	1709487362013	OK	 
+USER	débitos	END	1709487362013
+USER	débitos	START	1709487362041
+REQUEST		débitos	1709487362006	1709487362042	OK	 
+USER	débitos	END	1709487362042
+USER	créditos	START	1709487362048
+REQUEST		créditos	1709487361990	1709487362050	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362051
+USER	débitos	START	1709487362060
+USER	débitos	START	1709487362076
+USER	créditos	START	1709487362076
+USER	débitos	START	1709487362107
+USER	débitos	START	1709487362125
+USER	créditos	START	1709487362125
+USER	débitos	START	1709487362155
+USER	créditos	START	1709487362186
+USER	débitos	START	1709487362194
+USER	débitos	START	1709487362206
+REQUEST		créditos	1709487362047	1709487362210	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362211
+USER	extratos	START	1709487362225
+USER	créditos	START	1709487362233
+USER	débitos	START	1709487362240
+REQUEST		débitos	1709487362041	1709487362243	OK	 
+USER	débitos	END	1709487362243
+REQUEST		débitos	1709487362059	1709487362255	OK	 
+USER	débitos	END	1709487362256
+USER	débitos	START	1709487362268
+REQUEST		débitos	1709487362076	1709487362271	OK	 
+USER	débitos	END	1709487362272
+USER	créditos	START	1709487362273
+USER	débitos	START	1709487362276
+REQUEST		extratos	1709487362224	1709487362291	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487362292
+REQUEST		créditos	1709487362076	1709487362297	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362298
+REQUEST		débitos	1709487362106	1709487362299	OK	 
+USER	débitos	END	1709487362300
+REQUEST		débitos	1709487362125	1709487362303	OK	 
+USER	débitos	END	1709487362304
+USER	débitos	START	1709487362306
+REQUEST		créditos	1709487362125	1709487362314	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362315
+REQUEST		débitos	1709487362154	1709487362316	OK	 
+USER	débitos	END	1709487362316
+REQUEST		créditos	1709487362233	1709487362318	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		créditos	1709487362185	1709487362318	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362318
+USER	créditos	END	1709487362318
+REQUEST		débitos	1709487362193	1709487362328	OK	 
+USER	débitos	END	1709487362329
+USER	créditos	START	1709487362332
+USER	débitos	START	1709487362333
+REQUEST		créditos	1709487362273	1709487362344	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362345
+USER	débitos	START	1709487362363
+REQUEST		débitos	1709487362205	1709487362372	OK	 
+USER	débitos	END	1709487362373
+USER	débitos	START	1709487362375
+USER	créditos	START	1709487362375
+REQUEST		débitos	1709487362239	1709487362381	OK	 
+USER	débitos	END	1709487362381
+REQUEST		débitos	1709487362268	1709487362395	OK	 
+USER	débitos	END	1709487362396
+REQUEST		débitos	1709487362275	1709487362399	OK	 
+REQUEST		débitos	1709487362305	1709487362400	OK	 
+REQUEST		débitos	1709487362333	1709487362401	OK	 
+USER	débitos	END	1709487362402
+USER	débitos	END	1709487362402
+USER	débitos	END	1709487362402
+REQUEST		débitos	1709487362362	1709487362404	OK	 
+USER	débitos	END	1709487362404
+USER	débitos	START	1709487362408
+REQUEST		débitos	1709487362375	1709487362420	OK	 
+USER	débitos	END	1709487362421
+USER	créditos	START	1709487362437
+USER	débitos	START	1709487362444
+REQUEST		créditos	1709487362332	1709487362444	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362445
+REQUEST		créditos	1709487362375	1709487362449	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362450
+USER	débitos	START	1709487362455
+REQUEST		débitos	1709487362405	1709487362459	OK	 
+REQUEST		débitos	1709487362444	1709487362459	OK	 
+USER	débitos	END	1709487362463
+USER	débitos	END	1709487362463
+REQUEST		débitos	1709487362455	1709487362480	OK	 
+USER	débitos	END	1709487362480
+REQUEST		créditos	1709487362436	1709487362483	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	START	1709487362484
+USER	créditos	END	1709487362485
+USER	débitos	START	1709487362487
+USER	débitos	START	1709487362505
+REQUEST		débitos	1709487362486	1709487362505	OK	 
+USER	débitos	END	1709487362506
+REQUEST		débitos	1709487362504	1709487362520	OK	 
+USER	débitos	END	1709487362521
+REQUEST		créditos	1709487362483	1709487362525	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362526
+USER	créditos	START	1709487362538
+USER	débitos	START	1709487362545
+USER	extratos	START	1709487362561
+USER	débitos	START	1709487362563
+REQUEST		débitos	1709487362544	1709487362574	OK	 
+USER	débitos	END	1709487362575
+REQUEST		créditos	1709487362537	1709487362577	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362578
+USER	débitos	START	1709487362579
+USER	créditos	START	1709487362580
+REQUEST		extratos	1709487362560	1709487362585	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487362586
+REQUEST		débitos	1709487362561	1709487362592	OK	 
+USER	débitos	END	1709487362593
+REQUEST		débitos	1709487362579	1709487362600	OK	 
+USER	débitos	END	1709487362601
+USER	débitos	START	1709487362619
+REQUEST		débitos	1709487362618	1709487362631	OK	 
+USER	débitos	END	1709487362631
+USER	débitos	START	1709487362636
+USER	créditos	START	1709487362636
+REQUEST		créditos	1709487362579	1709487362638	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362639
+REQUEST		débitos	1709487362635	1709487362644	OK	 
+USER	débitos	END	1709487362645
+USER	débitos	START	1709487362650
+REQUEST		débitos	1709487362650	1709487362662	OK	 
+USER	débitos	END	1709487362663
+REQUEST		créditos	1709487362635	1709487362664	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362665
+USER	créditos	START	1709487362686
+USER	débitos	START	1709487362686
+REQUEST		débitos	1709487362685	1709487362695	OK	 
+USER	débitos	END	1709487362696
+USER	débitos	START	1709487362700
+REQUEST		créditos	1709487362685	1709487362706	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362707
+REQUEST		débitos	1709487362699	1709487362710	OK	 
+USER	débitos	END	1709487362711
+USER	débitos	START	1709487362730
+USER	créditos	START	1709487362730
+REQUEST		débitos	1709487362728	1709487362738	OK	 
+USER	débitos	END	1709487362739
+REQUEST		créditos	1709487362728	1709487362745	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362747
+USER	débitos	START	1709487362769
+REQUEST		débitos	1709487362768	1709487362776	OK	 
+USER	débitos	END	1709487362776
+USER	débitos	START	1709487362795
+USER	créditos	START	1709487362795
+REQUEST		débitos	1709487362794	1709487362808	OK	 
+USER	débitos	END	1709487362808
+USER	débitos	START	1709487362810
+REQUEST		débitos	1709487362810	1709487362820	OK	 
+USER	débitos	END	1709487362821
+REQUEST		créditos	1709487362794	1709487362823	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362823
+USER	créditos	START	1709487362825
+USER	débitos	START	1709487362825
+REQUEST		débitos	1709487362824	1709487362837	OK	 
+USER	débitos	END	1709487362838
+USER	débitos	START	1709487362861
+REQUEST		créditos	1709487362824	1709487362867	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362868
+REQUEST		débitos	1709487362857	1709487362870	OK	 
+USER	débitos	END	1709487362870
+USER	extratos	START	1709487362888
+USER	débitos	START	1709487362888
+USER	créditos	START	1709487362890
+USER	débitos	START	1709487362904
+REQUEST		extratos	1709487362887	1709487362912	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487362913
+REQUEST		débitos	1709487362887	1709487362913	OK	 
+USER	débitos	END	1709487362914
+REQUEST		débitos	1709487362903	1709487362917	OK	 
+USER	débitos	END	1709487362918
+USER	créditos	START	1709487362919
+USER	débitos	START	1709487362936
+REQUEST		créditos	1709487362890	1709487362939	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362940
+REQUEST		débitos	1709487362936	1709487362948	OK	 
+USER	débitos	END	1709487362949
+USER	débitos	START	1709487362952
+REQUEST		créditos	1709487362918	1709487362956	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487362958
+USER	créditos	START	1709487362973
+USER	débitos	START	1709487362984
+REQUEST		débitos	1709487362951	1709487362987	OK	 
+USER	débitos	END	1709487362987
+REQUEST		débitos	1709487362983	1709487362994	OK	 
+USER	débitos	END	1709487362994
+USER	débitos	START	1709487363005
+USER	débitos	START	1709487363021
+USER	créditos	START	1709487363022
+REQUEST		débitos	1709487363005	1709487363029	OK	 
+USER	débitos	END	1709487363029
+REQUEST		débitos	1709487363020	1709487363034	OK	 
+USER	débitos	END	1709487363034
+USER	débitos	START	1709487363057
+USER	créditos	START	1709487363057
+USER	débitos	START	1709487363071
+REQUEST		créditos	1709487362973	1709487363086	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363087
+REQUEST		créditos	1709487363021	1709487363094	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363095
+USER	créditos	START	1709487363102
+USER	débitos	START	1709487363102
+REQUEST		débitos	1709487363071	1709487363106	OK	 
+USER	débitos	END	1709487363106
+REQUEST		créditos	1709487363056	1709487363108	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363108
+REQUEST		débitos	1709487363056	1709487363112	OK	 
+USER	débitos	END	1709487363113
+REQUEST		débitos	1709487363102	1709487363121	OK	 
+USER	débitos	END	1709487363122
+USER	débitos	START	1709487363128
+REQUEST		créditos	1709487363102	1709487363135	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363138
+USER	débitos	START	1709487363144
+REQUEST		débitos	1709487363128	1709487363147	OK	 
+USER	débitos	END	1709487363148
+USER	créditos	START	1709487363162
+USER	débitos	START	1709487363162
+REQUEST		débitos	1709487363143	1709487363163	OK	 
+USER	débitos	END	1709487363164
+REQUEST		débitos	1709487363161	1709487363177	OK	 
+USER	débitos	END	1709487363177
+USER	débitos	START	1709487363194
+USER	créditos	START	1709487363194
+REQUEST		créditos	1709487363161	1709487363206	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363207
+USER	débitos	START	1709487363210
+REQUEST		débitos	1709487363194	1709487363222	OK	 
+USER	débitos	END	1709487363222
+USER	débitos	START	1709487363235
+REQUEST		débitos	1709487363208	1709487363247	OK	 
+USER	débitos	END	1709487363247
+USER	créditos	START	1709487363250
+REQUEST		créditos	1709487363194	1709487363259	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363260
+USER	débitos	START	1709487363261
+REQUEST		débitos	1709487363234	1709487363263	OK	 
+USER	débitos	END	1709487363263
+REQUEST		débitos	1709487363260	1709487363271	OK	 
+USER	débitos	END	1709487363271
+USER	créditos	START	1709487363292
+USER	débitos	START	1709487363294
+USER	débitos	START	1709487363308
+USER	débitos	START	1709487363339
+USER	créditos	START	1709487363342
+USER	débitos	START	1709487363355
+REQUEST		créditos	1709487363250	1709487363357	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363358
+REQUEST		débitos	1709487363293	1709487363359	OK	 
+USER	débitos	END	1709487363360
+REQUEST		débitos	1709487363308	1709487363361	OK	 
+USER	débitos	END	1709487363362
+REQUEST		débitos	1709487363339	1709487363366	OK	 
+USER	débitos	END	1709487363366
+REQUEST		débitos	1709487363354	1709487363369	OK	 
+USER	débitos	END	1709487363369
+USER	créditos	START	1709487363385
+USER	extratos	START	1709487363385
+USER	débitos	START	1709487363389
+REQUEST		débitos	1709487363389	1709487363404	OK	 
+USER	débitos	END	1709487363405
+USER	débitos	START	1709487363406
+REQUEST		extratos	1709487363385	1709487363420	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487363421
+REQUEST		créditos	1709487363292	1709487363425	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363426
+USER	créditos	START	1709487363430
+USER	débitos	START	1709487363430
+REQUEST		débitos	1709487363405	1709487363441	OK	 
+USER	débitos	END	1709487363441
+REQUEST		créditos	1709487363385	1709487363446	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363447
+REQUEST		débitos	1709487363429	1709487363449	OK	 
+USER	débitos	END	1709487363449
+REQUEST		créditos	1709487363341	1709487363452	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363453
+USER	débitos	START	1709487363465
+USER	créditos	START	1709487363481
+USER	débitos	START	1709487363484
+REQUEST		débitos	1709487363465	1709487363486	OK	 
+USER	débitos	END	1709487363486
+REQUEST		créditos	1709487363429	1709487363511	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	START	1709487363512
+USER	créditos	END	1709487363512
+USER	débitos	START	1709487363523
+USER	créditos	START	1709487363524
+REQUEST		débitos	1709487363483	1709487363536	OK	 
+USER	débitos	END	1709487363537
+USER	créditos	START	1709487363559
+REQUEST		débitos	1709487363511	1709487363561	OK	 
+USER	débitos	END	1709487363561
+REQUEST		créditos	1709487363481	1709487363566	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363566
+USER	débitos	START	1709487363571
+USER	débitos	START	1709487363579
+REQUEST		créditos	1709487363523	1709487363585	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363586
+USER	débitos	START	1709487363595
+REQUEST		débitos	1709487363523	1709487363601	OK	 
+USER	débitos	END	1709487363601
+USER	créditos	START	1709487363609
+REQUEST		débitos	1709487363570	1709487363611	OK	 
+USER	débitos	END	1709487363612
+REQUEST		créditos	1709487363559	1709487363623	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363623
+USER	débitos	START	1709487363624
+REQUEST		débitos	1709487363578	1709487363633	OK	 
+USER	débitos	END	1709487363633
+REQUEST		créditos	1709487363608	1709487363634	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363635
+REQUEST		débitos	1709487363594	1709487363639	OK	 
+USER	débitos	END	1709487363640
+REQUEST		débitos	1709487363624	1709487363642	OK	 
+USER	débitos	END	1709487363643
+USER	créditos	START	1709487363662
+USER	débitos	START	1709487363664
+REQUEST		débitos	1709487363664	1709487363678	OK	 
+USER	débitos	END	1709487363679
+USER	débitos	START	1709487363681
+USER	débitos	START	1709487363691
+REQUEST		débitos	1709487363680	1709487363698	OK	 
+USER	débitos	END	1709487363699
+REQUEST		créditos	1709487363661	1709487363700	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363701
+REQUEST		débitos	1709487363691	1709487363702	OK	 
+USER	débitos	END	1709487363703
+USER	débitos	START	1709487363712
+USER	créditos	START	1709487363712
+REQUEST		débitos	1709487363712	1709487363725	OK	 
+USER	débitos	END	1709487363725
+USER	débitos	START	1709487363733
+REQUEST		débitos	1709487363732	1709487363739	OK	 
+USER	débitos	END	1709487363740
+REQUEST		créditos	1709487363712	1709487363743	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363744
+USER	créditos	START	1709487363748
+USER	débitos	START	1709487363764
+REQUEST		créditos	1709487363748	1709487363772	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363773
+REQUEST		débitos	1709487363763	1709487363778	OK	 
+USER	débitos	START	1709487363779
+USER	débitos	END	1709487363779
+REQUEST		débitos	1709487363779	1709487363791	OK	 
+USER	débitos	END	1709487363792
+USER	créditos	START	1709487363807
+USER	débitos	START	1709487363807
+REQUEST		débitos	1709487363806	1709487363824	OK	 
+USER	débitos	END	1709487363825
+REQUEST		créditos	1709487363806	1709487363835	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363836
+USER	créditos	START	1709487363839
+USER	débitos	START	1709487363839
+USER	débitos	START	1709487363856
+REQUEST		débitos	1709487363838	1709487363872	OK	 
+USER	débitos	END	1709487363874
+REQUEST		créditos	1709487363838	1709487363879	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363880
+REQUEST		débitos	1709487363855	1709487363882	OK	 
+USER	débitos	END	1709487363883
+USER	débitos	START	1709487363903
+USER	débitos	START	1709487363903
+USER	extratos	START	1709487363903
+USER	créditos	START	1709487363904
+REQUEST		débitos	1709487363902	1709487363924	OK	 
+USER	débitos	END	1709487363925
+REQUEST		extratos	1709487363901	1709487363925	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487363926
+USER	débitos	START	1709487363927
+USER	créditos	START	1709487363932
+REQUEST		débitos	1709487363901	1709487363937	OK	 
+USER	débitos	END	1709487363938
+USER	débitos	START	1709487363954
+REQUEST		créditos	1709487363903	1709487363961	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487363962
+USER	débitos	START	1709487363969
+USER	créditos	START	1709487363969
+REQUEST		débitos	1709487363927	1709487363982	OK	 
+USER	débitos	END	1709487363983
+REQUEST		créditos	1709487363931	1709487364001	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364002
+USER	débitos	START	1709487364003
+USER	créditos	START	1709487364017
+USER	débitos	START	1709487364017
+USER	débitos	START	1709487364044
+USER	créditos	START	1709487364058
+USER	débitos	START	1709487364058
+REQUEST		débitos	1709487363954	1709487364080	OK	 
+USER	débitos	END	1709487364080
+USER	débitos	START	1709487364098
+USER	débitos	START	1709487364115
+REQUEST		créditos	1709487363968	1709487364117	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	START	1709487364117
+USER	créditos	END	1709487364118
+USER	créditos	START	1709487364145
+REQUEST		créditos	1709487364017	1709487364147	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364148
+USER	débitos	START	1709487364152
+USER	débitos	START	1709487364153
+REQUEST		créditos	1709487364057	1709487364161	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364162
+REQUEST		débitos	1709487363968	1709487364170	OK	 
+USER	débitos	END	1709487364171
+REQUEST		débitos	1709487364002	1709487364174	OK	 
+USER	débitos	END	1709487364175
+REQUEST		débitos	1709487364017	1709487364175	OK	 
+USER	débitos	END	1709487364176
+REQUEST		débitos	1709487364043	1709487364177	OK	 
+USER	débitos	END	1709487364178
+REQUEST		débitos	1709487364058	1709487364180	OK	 
+USER	débitos	START	1709487364180
+USER	débitos	END	1709487364180
+REQUEST		débitos	1709487364098	1709487364185	OK	 
+USER	débitos	END	1709487364186
+REQUEST		débitos	1709487364115	1709487364187	OK	 
+USER	débitos	END	1709487364188
+REQUEST		créditos	1709487364117	1709487364189	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364191
+REQUEST		débitos	1709487364149	1709487364192	OK	 
+REQUEST		débitos	1709487364153	1709487364192	OK	 
+USER	débitos	END	1709487364193
+USER	débitos	END	1709487364193
+REQUEST		créditos	1709487364145	1709487364193	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364195
+USER	débitos	START	1709487364195
+USER	créditos	START	1709487364195
+REQUEST		débitos	1709487364179	1709487364198	OK	 
+USER	débitos	END	1709487364199
+USER	extratos	START	1709487364215
+USER	débitos	START	1709487364218
+REQUEST		débitos	1709487364195	1709487364223	OK	 
+USER	débitos	END	1709487364223
+REQUEST		créditos	1709487364195	1709487364230	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364231
+REQUEST		débitos	1709487364216	1709487364232	OK	 
+USER	débitos	END	1709487364232
+REQUEST		extratos	1709487364214	1709487364232	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487364233
+USER	débitos	START	1709487364251
+USER	créditos	START	1709487364251
+REQUEST		débitos	1709487364250	1709487364261	OK	 
+USER	débitos	END	1709487364262
+USER	débitos	START	1709487364266
+REQUEST		débitos	1709487364266	1709487364274	OK	 
+USER	débitos	END	1709487364274
+REQUEST		créditos	1709487364250	1709487364276	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364277
+USER	débitos	START	1709487364294
+USER	créditos	START	1709487364294
+REQUEST		débitos	1709487364294	1709487364306	OK	 
+USER	débitos	END	1709487364306
+USER	débitos	START	1709487364312
+REQUEST		débitos	1709487364311	1709487364318	OK	 
+USER	débitos	END	1709487364319
+REQUEST		créditos	1709487364294	1709487364322	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364323
+USER	créditos	START	1709487364342
+USER	débitos	START	1709487364342
+REQUEST		débitos	1709487364342	1709487364349	OK	 
+USER	débitos	END	1709487364350
+USER	débitos	START	1709487364358
+REQUEST		créditos	1709487364342	1709487364360	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364361
+REQUEST		débitos	1709487364358	1709487364365	OK	 
+USER	débitos	END	1709487364366
+USER	débitos	START	1709487364385
+USER	créditos	START	1709487364385
+REQUEST		débitos	1709487364383	1709487364392	OK	 
+USER	débitos	END	1709487364393
+USER	débitos	START	1709487364400
+REQUEST		créditos	1709487364383	1709487364408	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364409
+REQUEST		débitos	1709487364398	1709487364412	OK	 
+USER	débitos	END	1709487364413
+USER	créditos	START	1709487364440
+USER	débitos	START	1709487364441
+REQUEST		débitos	1709487364440	1709487364450	OK	 
+USER	débitos	END	1709487364450
+USER	débitos	START	1709487364457
+REQUEST		créditos	1709487364439	1709487364458	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364459
+REQUEST		débitos	1709487364456	1709487364466	OK	 
+USER	débitos	END	1709487364467
+USER	créditos	START	1709487364467
+USER	débitos	START	1709487364472
+REQUEST		débitos	1709487364472	1709487364478	OK	 
+USER	débitos	END	1709487364479
+REQUEST		créditos	1709487364467	1709487364483	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364484
+USER	débitos	START	1709487364503
+REQUEST		débitos	1709487364503	1709487364511	OK	 
+USER	débitos	END	1709487364512
+USER	créditos	START	1709487364520
+USER	débitos	START	1709487364521
+REQUEST		débitos	1709487364520	1709487364527	OK	 
+USER	débitos	END	1709487364528
+USER	extratos	START	1709487364545
+USER	débitos	START	1709487364547
+REQUEST		créditos	1709487364516	1709487364557	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364558
+USER	créditos	START	1709487364560
+USER	débitos	START	1709487364566
+REQUEST		extratos	1709487364544	1709487364580	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487364582
+REQUEST		débitos	1709487364547	1709487364582	OK	 
+USER	débitos	END	1709487364583
+REQUEST		débitos	1709487364565	1709487364584	OK	 
+USER	débitos	END	1709487364585
+USER	débitos	START	1709487364597
+REQUEST		créditos	1709487364559	1709487364607	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364608
+USER	créditos	START	1709487364609
+USER	débitos	START	1709487364614
+REQUEST		débitos	1709487364597	1709487364634	OK	 
+USER	débitos	START	1709487364634
+USER	débitos	END	1709487364634
+REQUEST		débitos	1709487364613	1709487364646	OK	 
+USER	débitos	END	1709487364646
+REQUEST		débitos	1709487364634	1709487364650	OK	 
+USER	débitos	END	1709487364651
+USER	créditos	START	1709487364664
+USER	débitos	START	1709487364667
+REQUEST		créditos	1709487364608	1709487364670	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364671
+USER	débitos	START	1709487364684
+REQUEST		débitos	1709487364666	1709487364688	OK	 
+USER	débitos	END	1709487364689
+USER	créditos	START	1709487364694
+USER	débitos	START	1709487364695
+REQUEST		débitos	1709487364682	1709487364703	OK	 
+USER	débitos	END	1709487364704
+REQUEST		créditos	1709487364664	1709487364704	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364707
+REQUEST		débitos	1709487364694	1709487364724	OK	 
+USER	débitos	END	1709487364724
+USER	débitos	START	1709487364725
+REQUEST		débitos	1709487364725	1709487364736	OK	 
+USER	débitos	END	1709487364737
+USER	débitos	START	1709487364740
+USER	créditos	START	1709487364740
+REQUEST		créditos	1709487364694	1709487364747	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364748
+REQUEST		débitos	1709487364740	1709487364757	OK	 
+USER	débitos	END	1709487364758
+REQUEST		créditos	1709487364740	1709487364765	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364767
+USER	débitos	START	1709487364778
+USER	débitos	START	1709487364795
+USER	créditos	START	1709487364795
+REQUEST		débitos	1709487364777	1709487364797	OK	 
+USER	débitos	END	1709487364798
+USER	débitos	START	1709487364810
+REQUEST		débitos	1709487364795	1709487364812	OK	 
+USER	débitos	END	1709487364813
+REQUEST		débitos	1709487364810	1709487364829	OK	 
+USER	débitos	END	1709487364829
+USER	créditos	START	1709487364848
+USER	débitos	START	1709487364848
+USER	débitos	START	1709487364851
+REQUEST		créditos	1709487364795	1709487364863	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364864
+REQUEST		débitos	1709487364850	1709487364869	OK	 
+USER	débitos	END	1709487364870
+REQUEST		débitos	1709487364848	1709487364870	OK	 
+USER	débitos	END	1709487364871
+REQUEST		créditos	1709487364848	1709487364873	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364874
+USER	extratos	START	1709487364890
+USER	débitos	START	1709487364890
+USER	créditos	START	1709487364890
+REQUEST		débitos	1709487364889	1709487364902	OK	 
+USER	débitos	END	1709487364904
+USER	débitos	START	1709487364908
+REQUEST		extratos	1709487364889	1709487364914	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487364915
+REQUEST		débitos	1709487364907	1709487364922	OK	 
+USER	débitos	START	1709487364922
+USER	créditos	START	1709487364922
+USER	débitos	END	1709487364922
+REQUEST		créditos	1709487364889	1709487364930	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364931
+REQUEST		débitos	1709487364922	1709487364936	OK	 
+USER	débitos	END	1709487364937
+REQUEST		créditos	1709487364922	1709487364946	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364947
+USER	débitos	START	1709487364965
+USER	créditos	START	1709487364965
+USER	débitos	START	1709487364965
+REQUEST		débitos	1709487364964	1709487364987	OK	 
+USER	débitos	END	1709487364987
+REQUEST		débitos	1709487364964	1709487364991	OK	 
+USER	débitos	END	1709487364992
+REQUEST		créditos	1709487364964	1709487364995	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487364996
+USER	débitos	START	1709487364997
+REQUEST		débitos	1709487364996	1709487365005	OK	 
+USER	débitos	END	1709487365005
+USER	créditos	START	1709487365012
+USER	débitos	START	1709487365012
+REQUEST		débitos	1709487365011	1709487365021	OK	 
+USER	débitos	END	1709487365022
+USER	débitos	START	1709487365028
+REQUEST		créditos	1709487365011	1709487365032	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365033
+REQUEST		débitos	1709487365027	1709487365037	OK	 
+USER	débitos	END	1709487365038
+USER	débitos	START	1709487365058
+USER	créditos	START	1709487365058
+REQUEST		débitos	1709487365058	1709487365066	OK	 
+USER	débitos	END	1709487365066
+USER	débitos	START	1709487365069
+REQUEST		créditos	1709487365058	1709487365084	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365085
+REQUEST		débitos	1709487365068	1709487365086	OK	 
+USER	débitos	END	1709487365087
+USER	créditos	START	1709487365104
+USER	débitos	START	1709487365104
+REQUEST		débitos	1709487365104	1709487365116	OK	 
+USER	débitos	END	1709487365119
+USER	débitos	START	1709487365122
+REQUEST		débitos	1709487365121	1709487365129	OK	 
+USER	débitos	END	1709487365130
+REQUEST		créditos	1709487365104	1709487365131	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365132
+USER	créditos	START	1709487365134
+USER	débitos	START	1709487365134
+REQUEST		débitos	1709487365134	1709487365142	OK	 
+USER	débitos	END	1709487365143
+REQUEST		créditos	1709487365134	1709487365151	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365152
+USER	débitos	START	1709487365165
+REQUEST		débitos	1709487365165	1709487365176	OK	 
+USER	débitos	END	1709487365177
+USER	débitos	START	1709487365180
+USER	créditos	START	1709487365180
+REQUEST		débitos	1709487365180	1709487365189	OK	 
+USER	débitos	END	1709487365190
+REQUEST		créditos	1709487365180	1709487365203	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365205
+USER	débitos	START	1709487365211
+USER	extratos	START	1709487365211
+REQUEST		débitos	1709487365210	1709487365219	OK	 
+USER	débitos	END	1709487365220
+REQUEST		extratos	1709487365210	1709487365222	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487365223
+USER	créditos	START	1709487365224
+USER	débitos	START	1709487365226
+REQUEST		débitos	1709487365226	1709487365235	OK	 
+USER	débitos	END	1709487365236
+REQUEST		créditos	1709487365224	1709487365244	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365245
+USER	débitos	START	1709487365257
+REQUEST		débitos	1709487365256	1709487365265	OK	 
+USER	débitos	END	1709487365266
+USER	créditos	START	1709487365272
+USER	débitos	START	1709487365272
+REQUEST		débitos	1709487365272	1709487365282	OK	 
+USER	débitos	END	1709487365283
+USER	débitos	START	1709487365288
+REQUEST		créditos	1709487365272	1709487365293	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365294
+REQUEST		débitos	1709487365288	1709487365294	OK	 
+USER	débitos	END	1709487365295
+USER	créditos	START	1709487365319
+USER	débitos	START	1709487365319
+REQUEST		débitos	1709487365318	1709487365331	OK	 
+USER	débitos	END	1709487365331
+USER	débitos	START	1709487365334
+REQUEST		débitos	1709487365333	1709487365342	OK	 
+USER	débitos	END	1709487365343
+REQUEST		créditos	1709487365318	1709487365344	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365345
+USER	créditos	START	1709487365364
+USER	débitos	START	1709487365364
+REQUEST		débitos	1709487365363	1709487365371	OK	 
+USER	débitos	END	1709487365373
+USER	débitos	START	1709487365380
+REQUEST		créditos	1709487365363	1709487365382	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365383
+REQUEST		débitos	1709487365379	1709487365388	OK	 
+USER	débitos	END	1709487365389
+USER	débitos	START	1709487365396
+USER	créditos	START	1709487365396
+REQUEST		débitos	1709487365395	1709487365403	OK	 
+USER	débitos	END	1709487365403
+REQUEST		créditos	1709487365395	1709487365410	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365410
+USER	débitos	START	1709487365427
+REQUEST		débitos	1709487365426	1709487365436	OK	 
+USER	débitos	END	1709487365437
+USER	créditos	START	1709487365443
+USER	débitos	START	1709487365444
+REQUEST		débitos	1709487365443	1709487365456	OK	 
+USER	débitos	END	1709487365457
+REQUEST		créditos	1709487365442	1709487365461	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365462
+USER	débitos	START	1709487365473
+REQUEST		débitos	1709487365472	1709487365480	OK	 
+USER	débitos	END	1709487365481
+USER	créditos	START	1709487365482
+USER	débitos	START	1709487365490
+REQUEST		débitos	1709487365489	1709487365495	OK	 
+USER	débitos	END	1709487365497
+REQUEST		créditos	1709487365481	1709487365498	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365499
+USER	débitos	START	1709487365519
+REQUEST		débitos	1709487365518	1709487365524	OK	 
+USER	débitos	END	1709487365524
+USER	créditos	START	1709487365535
+USER	débitos	START	1709487365535
+REQUEST		débitos	1709487365534	1709487365541	OK	 
+USER	débitos	END	1709487365542
+USER	débitos	START	1709487365551
+USER	extratos	START	1709487365555
+REQUEST		créditos	1709487365534	1709487365559	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365561
+REQUEST		débitos	1709487365550	1709487365563	OK	 
+USER	débitos	END	1709487365563
+REQUEST		extratos	1709487365554	1709487365564	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487365566
+USER	créditos	START	1709487365581
+USER	débitos	START	1709487365582
+REQUEST		débitos	1709487365581	1709487365588	OK	 
+USER	débitos	END	1709487365589
+USER	débitos	START	1709487365601
+REQUEST		créditos	1709487365581	1709487365602	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365603
+REQUEST		débitos	1709487365598	1709487365607	OK	 
+USER	débitos	END	1709487365608
+USER	créditos	START	1709487365628
+USER	débitos	START	1709487365629
+REQUEST		débitos	1709487365628	1709487365634	OK	 
+USER	débitos	END	1709487365634
+REQUEST		créditos	1709487365628	1709487365641	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365642
+USER	débitos	START	1709487365644
+REQUEST		débitos	1709487365644	1709487365650	OK	 
+USER	débitos	END	1709487365650
+USER	créditos	START	1709487365660
+USER	débitos	START	1709487365665
+REQUEST		débitos	1709487365665	1709487365677	OK	 
+USER	débitos	END	1709487365677
+REQUEST		créditos	1709487365659	1709487365682	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365682
+USER	débitos	START	1709487365690
+REQUEST		débitos	1709487365690	1709487365695	OK	 
+USER	débitos	END	1709487365696
+USER	créditos	START	1709487365706
+USER	débitos	START	1709487365706
+REQUEST		débitos	1709487365705	1709487365716	OK	 
+USER	débitos	END	1709487365717
+REQUEST		créditos	1709487365705	1709487365728	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365729
+USER	débitos	START	1709487365737
+REQUEST		débitos	1709487365737	1709487365744	OK	 
+USER	débitos	END	1709487365744
+USER	débitos	START	1709487365753
+USER	créditos	START	1709487365753
+REQUEST		débitos	1709487365753	1709487365763	OK	 
+USER	débitos	END	1709487365763
+USER	débitos	START	1709487365769
+REQUEST		débitos	1709487365768	1709487365777	OK	 
+USER	débitos	END	1709487365778
+REQUEST		créditos	1709487365753	1709487365780	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365781
+USER	créditos	START	1709487365799
+USER	débitos	START	1709487365800
+REQUEST		débitos	1709487365799	1709487365809	OK	 
+USER	débitos	END	1709487365809
+USER	débitos	START	1709487365815
+REQUEST		débitos	1709487365814	1709487365820	OK	 
+USER	débitos	END	1709487365821
+REQUEST		créditos	1709487365799	1709487365822	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365823
+USER	créditos	START	1709487365831
+USER	débitos	START	1709487365831
+REQUEST		débitos	1709487365830	1709487365840	OK	 
+USER	débitos	END	1709487365841
+REQUEST		créditos	1709487365830	1709487365850	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365851
+USER	débitos	START	1709487365869
+REQUEST		débitos	1709487365868	1709487365876	OK	 
+USER	débitos	END	1709487365877
+USER	créditos	START	1709487365878
+USER	débitos	START	1709487365878
+USER	extratos	START	1709487365878
+REQUEST		débitos	1709487365878	1709487365885	OK	 
+USER	débitos	END	1709487365886
+REQUEST		extratos	1709487365878	1709487365887	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487365888
+REQUEST		créditos	1709487365877	1709487365893	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365894
+USER	débitos	START	1709487365894
+REQUEST		débitos	1709487365894	1709487365904	OK	 
+USER	débitos	END	1709487365905
+USER	débitos	START	1709487365926
+USER	créditos	START	1709487365926
+REQUEST		débitos	1709487365925	1709487365933	OK	 
+USER	débitos	END	1709487365934
+USER	débitos	START	1709487365942
+REQUEST		créditos	1709487365925	1709487365955	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365956
+USER	créditos	START	1709487365956
+REQUEST		débitos	1709487365941	1709487365959	OK	 
+USER	débitos	END	1709487365960
+REQUEST		créditos	1709487365956	1709487365969	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487365970
+USER	débitos	START	1709487365971
+REQUEST		débitos	1709487365970	1709487365978	OK	 
+USER	débitos	END	1709487365978
+USER	débitos	START	1709487365986
+REQUEST		débitos	1709487365986	1709487365992	OK	 
+USER	débitos	END	1709487365995
+USER	créditos	START	1709487366005
+USER	débitos	START	1709487366005
+REQUEST		débitos	1709487366004	1709487366012	OK	 
+USER	débitos	END	1709487366022
+REQUEST		créditos	1709487366003	1709487366031	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	START	1709487366032
+USER	créditos	END	1709487366033
+REQUEST		débitos	1709487366031	1709487366038	OK	 
+USER	débitos	END	1709487366038
+USER	débitos	START	1709487366047
+USER	créditos	START	1709487366048
+REQUEST		débitos	1709487366047	1709487366055	OK	 
+USER	débitos	END	1709487366055
+REQUEST		créditos	1709487366048	1709487366062	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366062
+USER	créditos	START	1709487366078
+USER	débitos	START	1709487366078
+REQUEST		débitos	1709487366078	1709487366089	OK	 
+USER	débitos	END	1709487366090
+USER	débitos	START	1709487366095
+REQUEST		débitos	1709487366095	1709487366104	OK	 
+USER	débitos	END	1709487366104
+REQUEST		créditos	1709487366078	1709487366105	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366106
+USER	débitos	START	1709487366109
+REQUEST		débitos	1709487366108	1709487366116	OK	 
+USER	débitos	END	1709487366117
+USER	créditos	START	1709487366125
+USER	débitos	START	1709487366141
+REQUEST		créditos	1709487366124	1709487366145	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366146
+REQUEST		débitos	1709487366140	1709487366148	OK	 
+USER	débitos	END	1709487366148
+USER	créditos	START	1709487366156
+USER	débitos	START	1709487366156
+REQUEST		débitos	1709487366155	1709487366164	OK	 
+USER	débitos	END	1709487366165
+REQUEST		créditos	1709487366155	1709487366170	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	START	1709487366171
+USER	créditos	END	1709487366171
+REQUEST		débitos	1709487366170	1709487366178	OK	 
+USER	débitos	END	1709487366178
+USER	débitos	START	1709487366202
+USER	créditos	START	1709487366202
+REQUEST		débitos	1709487366201	1709487366212	OK	 
+USER	débitos	END	1709487366213
+USER	débitos	START	1709487366217
+USER	extratos	START	1709487366217
+REQUEST		créditos	1709487366201	1709487366225	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366226
+REQUEST		débitos	1709487366217	1709487366232	OK	 
+USER	débitos	END	1709487366233
+REQUEST		extratos	1709487366217	1709487366243	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487366243
+USER	débitos	START	1709487366249
+USER	créditos	START	1709487366250
+REQUEST		débitos	1709487366248	1709487366262	OK	 
+USER	débitos	END	1709487366263
+USER	débitos	START	1709487366264
+REQUEST		débitos	1709487366263	1709487366277	OK	 
+USER	débitos	END	1709487366278
+USER	débitos	START	1709487366280
+USER	créditos	START	1709487366280
+REQUEST		créditos	1709487366250	1709487366284	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366285
+REQUEST		débitos	1709487366279	1709487366290	OK	 
+USER	débitos	END	1709487366291
+REQUEST		créditos	1709487366279	1709487366299	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366299
+USER	débitos	START	1709487366310
+REQUEST		débitos	1709487366310	1709487366315	OK	 
+USER	débitos	END	1709487366316
+USER	créditos	START	1709487366326
+USER	débitos	START	1709487366326
+REQUEST		débitos	1709487366325	1709487366334	OK	 
+USER	débitos	END	1709487366334
+USER	débitos	START	1709487366342
+REQUEST		débitos	1709487366341	1709487366347	OK	 
+USER	débitos	END	1709487366347
+REQUEST		créditos	1709487366325	1709487366348	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366349
+USER	créditos	START	1709487366356
+REQUEST		créditos	1709487366356	1709487366367	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366368
+USER	débitos	START	1709487366372
+REQUEST		débitos	1709487366371	1709487366377	OK	 
+USER	débitos	END	1709487366378
+USER	débitos	START	1709487366388
+REQUEST		débitos	1709487366387	1709487366392	OK	 
+USER	débitos	END	1709487366392
+USER	créditos	START	1709487366406
+USER	débitos	START	1709487366423
+REQUEST		créditos	1709487366405	1709487366424	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366425
+REQUEST		débitos	1709487366420	1709487366429	OK	 
+USER	débitos	END	1709487366430
+USER	créditos	START	1709487366434
+USER	débitos	START	1709487366435
+REQUEST		débitos	1709487366433	1709487366443	OK	 
+USER	débitos	END	1709487366444
+USER	débitos	START	1709487366450
+REQUEST		créditos	1709487366433	1709487366452	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366453
+REQUEST		débitos	1709487366449	1709487366459	OK	 
+USER	débitos	END	1709487366459
+USER	débitos	START	1709487366480
+USER	créditos	START	1709487366480
+REQUEST		débitos	1709487366480	1709487366489	OK	 
+USER	débitos	END	1709487366490
+USER	débitos	START	1709487366497
+REQUEST		créditos	1709487366480	1709487366504	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366506
+REQUEST		débitos	1709487366496	1709487366507	OK	 
+USER	débitos	END	1709487366507
+USER	débitos	START	1709487366527
+USER	créditos	START	1709487366527
+USER	extratos	START	1709487366542
+USER	débitos	START	1709487366545
+REQUEST		débitos	1709487366526	1709487366549	OK	 
+USER	débitos	END	1709487366550
+REQUEST		débitos	1709487366544	1709487366559	OK	 
+USER	débitos	END	1709487366560
+USER	créditos	START	1709487366561
+USER	débitos	START	1709487366563
+REQUEST		extratos	1709487366541	1709487366565	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+REQUEST		créditos	1709487366526	1709487366565	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	extratos	END	1709487366566
+USER	créditos	END	1709487366566
+REQUEST		débitos	1709487366562	1709487366571	OK	 
+USER	débitos	END	1709487366572
+REQUEST		créditos	1709487366560	1709487366580	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366581
+USER	débitos	START	1709487366588
+REQUEST		débitos	1709487366588	1709487366593	OK	 
+USER	débitos	END	1709487366594
+USER	créditos	START	1709487366596
+USER	débitos	START	1709487366607
+REQUEST		créditos	1709487366595	1709487366613	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366614
+REQUEST		débitos	1709487366606	1709487366615	OK	 
+USER	débitos	END	1709487366616
+USER	débitos	START	1709487366620
+REQUEST		débitos	1709487366619	1709487366633	OK	 
+USER	débitos	END	1709487366633
+USER	créditos	START	1709487366639
+USER	débitos	START	1709487366650
+REQUEST		créditos	1709487366636	1709487366652	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366654
+REQUEST		débitos	1709487366650	1709487366657	OK	 
+USER	débitos	END	1709487366658
+USER	débitos	START	1709487366666
+REQUEST		débitos	1709487366665	1709487366677	OK	 
+USER	débitos	END	1709487366678
+USER	créditos	START	1709487366681
+REQUEST		créditos	1709487366680	1709487366696	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366697
+USER	débitos	START	1709487366697
+REQUEST		débitos	1709487366696	1709487366702	OK	 
+USER	débitos	END	1709487366703
+USER	débitos	START	1709487366712
+REQUEST		débitos	1709487366711	1709487366721	OK	 
+USER	débitos	END	1709487366722
+USER	débitos	START	1709487366727
+USER	créditos	START	1709487366727
+REQUEST		débitos	1709487366726	1709487366734	OK	 
+USER	débitos	END	1709487366734
+REQUEST		créditos	1709487366726	1709487366744	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366744
+USER	débitos	START	1709487366757
+USER	créditos	START	1709487366757
+REQUEST		débitos	1709487366757	1709487366765	OK	 
+USER	débitos	END	1709487366765
+USER	débitos	START	1709487366772
+REQUEST		créditos	1709487366757	1709487366772	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366773
+REQUEST		débitos	1709487366772	1709487366778	OK	 
+USER	débitos	END	1709487366779
+USER	débitos	START	1709487366790
+REQUEST		débitos	1709487366790	1709487366796	OK	 
+USER	débitos	END	1709487366796
+USER	créditos	START	1709487366804
+USER	débitos	START	1709487366818
+REQUEST		créditos	1709487366803	1709487366823	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366824
+REQUEST		débitos	1709487366817	1709487366826	OK	 
+USER	débitos	END	1709487366827
+USER	créditos	START	1709487366834
+USER	débitos	START	1709487366834
+REQUEST		débitos	1709487366834	1709487366844	OK	 
+USER	débitos	END	1709487366844
+REQUEST		créditos	1709487366834	1709487366854	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366855
+USER	débitos	START	1709487366864
+REQUEST		débitos	1709487366864	1709487366870	OK	 
+USER	débitos	END	1709487366871
+USER	débitos	START	1709487366879
+USER	créditos	START	1709487366879
+USER	extratos	START	1709487366879
+REQUEST		débitos	1709487366879	1709487366888	OK	 
+REQUEST		extratos	1709487366879	1709487366889	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	débitos	END	1709487366890
+USER	extratos	END	1709487366890
+USER	débitos	START	1709487366895
+REQUEST		créditos	1709487366879	1709487366897	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366899
+REQUEST		débitos	1709487366894	1709487366903	OK	 
+USER	débitos	END	1709487366904
+USER	créditos	START	1709487366926
+USER	débitos	START	1709487366926
+REQUEST		débitos	1709487366926	1709487366933	OK	 
+USER	débitos	END	1709487366934
+USER	débitos	START	1709487366942
+REQUEST		créditos	1709487366926	1709487366947	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366947
+REQUEST		débitos	1709487366941	1709487366952	OK	 
+USER	débitos	END	1709487366952
+USER	créditos	START	1709487366958
+USER	débitos	START	1709487366959
+REQUEST		débitos	1709487366958	1709487366964	OK	 
+USER	débitos	END	1709487366965
+USER	débitos	START	1709487366974
+REQUEST		créditos	1709487366957	1709487366974	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487366975
+REQUEST		débitos	1709487366973	1709487366979	OK	 
+USER	débitos	END	1709487366980
+USER	débitos	START	1709487366994
+USER	créditos	START	1709487367006
+REQUEST		débitos	1709487366994	1709487367011	OK	 
+USER	débitos	END	1709487367012
+USER	débitos	START	1709487367021
+REQUEST		créditos	1709487367006	1709487367027	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367030
+REQUEST		débitos	1709487367019	1709487367035	OK	 
+USER	débitos	END	1709487367036
+USER	débitos	START	1709487367038
+USER	créditos	START	1709487367038
+REQUEST		débitos	1709487367038	1709487367043	OK	 
+USER	débitos	END	1709487367044
+REQUEST		créditos	1709487367038	1709487367051	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367051
+USER	débitos	START	1709487367068
+REQUEST		débitos	1709487367068	1709487367075	OK	 
+USER	débitos	END	1709487367075
+USER	créditos	START	1709487367084
+USER	débitos	START	1709487367084
+REQUEST		débitos	1709487367083	1709487367096	OK	 
+USER	débitos	END	1709487367097
+USER	débitos	START	1709487367099
+REQUEST		créditos	1709487367083	1709487367109	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367110
+REQUEST		débitos	1709487367099	1709487367111	OK	 
+USER	débitos	END	1709487367112
+USER	débitos	START	1709487367129
+USER	créditos	START	1709487367129
+REQUEST		débitos	1709487367129	1709487367141	OK	 
+USER	débitos	END	1709487367142
+USER	débitos	START	1709487367146
+REQUEST		créditos	1709487367129	1709487367149	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367150
+REQUEST		débitos	1709487367146	1709487367157	OK	 
+USER	débitos	END	1709487367157
+USER	débitos	START	1709487367161
+USER	créditos	START	1709487367161
+REQUEST		débitos	1709487367160	1709487367167	OK	 
+USER	débitos	END	1709487367167
+REQUEST		créditos	1709487367160	1709487367174	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367175
+USER	débitos	START	1709487367176
+REQUEST		débitos	1709487367175	1709487367182	OK	 
+USER	débitos	END	1709487367183
+USER	créditos	START	1709487367217
+USER	débitos	START	1709487367217
+USER	débitos	START	1709487367217
+USER	extratos	START	1709487367217
+REQUEST		débitos	1709487367217	1709487367240	OK	 
+USER	débitos	END	1709487367240
+REQUEST		débitos	1709487367217	1709487367244	OK	 
+USER	débitos	END	1709487367245
+USER	débitos	START	1709487367252
+USER	créditos	START	1709487367254
+REQUEST		extratos	1709487367217	1709487367261	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487367262
+REQUEST		créditos	1709487367217	1709487367264	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367265
+USER	débitos	START	1709487367267
+REQUEST		débitos	1709487367252	1709487367272	OK	 
+USER	débitos	END	1709487367273
+REQUEST		débitos	1709487367267	1709487367276	OK	 
+USER	débitos	END	1709487367276
+REQUEST		créditos	1709487367252	1709487367280	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367280
+USER	débitos	START	1709487367282
+USER	créditos	START	1709487367282
+REQUEST		débitos	1709487367282	1709487367289	OK	 
+USER	débitos	END	1709487367290
+USER	débitos	START	1709487367298
+REQUEST		créditos	1709487367282	1709487367302	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367304
+REQUEST		débitos	1709487367298	1709487367307	OK	 
+USER	débitos	END	1709487367308
+USER	débitos	START	1709487367325
+USER	créditos	START	1709487367325
+REQUEST		débitos	1709487367324	1709487367340	OK	 
+USER	débitos	END	1709487367341
+USER	débitos	START	1709487367341
+REQUEST		débitos	1709487367340	1709487367350	OK	 
+USER	débitos	END	1709487367351
+USER	débitos	START	1709487367365
+USER	créditos	START	1709487367365
+REQUEST		créditos	1709487367324	1709487367369	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367370
+REQUEST		débitos	1709487367364	1709487367377	OK	 
+USER	débitos	END	1709487367377
+USER	débitos	START	1709487367381
+REQUEST		créditos	1709487367364	1709487367383	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367384
+REQUEST		débitos	1709487367381	1709487367389	OK	 
+USER	débitos	END	1709487367389
+USER	créditos	START	1709487367406
+USER	débitos	START	1709487367406
+REQUEST		débitos	1709487367406	1709487367416	OK	 
+USER	débitos	END	1709487367416
+USER	débitos	START	1709487367424
+REQUEST		créditos	1709487367406	1709487367429	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367430
+REQUEST		débitos	1709487367424	1709487367437	OK	 
+USER	débitos	END	1709487367438
+USER	débitos	START	1709487367440
+USER	créditos	START	1709487367440
+USER	débitos	START	1709487367462
+REQUEST		débitos	1709487367439	1709487367470	OK	 
+USER	débitos	END	1709487367471
+USER	débitos	START	1709487367476
+USER	créditos	START	1709487367480
+REQUEST		débitos	1709487367461	1709487367481	OK	 
+USER	débitos	END	1709487367481
+REQUEST		créditos	1709487367440	1709487367489	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367490
+REQUEST		débitos	1709487367476	1709487367498	OK	 
+USER	débitos	END	1709487367499
+REQUEST		créditos	1709487367478	1709487367505	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367506
+USER	débitos	START	1709487367508
+REQUEST		débitos	1709487367507	1709487367515	OK	 
+USER	débitos	END	1709487367516
+USER	débitos	START	1709487367533
+USER	créditos	START	1709487367534
+REQUEST		débitos	1709487367533	1709487367546	OK	 
+USER	débitos	END	1709487367547
+USER	extratos	START	1709487367549
+USER	débitos	START	1709487367550
+REQUEST		débitos	1709487367549	1709487367560	OK	 
+USER	débitos	END	1709487367561
+REQUEST		extratos	1709487367548	1709487367563	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487367564
+USER	créditos	START	1709487367564
+USER	débitos	START	1709487367565
+REQUEST		créditos	1709487367533	1709487367567	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367569
+REQUEST		débitos	1709487367565	1709487367574	OK	 
+USER	débitos	END	1709487367574
+USER	débitos	START	1709487367581
+REQUEST		créditos	1709487367564	1709487367583	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367584
+REQUEST		débitos	1709487367581	1709487367589	OK	 
+USER	débitos	END	1709487367590
+USER	créditos	START	1709487367609
+USER	débitos	START	1709487367610
+REQUEST		débitos	1709487367610	1709487367626	OK	 
+USER	débitos	END	1709487367627
+USER	débitos	START	1709487367628
+REQUEST		débitos	1709487367627	1709487367634	OK	 
+USER	débitos	END	1709487367635
+USER	créditos	START	1709487367636
+USER	débitos	START	1709487367639
+REQUEST		créditos	1709487367608	1709487367644	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367645
+REQUEST		débitos	1709487367639	1709487367647	OK	 
+USER	débitos	END	1709487367647
+REQUEST		créditos	1709487367635	1709487367655	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367656
+USER	débitos	START	1709487367673
+REQUEST		débitos	1709487367673	1709487367680	OK	 
+USER	débitos	END	1709487367681
+USER	débitos	START	1709487367699
+USER	créditos	START	1709487367699
+USER	débitos	START	1709487367710
+USER	débitos	START	1709487367715
+USER	créditos	START	1709487367715
+REQUEST		débitos	1709487367699	1709487367717	OK	 
+USER	débitos	END	1709487367717
+REQUEST		créditos	1709487367699	1709487367727	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367728
+REQUEST		débitos	1709487367710	1709487367731	OK	 
+USER	débitos	END	1709487367732
+REQUEST		débitos	1709487367714	1709487367732	OK	 
+USER	débitos	END	1709487367733
+REQUEST		créditos	1709487367715	1709487367735	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367736
+USER	débitos	START	1709487367746
+REQUEST		débitos	1709487367745	1709487367752	OK	 
+USER	débitos	END	1709487367753
+USER	créditos	START	1709487367770
+USER	débitos	START	1709487367770
+REQUEST		débitos	1709487367770	1709487367778	OK	 
+USER	débitos	END	1709487367779
+USER	débitos	START	1709487367789
+REQUEST		créditos	1709487367770	1709487367791	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367791
+REQUEST		débitos	1709487367787	1709487367795	OK	 
+USER	débitos	END	1709487367795
+USER	débitos	START	1709487367811
+USER	créditos	START	1709487367811
+REQUEST		débitos	1709487367810	1709487367825	OK	 
+USER	débitos	END	1709487367826
+USER	débitos	START	1709487367826
+REQUEST		débitos	1709487367826	1709487367831	OK	 
+USER	débitos	END	1709487367833
+REQUEST		créditos	1709487367810	1709487367834	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367835
+USER	créditos	START	1709487367841
+USER	débitos	START	1709487367841
+REQUEST		débitos	1709487367841	1709487367850	OK	 
+USER	débitos	END	1709487367851
+USER	débitos	START	1709487367857
+REQUEST		créditos	1709487367841	1709487367860	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367861
+REQUEST		débitos	1709487367857	1709487367867	OK	 
+USER	débitos	END	1709487367867
+USER	débitos	START	1709487367886
+USER	créditos	START	1709487367887
+USER	extratos	START	1709487367888
+USER	débitos	START	1709487367895
+REQUEST		débitos	1709487367885	1709487367913	OK	 
+USER	débitos	END	1709487367914
+REQUEST		extratos	1709487367887	1709487367915	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+REQUEST		débitos	1709487367895	1709487367916	OK	 
+USER	extratos	END	1709487367916
+USER	débitos	END	1709487367916
+REQUEST		créditos	1709487367887	1709487367919	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367920
+USER	créditos	START	1709487367938
+USER	débitos	START	1709487367938
+USER	débitos	START	1709487367938
+REQUEST		débitos	1709487367937	1709487367948	OK	 
+USER	débitos	END	1709487367953
+USER	débitos	START	1709487367953
+USER	créditos	START	1709487367956
+REQUEST		débitos	1709487367937	1709487367960	OK	 
+USER	débitos	END	1709487367960
+REQUEST		débitos	1709487367953	1709487367964	OK	 
+USER	débitos	END	1709487367965
+REQUEST		créditos	1709487367937	1709487367975	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		créditos	1709487367954	1709487367976	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487367977
+USER	créditos	END	1709487367977
+USER	débitos	START	1709487367977
+REQUEST		débitos	1709487367977	1709487367982	OK	 
+USER	débitos	END	1709487367983
+USER	débitos	START	1709487368001
+USER	créditos	START	1709487368001
+REQUEST		débitos	1709487368001	1709487368011	OK	 
+USER	débitos	END	1709487368012
+USER	débitos	START	1709487368017
+REQUEST		créditos	1709487368001	1709487368025	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368025
+REQUEST		débitos	1709487368016	1709487368028	OK	 
+USER	débitos	END	1709487368029
+USER	créditos	START	1709487368035
+USER	débitos	START	1709487368038
+REQUEST		débitos	1709487368035	1709487368046	OK	 
+USER	débitos	END	1709487368046
+REQUEST		créditos	1709487368034	1709487368058	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368058
+USER	débitos	START	1709487368077
+USER	débitos	START	1709487368081
+USER	créditos	START	1709487368082
+USER	débitos	START	1709487368093
+REQUEST		débitos	1709487368080	1709487368097	OK	 
+USER	débitos	END	1709487368098
+REQUEST		débitos	1709487368076	1709487368100	OK	 
+USER	débitos	END	1709487368101
+REQUEST		débitos	1709487368092	1709487368102	OK	 
+USER	débitos	END	1709487368102
+USER	créditos	START	1709487368109
+USER	débitos	START	1709487368111
+REQUEST		créditos	1709487368082	1709487368113	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368114
+REQUEST		débitos	1709487368111	1709487368125	OK	 
+USER	débitos	END	1709487368125
+REQUEST		créditos	1709487368108	1709487368133	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368134
+USER	débitos	START	1709487368144
+USER	créditos	START	1709487368144
+REQUEST		débitos	1709487368143	1709487368158	OK	 
+USER	débitos	END	1709487368159
+USER	débitos	START	1709487368160
+REQUEST		débitos	1709487368160	1709487368167	OK	 
+USER	débitos	END	1709487368168
+REQUEST		créditos	1709487368143	1709487368168	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368168
+USER	débitos	START	1709487368186
+USER	créditos	START	1709487368187
+REQUEST		débitos	1709487368185	1709487368197	OK	 
+USER	débitos	END	1709487368197
+USER	débitos	START	1709487368202
+REQUEST		créditos	1709487368186	1709487368205	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368206
+REQUEST		débitos	1709487368201	1709487368210	OK	 
+USER	débitos	END	1709487368211
+USER	extratos	START	1709487368212
+REQUEST		extratos	1709487368211	1709487368221	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	débitos	START	1709487368226
+USER	extratos	END	1709487368226
+USER	débitos	START	1709487368233
+USER	créditos	START	1709487368233
+USER	débitos	START	1709487368250
+REQUEST		débitos	1709487368226	1709487368255	OK	 
+USER	débitos	END	1709487368256
+USER	créditos	START	1709487368266
+REQUEST		débitos	1709487368232	1709487368268	OK	 
+USER	débitos	END	1709487368269
+REQUEST		débitos	1709487368249	1709487368277	OK	 
+USER	débitos	END	1709487368278
+USER	débitos	START	1709487368280
+REQUEST		créditos	1709487368232	1709487368282	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368283
+REQUEST		créditos	1709487368266	1709487368286	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368286
+REQUEST		débitos	1709487368280	1709487368288	OK	 
+USER	débitos	END	1709487368290
+USER	débitos	START	1709487368307
+USER	débitos	START	1709487368308
+USER	créditos	START	1709487368308
+REQUEST		débitos	1709487368307	1709487368317	OK	 
+USER	débitos	END	1709487368318
+REQUEST		débitos	1709487368306	1709487368324	OK	 
+USER	débitos	END	1709487368325
+REQUEST		créditos	1709487368307	1709487368334	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368335
+USER	créditos	START	1709487368345
+USER	débitos	START	1709487368345
+REQUEST		débitos	1709487368345	1709487368353	OK	 
+USER	débitos	END	1709487368354
+USER	débitos	START	1709487368363
+REQUEST		créditos	1709487368345	1709487368365	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368366
+REQUEST		débitos	1709487368362	1709487368370	OK	 
+USER	débitos	END	1709487368371
+USER	créditos	START	1709487368392
+USER	débitos	START	1709487368393
+USER	débitos	START	1709487368393
+REQUEST		débitos	1709487368391	1709487368402	OK	 
+REQUEST		débitos	1709487368393	1709487368404	OK	 
+USER	débitos	END	1709487368405
+USER	débitos	END	1709487368405
+REQUEST		créditos	1709487368392	1709487368410	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368410
+USER	débitos	START	1709487368428
+USER	créditos	START	1709487368428
+USER	débitos	START	1709487368429
+REQUEST		débitos	1709487368428	1709487368439	OK	 
+USER	débitos	END	1709487368440
+REQUEST		débitos	1709487368428	1709487368442	OK	 
+USER	débitos	END	1709487368444
+USER	débitos	START	1709487368444
+REQUEST		débitos	1709487368443	1709487368452	OK	 
+USER	débitos	END	1709487368453
+USER	créditos	START	1709487368459
+REQUEST		créditos	1709487368428	1709487368473	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368474
+USER	débitos	START	1709487368475
+REQUEST		créditos	1709487368459	1709487368485	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		débitos	1709487368475	1709487368485	OK	 
+USER	créditos	END	1709487368485
+USER	débitos	END	1709487368486
+USER	créditos	START	1709487368492
+USER	débitos	START	1709487368493
+REQUEST		débitos	1709487368493	1709487368502	OK	 
+USER	débitos	END	1709487368502
+USER	débitos	START	1709487368508
+REQUEST		créditos	1709487368490	1709487368510	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368511
+REQUEST		débitos	1709487368507	1709487368519	OK	 
+USER	débitos	END	1709487368520
+USER	créditos	START	1709487368537
+USER	débitos	START	1709487368542
+USER	extratos	START	1709487368544
+USER	débitos	START	1709487368553
+REQUEST		débitos	1709487368541	1709487368554	OK	 
+USER	débitos	END	1709487368555
+REQUEST		extratos	1709487368543	1709487368555	KO	jmesPath(saldo.total).find.ConsistenciaSaldoLimite - Extrato, Limite ultrapassado!
+USER	extratos	END	1709487368556
+REQUEST		débitos	1709487368552	1709487368560	OK	 
+USER	débitos	END	1709487368560
+USER	débitos	START	1709487368569
+REQUEST		créditos	1709487368537	1709487368573	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368574
+USER	créditos	START	1709487368575
+REQUEST		débitos	1709487368567	1709487368580	OK	 
+USER	débitos	END	1709487368581
+USER	débitos	START	1709487368583
+REQUEST		débitos	1709487368582	1709487368592	OK	 
+USER	débitos	END	1709487368592
+REQUEST		créditos	1709487368573	1709487368595	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368596
+USER	débitos	START	1709487368613
+USER	créditos	START	1709487368616
+REQUEST		débitos	1709487368613	1709487368624	OK	 
+USER	débitos	END	1709487368624
+USER	débitos	START	1709487368631
+REQUEST		débitos	1709487368628	1709487368636	OK	 
+USER	débitos	END	1709487368637
+REQUEST		créditos	1709487368615	1709487368637	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368638
+USER	débitos	START	1709487368639
+USER	créditos	START	1709487368644
+REQUEST		débitos	1709487368638	1709487368652	OK	 
+USER	débitos	END	1709487368653
+REQUEST		créditos	1709487368644	1709487368660	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709487368661
+USER	débitos	START	1709487368662
+REQUEST		débitos	1709487368661	1709487368667	OK	 
+USER	débitos	END	1709487368668
+USER	débitos	START	1709487368690
+USER	créditos	START	1709487368691
+USER	débitos	START	1709487368700
+REQUEST		débitos	1709487368689	1709487368702	OK	 
+USER	débitos	END	1709487368702
+REQUEST		

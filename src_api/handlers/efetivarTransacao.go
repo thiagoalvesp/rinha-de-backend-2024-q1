@@ -24,14 +24,14 @@ func (p Pool) EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	err = json.NewDecoder(r.Body).Decode(&transacao)
 	if err != nil {
 		log.Printf("erro ao fazer decode json: %v", err)
-		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
+		http.Error(w, http.StatusText(http.StatusUnprocessableEntity), http.StatusUnprocessableEntity)
 		return
 	}
 
 	//cliente existe?
 	_, err = models.BuscarClientePorId(idCliente, p.ConnPool)
 	if err != nil {
-		log.Printf("erro ao fazer decode json: %v", err)
+		log.Printf("erro ao buscar o cliente: %v", err)
 		http.Error(w, http.StatusText(http.StatusNotFound), http.StatusNotFound)
 		return
 	}
@@ -40,7 +40,7 @@ func (p Pool) EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	transacao.IdCliente = idCliente
 	err = models.Efetivar(transacao, p.ConnPool)
 	if err != nil {
-		log.Printf("erro ao fazer decode json: %v", err)
+		log.Printf("erro ao efetivar a transacao: %v", err)
 		http.Error(w, http.StatusText(http.StatusUnprocessableEntity), http.StatusUnprocessableEntity)
 		return
 	}
@@ -48,7 +48,7 @@ func (p Pool) EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	//consulto o saldo atual do cliente
 	cliente, err := models.BuscarClientePorId(idCliente, p.ConnPool)
 	if err != nil {
-		log.Printf("erro ao fazer decode json: %v", err)
+		log.Printf("erro ao buscar o cliente para devolver o saldo %v", err)
 		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
 		return
 	}
