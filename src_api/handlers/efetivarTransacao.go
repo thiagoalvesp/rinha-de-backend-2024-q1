@@ -16,10 +16,11 @@ func (p Pool) EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	Sid := chi.URLParam(r, "id")
 	idCliente, err := strconv.Atoi(Sid)
 	if err != nil {
-		log.Printf("Erro ao fazer o parse do idCliente: %v", err)
+		log.Printf("erro ao fazer o parse do idCliente: %v", err)
 		http.Error(w, http.StatusText(http.StatusInternalServerError), http.StatusInternalServerError)
 		return
 	}
+	transacao.IdCliente = idCliente
 
 	err = json.NewDecoder(r.Body).Decode(&transacao)
 	if err != nil {
@@ -29,20 +30,26 @@ func (p Pool) EfetivarTransacao(w http.ResponseWriter, r *http.Request) {
 	}
 
 	//cliente existe
-	cliente, err := models.BuscarClientePorId(idCliente, p.ConnPool)
-	if err != nil {
-		log.Printf("erro ao buscar o cliente: %v", err)
+	cliente, ok :=  p.GerenciadorAtorCliente.RetornaClienteAtorPorId(transacao.IdCliente)
+	if !ok {
+		log.Printf("cliente nao encontrado")
 		http.Error(w, http.StatusText(http.StatusNotFound), http.StatusNotFound)
 		return
 	}
 
-	//efetiva a transacao e retorna o saldo atualizado
-	cliente, err = models.Efetivar(cliente, transacao, p.ConnPool)
-	if err != nil {
-		log.Printf("erro ao efetivar a transacao: %v", err)
-		http.Error(w, http.StatusText(http.StatusUnprocessableEntity), http.StatusUnprocessableEntity)
-		return
+	//pode processar
+	if transacao.DoTipoDebito() {
+		if !cliente.PodeDebitar(transacao.Valor) {
+			log.Printf("saldo insuficiente")
+			http.Error(w, http.StatusText(http.StatusUnprocessableEntity), http.StatusUnprocessableEntity)
+		}
 	}
+
+	//envia transacao
+	p.GerenciadorAtorCliente.ReceberTransacao(transacao)
+
+	//processa do ator
+	cliente.ProcessarMensagens()
 
 	if err == nil {
 		w.Header().Add("Content-Type", "application/json")

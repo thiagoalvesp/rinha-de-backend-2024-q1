@@ -4,6 +4,7 @@ import (
 	"context"
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/jackc/pgx/v5/pgxpool"
+	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/models"
 	"log"
 	"net/http"
 	"time"
@@ -26,7 +27,6 @@ func main() {
 	dbConfig.MaxConnIdleTime = time.Minute * 30
 	dbConfig.HealthCheckPeriod = time.Minute
 	dbConfig.ConnConfig.ConnectTimeout = time.Second * 10
-
 	// Create database connection
 	connPool,err := pgxpool.NewWithConfig(context.Background(), dbConfig)
 	if err!=nil {
@@ -34,9 +34,18 @@ func main() {
 	}
 	defer connPool.Close()
 
+	//configuracoes do atores
+	clientes, err :=  models.BuscarTodosClientes(connPool)
+
+	gerenciadorAtorCliente := models.NovoGerenciadorAtorCliente()
+	for _, c := range clientes {
+		gerenciadorAtorCliente.RegistrarCliente(c)
+	}
+
 	//router
 	var p handlers.Pool
 	p.ConnPool = connPool
+	p.GerenciadorAtorCliente = gerenciadorAtorCliente
 
 	r := chi.NewRouter()
 

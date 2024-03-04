@@ -17,6 +17,32 @@ func BuscarClientePorId(idCliente int, connPoll *pgxpool.Pool) (cliente Cliente,
 	return
 }
 
+func BuscarTodosClientes(connPoll *pgxpool.Pool) (clientes []Cliente, err error) {
+
+	rows, err := connPoll.Query(context.Background(),`SELECT id, saldo, limite FROM clientes ORDER BY id`)
+	if err != nil {
+		return
+	}
+	defer rows.Close()
+
+	///tem oportunidade aqui?
+	for rows.Next() {
+		var c Cliente
+		err = rows.Scan(&c.Id, &c.Saldo, &c.Limite)
+		if err != nil {
+			return
+		}
+		// Adicione o nome ao slice
+		clientes = append(clientes, c)
+	}
+
+	if err = rows.Err(); err != nil {
+		return
+	}
+
+	return clientes, err
+}
+
 func CarregarExtratoPorCliente(cliente Cliente, connPoll *pgxpool.Pool) (extrato Extrato, err error) {
 
 	//carregar dados do cliente no extrato
