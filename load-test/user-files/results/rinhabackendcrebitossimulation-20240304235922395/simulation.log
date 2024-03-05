@@ -1,0 +1,237 @@
+RUN	RinhaBackendCrebitosSimulation	rinhabackendcrebitossimulation	1709596762395	Rinha de Backend - 2024/Q1: CrÃ©bito	3.10.3
+USER	validação concorrência transações - d	START	1709596764444
+USER	validação concorrência transações - d	START	1709596764446
+USER	validação concorrência transações - d	START	1709596764450
+USER	validação concorrência transações - d	START	1709596764451
+USER	validação concorrência transações - d	START	1709596764452
+USER	validação concorrência transações - d	START	1709596764452
+USER	validação concorrência transações - d	START	1709596764454
+USER	validação concorrência transações - d	START	1709596764454
+USER	validação concorrência transações - d	START	1709596764454
+USER	validação concorrência transações - d	START	1709596764454
+USER	validação concorrência transações - d	START	1709596764455
+USER	validação concorrência transações - d	START	1709596764456
+USER	validação concorrência transações - d	START	1709596764456
+USER	validação concorrência transações - d	START	1709596764458
+USER	validação concorrência transações - d	START	1709596764458
+USER	validação concorrência transações - d	START	1709596764458
+USER	validação concorrência transações - d	START	1709596764459
+USER	validação concorrência transações - d	START	1709596764459
+USER	validação concorrência transações - d	START	1709596764460
+USER	validação concorrência transações - d	START	1709596764461
+USER	validação concorrência transações - d	START	1709596764461
+USER	validação concorrência transações - d	START	1709596764461
+USER	validação concorrência transações - d	START	1709596764462
+USER	validação concorrência transações - d	START	1709596764462
+USER	validação concorrência transações - d	START	1709596764466
+REQUEST		validações	1709596764446	1709596764492	OK	 
+REQUEST		validações	1709596764320	1709596764540	OK	 
+USER	validação concorrência transações - d	END	1709596764553
+USER	validação concorrência transações - d	END	1709596764553
+REQUEST		validações	1709596764321	1709596764553	OK	 
+USER	validação concorrência transações - d	END	1709596764554
+REQUEST		validações	1709596764335	1709596764596	OK	 
+USER	validação concorrência transações - d	END	1709596764598
+REQUEST		validações	1709596764321	1709596764619	OK	 
+USER	validação concorrência transações - d	END	1709596764621
+REQUEST		validações	1709596764318	1709596764633	OK	 
+USER	validação concorrência transações - d	END	1709596764634
+REQUEST		validações	1709596764320	1709596764659	OK	 
+REQUEST		validações	1709596764335	1709596764668	OK	 
+USER	validação concorrência transações - d	END	1709596764674
+USER	validação concorrência transações - d	END	1709596764674
+REQUEST		validações	1709596764321	1709596764734	OK	 
+USER	validação concorrência transações - d	END	1709596764736
+REQUEST		validações	1709596764321	1709596764742	OK	 
+USER	validação concorrência transações - d	END	1709596764743
+REQUEST		validações	1709596764451	1709596765342	OK	 
+USER	validação concorrência transações - d	END	1709596765343
+REQUEST		validações	1709596764456	1709596765570	OK	 
+USER	validação concorrência transações - d	END	1709596765572
+REQUEST		validações	1709596764333	1709596765591	OK	 
+USER	validação concorrência transações - d	END	1709596765593
+REQUEST		validações	1709596764459	1709596765598	OK	 
+REQUEST		validações	1709596764461	1709596765600	OK	 
+USER	validação concorrência transações - d	END	1709596765601
+USER	validação concorrência transações - d	END	1709596765601
+REQUEST		validações	1709596764318	1709596765605	OK	 
+USER	validação concorrência transações - d	END	1709596765609
+REQUEST		validações	1709596764455	1709596765612	OK	 
+USER	validação concorrência transações - d	END	1709596765614
+REQUEST		validações	1709596764453	1709596765616	OK	 
+USER	validação concorrência transações - d	END	1709596765618
+REQUEST		validações	1709596764318	1709596765621	OK	 
+USER	validação concorrência transações - d	END	1709596765625
+REQUEST		validações	1709596764462	1709596765633	OK	 
+USER	validação concorrência transações - d	END	1709596765634
+REQUEST		validações	1709596764320	1709596765637	OK	 
+USER	validação concorrência transações - d	END	1709596765639
+REQUEST		validações	1709596764321	1709596765641	OK	 
+USER	validação concorrência transações - d	END	1709596765642
+REQUEST		validações	1709596764320	1709596765646	OK	 
+USER	validação concorrência transações - d	END	1709596765647
+REQUEST		validações	1709596764461	1709596765650	OK	 
+USER	validação concorrência transações - d	END	1709596765652
+REQUEST		validações	1709596764322	1709596765653	OK	 
+USER	validação concorrência transações - d	END	1709596765654
+USER	validação concorrência saldo - -25	START	1709596765831
+REQUEST		validações	1709596765829	1709596765835	KO	jmesPath(saldo.total).find.is(-25), but actually found -325
+USER	validação concorrência saldo - -25	END	1709596766025
+USER	validação concorrência transações - c	START	1709596766855
+USER	validação concorrência transações - c	START	1709596766855
+USER	validação concorrência transações - c	START	1709596766855
+USER	validação concorrência transações - c	START	1709596766855
+USER	validação concorrência transações - c	START	1709596766855
+USER	validação concorrência transações - c	START	1709596766855
+USER	validação concorrência transações - c	START	1709596766855
+USER	validação concorrência transações - c	START	1709596766861
+USER	validação concorrência transações - c	START	1709596766861
+USER	validação concorrência transações - c	START	1709596766861
+USER	validação concorrência transações - c	START	1709596766861
+USER	validação concorrência transações - c	START	1709596766862
+USER	validação concorrência transações - c	START	1709596766862
+USER	validação concorrência transações - c	START	1709596766864
+USER	validação concorrência transações - c	START	1709596766865
+USER	validação concorrência transações - c	START	1709596766866
+USER	validação concorrência transações - c	START	1709596766866
+USER	validação concorrência transações - c	START	1709596766866
+USER	validação concorrência transações - c	START	1709596766868
+USER	validação concorrência transações - c	START	1709596766869
+USER	validação concorrência transações - c	START	1709596766869
+USER	validação concorrência transações - c	START	1709596766870
+USER	validação concorrência transações - c	START	1709596766872
+USER	validação concorrência transações - c	START	1709596766872
+USER	validação concorrência transações - c	START	1709596766873
+REQUEST		validações	1709596766854	1709596767008	OK	 
+USER	validação concorrência transações - c	END	1709596767009
+REQUEST		validações	1709596766865	1709596767038	OK	 
+USER	validação concorrência transações - c	END	1709596767039
+REQUEST		validações	1709596766869	1709596767078	OK	 
+USER	validação concorrência transações - c	END	1709596767079
+REQUEST		validações	1709596766864	1709596767088	OK	 
+USER	validação concorrência transações - c	END	1709596767089
+REQUEST		validações	1709596766854	1709596767093	OK	 
+USER	validação concorrência transações - c	END	1709596767094
+REQUEST		validações	1709596766854	1709596767100	OK	 
+USER	validação concorrência transações - c	END	1709596767101
+REQUEST		validações	1709596766860	1709596767105	OK	 
+USER	validação concorrência transações - c	END	1709596767106
+REQUEST		validações	1709596766860	1709596767108	OK	 
+REQUEST		validações	1709596766854	1709596767108	OK	 
+USER	validação concorrência transações - c	END	1709596767109
+REQUEST		validações	1709596766866	1709596767108	OK	 
+USER	validação concorrência transações - c	END	1709596767109
+REQUEST		validações	1709596766861	1709596767114	OK	 
+REQUEST		validações	1709596766865	1709596767114	OK	 
+REQUEST		validações	1709596766854	1709596767114	OK	 
+USER	validação concorrência transações - c	END	1709596767114
+USER	validação concorrência transações - c	END	1709596767115
+USER	validação concorrência transações - c	END	1709596767115
+USER	validação concorrência transações - c	END	1709596767115
+REQUEST		validações	1709596766869	1709596767116	OK	 
+USER	validação concorrência transações - c	END	1709596767118
+REQUEST		validações	1709596766872	1709596767119	OK	 
+USER	validação concorrência transações - c	END	1709596767119
+REQUEST		validações	1709596766861	1709596767120	OK	 
+USER	validação concorrência transações - c	END	1709596767121
+REQUEST		validações	1709596766854	1709596767122	OK	 
+USER	validação concorrência transações - c	END	1709596767123
+REQUEST		validações	1709596766861	1709596767125	OK	 
+REQUEST		validações	1709596766872	1709596767125	OK	 
+USER	validação concorrência transações - c	END	1709596767126
+USER	validação concorrência transações - c	END	1709596767126
+REQUEST		validações	1709596766865	1709596767127	OK	 
+REQUEST		validações	1709596766861	1709596767128	OK	 
+USER	validação concorrência transações - c	END	1709596767129
+USER	validação concorrência transações - c	END	1709596767129
+REQUEST		validações	1709596766854	1709596767133	OK	 
+REQUEST		validações	1709596766868	1709596767133	OK	 
+USER	validação concorrência transações - c	END	1709596767134
+USER	validação concorrência transações - c	END	1709596767134
+REQUEST		validações	1709596766860	1709596767137	OK	 
+REQUEST		validações	1709596766871	1709596767137	OK	 
+USER	validação concorrência transações - c	END	1709596767138
+USER	validação concorrência transações - c	END	1709596767138
+USER	validação concorrência saldo - 0	START	1709596767836
+REQUEST		validações	1709596767835	1709596767840	KO	jmesPath(saldo.total).find.is(0), but actually found -625
+USER	validação concorrência saldo - 0	END	1709596767843
+USER	validação HTTP 404	START	1709596768831
+USER	validações	START	1709596768831
+USER	validações	START	1709596768831
+USER	validações	START	1709596768831
+USER	validações	START	1709596768831
+USER	validações	START	1709596768831
+REQUEST		validações	1709596768830	1709596768835	OK	 
+USER	validação HTTP 404	END	1709596768836
+REQUEST		validações	1709596768854	1709596768871	OK	 
+REQUEST		validações	1709596768854	1709596768868	OK	 
+REQUEST		validações	1709596768854	1709596768869	KO	jmesPath(saldo.total).find.is(0), but actually found -625
+REQUEST		validações	1709596768863	1709596768894	OK	 
+REQUEST		validações	1709596768860	1709596768900	OK	 
+REQUEST		validações	1709596768872	1709596768904	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768872	1709596768901	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768872	1709596768904	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768896	1709596768911	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768908	1709596768927	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768929	1709596768943	OK	 
+REQUEST		validações	1709596768908	1709596768992	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768914	1709596768992	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768902	1709596769002	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768994	1709596769008	OK	 
+REQUEST		validações	1709596768994	1709596769012	OK	 
+REQUEST		validações	1709596768908	1709596769020	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596768962	1709596769025	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709596769004	1709596769026	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709596769014	1709596769036	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709596769016	1709596769038	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709596769022	1709596769033	OK	 
+REQUEST		validações	1709596769028	1709596769043	OK	 
+REQUEST		validações	1709596769028	1709596769055	OK	 
+REQUEST		validações	1709596769039	1709596769084	OK	 
+REQUEST		validações	1709596769040	1709596769087	OK	 
+REQUEST		validações	1709596769044	1709596769097	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709596769057	1709596769098	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769086	1709596769098	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769088	1709596769099	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769049	1709596769104	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709596769100	1709596769112	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769100	1709596769118	OK	 
+REQUEST		validações	1709596769106	1709596769135	OK	 
+REQUEST		validações	1709596769100	1709596769146	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769100	1709596769146	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769113	1709596769149	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769137	1709596769158	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769120	1709596769158	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769147	1709596769158	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769147	1709596769161	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769151	1709596769164	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709596769166
+REQUEST		validações	1709596769159	1709596769168	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709596769169
+REQUEST		validações	1709596769159	1709596769172	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769163	1709596769188	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709596769189
+REQUEST		validações	1709596769174	1709596769192	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769193	1709596769196	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769159	1709596769196	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709596769197
+REQUEST		validações	1709596769198	1709596769215	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709596769216	1709596769241	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709596769242
+USER	extratos	START	1709596769884
+USER	débitos	START	1709596769889
+USER	créditos	START	1709596769889
+REQUEST		extratos	1709596769883	1709596769893	OK	 
+USER	extratos	END	1709596769897
+REQUEST		créditos	1709596769887	1709596769924	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709596769928
+REQUEST		débitos	1709596769887	1709596769942	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	débitos	END	1709596769946
+USER	créditos	START	1709596770862
+USER	extratos	START	1709596770862
+USER	débitos	START	1709596770863
+REQUEST		extratos	1709596770861	1709596770896	OK	 
+USER	extratos	END	1709596770900
+REQUEST		créditos	1709596770861	1709596770915	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+USER	créditos	END	1709596770917
+REQUEST		débitos	1709596770861	1709596770918	KO	

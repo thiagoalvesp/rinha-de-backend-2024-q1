@@ -2,22 +2,75 @@ package models
 
 import (
 	"context"
-	"github.com/jackc/pgx/v5/pgxpool"
+	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/bd"
+	"sort"
 	"time"
 )
 
-func BuscarClientePorId(idCliente int, connPoll *pgxpool.Pool) (cliente Cliente, err error) {
-
-	row := connPoll.QueryRow(context.Background(),`SELECT id, saldo, limite FROM clientes WHERE id=$1`, idCliente)
-	err = row.Scan(&cliente.Id, &cliente.Saldo, &cliente.Limite)
-	if err != nil {
-		return 
-	}
-	
-	return
+type Saldo struct {
+	Total       int64  `json:"total"`
+	DataExtrato string `json:"data_extrato"`
+	Limite      int64  `json:"limite"`
 }
 
-func BuscarTodosClientes(connPoll *pgxpool.Pool) (clientes []Cliente, err error) {
+type Extrato struct {
+	Saldo             Saldo       `json:"saldo"`
+	UltimasTransacoes []Transacao `json:"ultimas_transacoes"`
+}
+
+type Cliente struct {
+	Id             int         `json:"-"`
+	Saldo          int64       `json:"total"`
+	Limite         int64       `json:"limite"`
+	Transacoes []Transacao `json:"-"`
+}
+
+func (c *Cliente) PodeDebitar(valor int64) bool {
+	return ((c.Limite + c.Saldo) - valor) >= 0
+}
+
+func (c *Cliente) Debitar(valor int64) {
+	c.Saldo -= valor
+}
+
+func (c *Cliente) Creditar(valor int64) {
+	c.Saldo += valor
+}
+
+
+func (c *Cliente) CarregarExtrato() (extrato Extrato, err error) {
+
+	//carregar dados do cliente no extrato
+	extrato.Saldo.Total = c.Saldo
+	extrato.Saldo.Limite = c.Limite
+
+	//carregar a data do extrato
+	layoutData := "2006-01-02T15:04:05.999999Z"
+	agora := time.Now()
+	agoraFormatado := agora.Format(layoutData)
+	extrato.Saldo.DataExtrato = agoraFormatado
+
+
+	//carregar dados das transacoes
+	//ordernar por data decr
+	less := func(i, j int) bool {
+		return c.Transacoes[i].RealizadaEm.After(c.Transacoes[j].RealizadaEm)
+	}
+	sort.Slice(c.Transacoes, less)
+
+	if c.Transacoes != nil{
+		take := min(len(c.Transacoes), 10)
+		for _, t := range  c.Transacoes[:take] {
+			extrato.UltimasTransacoes = append(extrato.UltimasTransacoes, t)
+		}
+	}
+
+	return extrato, err
+}
+
+func BuscarTodosClientes() (clientes []Cliente, err error) {
+
+	connPoll := bd.RetornaPool()
 
 	rows, err := connPoll.Query(context.Background(),`SELECT id, saldo, limite FROM clientes ORDER BY id`)
 	if err != nil {
@@ -32,7 +85,6 @@ func BuscarTodosClientes(connPoll *pgxpool.Pool) (clientes []Cliente, err error)
 		if err != nil {
 			return
 		}
-		// Adicione o nome ao slice
 		clientes = append(clientes, c)
 	}
 
@@ -42,39 +94,9 @@ func BuscarTodosClientes(connPoll *pgxpool.Pool) (clientes []Cliente, err error)
 
 	return clientes, err
 }
-
-func CarregarExtratoPorCliente(cliente Cliente, connPoll *pgxpool.Pool) (extrato Extrato, err error) {
-
-	//carregar dados do cliente no extrato
-	extrato.Saldo.Total = cliente.Saldo
-	extrato.Saldo.Limite = cliente.Limite
-
-	//carregar a data do extrato
-	agora := time.Now()
-	agoraFormatado := agora.Format("2006-01-02T15:04:05.999999Z")
-	extrato.Saldo.DataExtrato = agoraFormatado
-
-	//carregar dados das transacoes
-	rows, err := connPoll.Query(context.Background(),"SELECT valor, tipo, descricao,  TO_CHAR(realizada_em, 'YYYY-MM-DD\"T\"HH24:MI:SS.US\"Z\"') realizada_em FROM transacoes WHERE idCliente = $1 ORDER BY id DESC LIMIT 10", cliente.Id)
-	if err != nil {
-		return
+func min(a, b int) int {
+	if a < b {
+		return a
 	}
-	defer rows.Close()
-
-	///tem oportunidade aqui?
-	for rows.Next() {
-		var transacao Transacao
-		err = rows.Scan(&transacao.Valor, &transacao.Tipo, &transacao.Descricao, &transacao.RealizadaEm)
-		if err != nil {
-			return
-		}
-		// Adicione o nome ao slice
-		extrato.UltimasTransacoes = append(extrato.UltimasTransacoes, transacao)
-	}
-
-	if err = rows.Err(); err != nil {
-		return
-	}
-
-	return extrato, err
+	return b
 }

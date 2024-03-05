@@ -1,41 +1,26 @@
 package main
 
 import (
-	"context"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/jackc/pgx/v5/pgxpool"
+	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/bd"
 	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/models"
 	"log"
 	"net/http"
-	"time"
+
 
 	"github.com/go-chi/chi/v5"
 	"github.com/thiagoalvesp/rinha-de-backend-2024-q1/src_api/handlers"
 )
 
+
 func main() {
 
-	//pool de conexao pg
-	dbConfig, err := pgxpool.ParseConfig("host=localhost port=5432 user=admin password=123 dbname=rinha sslmode=disable")
-	if err!=nil {
-		log.Fatal("Falha ao criar a configuracao, error: ", err)
-	}
-
-	dbConfig.MaxConns = int32(90)
-	dbConfig.MinConns = int32(4)
-	dbConfig.MaxConnLifetime = time.Hour
-	dbConfig.MaxConnIdleTime = time.Minute * 30
-	dbConfig.HealthCheckPeriod = time.Minute
-	dbConfig.ConnConfig.ConnectTimeout = time.Second * 10
-	// Create database connection
-	connPool,err := pgxpool.NewWithConfig(context.Background(), dbConfig)
-	if err!=nil {
-		log.Fatal("Erro durante a conexao com o banco")
-	}
+	//Init do pool
+	connPool := bd.RetornaPool()
 	defer connPool.Close()
 
 	//configuracoes do atores
-	clientes, err :=  models.BuscarTodosClientes(connPool)
+	clientes, err :=  models.BuscarTodosClientes()
 
 	gerenciadorAtorCliente := models.NovoGerenciadorAtorCliente()
 	for _, c := range clientes {
@@ -43,8 +28,7 @@ func main() {
 	}
 
 	//router
-	var p handlers.Pool
-	p.ConnPool = connPool
+	var p handlers.ParamHandler
 	p.GerenciadorAtorCliente = gerenciadorAtorCliente
 
 	r := chi.NewRouter()

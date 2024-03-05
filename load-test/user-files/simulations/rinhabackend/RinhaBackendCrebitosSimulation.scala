@@ -13,7 +13,7 @@ import io.gatling.http.Predef._
 class RinhaBackendCrebitosSimulation
   extends Simulation {
 
-  def randomClienteId() = Random.between(1, 5 + 1)
+  def randomClienteId() = 1
   def randomValorTransacao() = Random.between(1, 10000 + 1)
   def randomDescricao() = Random.alphanumeric.take(10).mkString
   def randomTipoTransacao() = Seq("c", "d", "d")(Random.between(0, 2 + 1)) // not used
@@ -304,17 +304,17 @@ class RinhaBackendCrebitosSimulation
       criterioClienteNaoEcontrado.inject(
         atOnceUsers(1)
       ).andThen(
-//        debitos.inject(
-//          rampUsersPerSec(1).to(220).during(2.minutes),
-//          constantUsersPerSec(220).during(2.minutes)
-//        ),
+        debitos.inject(
+          rampUsersPerSec(1).to(44).during(2.minutes),
+          constantUsersPerSec(44).during(2.minutes)
+        ),
         creditos.inject(
-          rampUsersPerSec(1).to(110).during(2.minutes),
-          constantUsersPerSec(110).during(2.minutes)
+          rampUsersPerSec(1).to(22).during(2.minutes),
+          constantUsersPerSec(22).during(2.minutes)
        ),
         extratos.inject(
-          rampUsersPerSec(1).to(10).during(2.minutes),
-          constantUsersPerSec(10).during(2.minutes)
+          rampUsersPerSec(1).to(2).during(2.minutes),
+          constantUsersPerSec(2).during(2.minutes)
         )
       )
     )

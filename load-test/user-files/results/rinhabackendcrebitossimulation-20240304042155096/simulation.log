@@ -1,0 +1,2753 @@
+RUN	RinhaBackendCrebitosSimulation	rinhabackendcrebitossimulation	1709526115096	Rinha de Backend - 2024/Q1: CrÃ©bito	3.10.3
+USER	validação concorrência transações - d	START	1709526116560
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116560
+USER	validação concorrência transações - d	START	1709526116576
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116580
+USER	validação concorrência transações - d	START	1709526116580
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116561
+USER	validação concorrência transações - d	START	1709526116582
+USER	validação concorrência transações - d	START	1709526116562
+USER	validação concorrência transações - d	START	1709526116562
+USER	validação concorrência transações - d	START	1709526116562
+USER	validação concorrência transações - d	START	1709526116562
+USER	validação concorrência transações - d	START	1709526116588
+USER	validação concorrência transações - d	START	1709526116589
+USER	validação concorrência transações - d	START	1709526116590
+USER	validação concorrência transações - d	START	1709526116563
+USER	validação concorrência transações - d	START	1709526116592
+USER	validação concorrência transações - d	START	1709526116603
+REQUEST		validações	1709526116488	1709526122766	OK	 
+USER	validação concorrência transações - d	END	1709526122799
+REQUEST		validações	1709526116488	1709526127868	OK	 
+USER	validação concorrência transações - d	END	1709526127873
+REQUEST		validações	1709526116489	1709526128674	OK	 
+USER	validação concorrência transações - d	END	1709526128677
+REQUEST		validações	1709526116490	1709526129373	OK	 
+USER	validação concorrência transações - d	END	1709526129376
+REQUEST		validações	1709526116488	1709526129574	OK	 
+USER	validação concorrência transações - d	END	1709526129575
+REQUEST		validações	1709526116579	1709526129672	OK	 
+USER	validação concorrência transações - d	END	1709526129676
+REQUEST		validações	1709526116488	1709526130479	OK	 
+USER	validação concorrência transações - d	END	1709526130481
+REQUEST		validações	1709526116489	1709526130666	OK	 
+USER	validação concorrência transações - d	END	1709526130670
+REQUEST		validações	1709526116489	1709526131581	OK	 
+USER	validação concorrência transações - d	END	1709526131583
+REQUEST		validações	1709526116575	1709526132175	OK	 
+USER	validação concorrência transações - d	END	1709526132176
+REQUEST		validações	1709526116489	1709526132875	OK	 
+USER	validação concorrência transações - d	END	1709526132877
+REQUEST		validações	1709526116488	1709526133463	OK	 
+USER	validação concorrência transações - d	END	1709526133465
+REQUEST		validações	1709526116488	1709526133572	OK	 
+USER	validação concorrência transações - d	END	1709526133575
+REQUEST		validações	1709526116587	1709526133979	OK	 
+USER	validação concorrência transações - d	END	1709526133980
+REQUEST		validações	1709526116488	1709526134466	OK	 
+USER	validação concorrência transações - d	END	1709526134467
+REQUEST		validações	1709526116489	1709526134475	OK	 
+USER	validação concorrência transações - d	END	1709526134477
+REQUEST		validações	1709526116581	1709526134484	OK	 
+USER	validação concorrência transações - d	END	1709526134491
+REQUEST		validações	1709526116575	1709526134573	OK	 
+USER	validação concorrência transações - d	END	1709526134577
+REQUEST		validações	1709526116579	1709526134584	OK	 
+USER	validação concorrência transações - d	END	1709526134586
+REQUEST		validações	1709526116588	1709526134691	OK	 
+USER	validação concorrência transações - d	END	1709526134692
+REQUEST		validações	1709526116597	1709526134779	OK	 
+USER	validação concorrência transações - d	END	1709526134780
+REQUEST		validações	1709526116490	1709526135003	OK	 
+USER	validação concorrência transações - d	END	1709526135006
+REQUEST		validações	1709526116488	1709526135069	OK	 
+USER	validação concorrência transações - d	END	1709526135074
+REQUEST		validações	1709526116590	1709526135102	OK	 
+REQUEST		validações	1709526116489	1709526135106	OK	 
+USER	validação concorrência transações - d	END	1709526135107
+USER	validação concorrência transações - d	END	1709526135108
+USER	validação concorrência saldo - -25	START	1709526135232
+REQUEST		validações	1709526135232	1709526135244	KO	jmesPath(saldo.total).find.is(-25), but actually found -263
+USER	validação concorrência saldo - -25	END	1709526135391
+USER	validação concorrência transações - c	START	1709526136266
+USER	validação concorrência transações - c	START	1709526136266
+USER	validação concorrência transações - c	START	1709526136266
+USER	validação concorrência transações - c	START	1709526136266
+USER	validação concorrência transações - c	START	1709526136266
+USER	validação concorrência transações - c	START	1709526136266
+USER	validação concorrência transações - c	START	1709526136268
+USER	validação concorrência transações - c	START	1709526136268
+USER	validação concorrência transações - c	START	1709526136269
+USER	validação concorrência transações - c	START	1709526136269
+USER	validação concorrência transações - c	START	1709526136269
+USER	validação concorrência transações - c	START	1709526136273
+USER	validação concorrência transações - c	START	1709526136273
+USER	validação concorrência transações - c	START	1709526136274
+USER	validação concorrência transações - c	START	1709526136274
+USER	validação concorrência transações - c	START	1709526136276
+USER	validação concorrência transações - c	START	1709526136276
+USER	validação concorrência transações - c	START	1709526136276
+USER	validação concorrência transações - c	START	1709526136277
+USER	validação concorrência transações - c	START	1709526136277
+USER	validação concorrência transações - c	START	1709526136278
+USER	validação concorrência transações - c	START	1709526136278
+USER	validação concorrência transações - c	START	1709526136281
+USER	validação concorrência transações - c	START	1709526136281
+USER	validação concorrência transações - c	START	1709526136284
+REQUEST		validações	1709526136265	1709526136335	OK	 
+USER	validação concorrência transações - c	END	1709526136337
+REQUEST		validações	1709526136265	1709526137166	OK	 
+USER	validação concorrência transações - c	END	1709526137169
+REQUEST		validações	1709526136265	1709526139871	OK	 
+USER	validação concorrência transações - c	END	1709526139874
+REQUEST		validações	1709526136265	1709526140364	OK	 
+USER	validação concorrência transações - c	END	1709526140367
+REQUEST		validações	1709526136265	1709526140977	OK	 
+USER	validação concorrência transações - c	END	1709526140982
+REQUEST		validações	1709526136268	1709526141672	OK	 
+USER	validação concorrência transações - c	END	1709526141674
+REQUEST		validações	1709526136269	1709526143167	OK	 
+USER	validação concorrência transações - c	END	1709526143170
+REQUEST		validações	1709526136274	1709526143182	OK	 
+USER	validação concorrência transações - c	END	1709526143184
+REQUEST		validações	1709526136269	1709526143269	OK	 
+USER	validação concorrência transações - c	END	1709526143274
+REQUEST		validações	1709526136265	1709526143484	OK	 
+USER	validação concorrência transações - c	END	1709526143485
+REQUEST		validações	1709526136268	1709526143878	OK	 
+USER	validação concorrência transações - c	END	1709526143882
+REQUEST		validações	1709526136266	1709526144272	OK	 
+USER	validação concorrência transações - c	END	1709526144275
+REQUEST		validações	1709526136271	1709526144370	OK	 
+USER	validação concorrência transações - c	END	1709526144373
+REQUEST		validações	1709526136271	1709526144667	OK	 
+USER	validação concorrência transações - c	END	1709526144672
+REQUEST		validações	1709526136277	1709526146168	OK	 
+USER	validação concorrência transações - c	END	1709526146169
+REQUEST		validações	1709526136279	1709526146175	OK	 
+USER	validação concorrência transações - c	END	1709526146180
+REQUEST		validações	1709526136276	1709526146270	OK	 
+USER	validação concorrência transações - c	END	1709526146272
+REQUEST		validações	1709526136274	1709526146379	OK	 
+USER	validação concorrência transações - c	END	1709526146380
+REQUEST		validações	1709526136282	1709526146471	OK	 
+USER	validação concorrência transações - c	END	1709526146473
+REQUEST		validações	1709526136277	1709526146675	OK	 
+USER	validação concorrência transações - c	END	1709526146678
+REQUEST		validações	1709526136277	1709526146698	OK	 
+USER	validação concorrência transações - c	END	1709526146699
+REQUEST		validações	1709526136276	1709526146777	OK	 
+USER	validação concorrência transações - c	END	1709526146779
+REQUEST		validações	1709526136276	1709526146786	OK	 
+USER	validação concorrência transações - c	END	1709526146788
+REQUEST		validações	1709526136275	1709526146870	OK	 
+USER	validação concorrência transações - c	END	1709526146872
+REQUEST		validações	1709526136280	1709526146884	OK	 
+USER	validação concorrência transações - c	END	1709526146885
+USER	validação concorrência saldo - 0	START	1709526147261
+REQUEST		validações	1709526147260	1709526147270	KO	jmesPath(saldo.total).find.is(0), but actually found 39
+USER	validação concorrência saldo - 0	END	1709526147273
+USER	validações	START	1709526148238
+USER	validações	START	1709526148238
+USER	validações	START	1709526148238
+USER	validações	START	1709526148238
+USER	validações	START	1709526148239
+USER	validação HTTP 404	START	1709526148240
+REQUEST		validações	1709526148239	1709526148246	OK	 
+USER	validação HTTP 404	END	1709526148249
+REQUEST		validações	1709526148260	1709526148273	OK	 
+REQUEST		validações	1709526148262	1709526148289	KO	jmesPath(saldo.total).find.is(0), but actually found 39
+REQUEST		validações	1709526148260	1709526148300	OK	 
+REQUEST		validações	1709526148260	1709526148311	OK	 
+REQUEST		validações	1709526148261	1709526148316	OK	 
+REQUEST		validações	1709526148294	1709526148350	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148287	1709526148338	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148306	1709526148372	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148318	1709526148374	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148318	1709526148389	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148355	1709526148413	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148356	1709526148426	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148376	1709526148428	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148374	1709526148431	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148420	1709526148433	OK	 
+REQUEST		validações	1709526148431	1709526148445	OK	 
+REQUEST		validações	1709526148434	1709526148449	OK	 
+REQUEST		validações	1709526148428	1709526148445	OK	 
+REQUEST		validações	1709526148396	1709526148459	KO	jmesPath(saldo).find.ConsistenciaSaldoLimite - Transação, WTF?!
+REQUEST		validações	1709526148462	1709526148473	OK	 
+REQUEST		validações	1709526148458	1709526148491	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709526148450	1709526148499	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709526148450	1709526148503	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709526148456	1709526148505	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709526148494	1709526148508	OK	 
+REQUEST		validações	1709526148479	1709526148509	KO	jmesPath(saldo).find.exists, found nothing
+REQUEST		validações	1709526148506	1709526148517	OK	 
+REQUEST		validações	1709526148506	1709526148518	OK	 
+REQUEST		validações	1709526148508	1709526148521	OK	 
+REQUEST		validações	1709526148511	1709526148525	OK	 
+REQUEST		validações	1709526148510	1709526148571	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148523	1709526148574	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148519	1709526148576	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148519	1709526148579	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148527	1709526148586	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148576	1709526148610	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148573	1709526148611	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148583	1709526148618	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148579	1709526148619	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148588	1709526148626	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148612	1709526148674	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148620	1709526148676	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148612	1709526148681	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148619	1709526148690	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148628	1709526148694	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148676	1709526148712	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709526148713
+REQUEST		validações	1709526148696	1709526148718	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709526148719
+REQUEST		validações	1709526148678	1709526148720	KO	status.find.in(422), but actually found 200
+REQUEST		validações	1709526148693	1709526148721	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709526148722
+USER	validações	END	1709526148722
+REQUEST		validações	1709526148687	1709526148723	KO	status.find.in(422), but actually found 200
+USER	validações	END	1709526148724
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526149296
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526149305
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526149306
+USER	extratos	START	1709526149306
+USER	débitos	START	1709526149306
+USER	extratos	END	1709526149306
+USER	créditos	START	1709526149306
+USER	débitos	END	1709526149306
+USER	créditos	END	1709526149306
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526150284
+USER	extratos	START	1709526150285
+USER	extratos	END	1709526150285
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526150288
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526150288
+USER	créditos	START	1709526150288
+USER	créditos	END	1709526150288
+USER	débitos	START	1709526150288
+USER	débitos	END	1709526150288
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526150516
+USER	débitos	START	1709526150517
+USER	débitos	END	1709526150517
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526150778
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526150779
+USER	créditos	START	1709526150779
+USER	créditos	END	1709526150779
+USER	débitos	START	1709526150779
+USER	débitos	END	1709526150780
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151022
+USER	débitos	START	1709526151023
+USER	débitos	END	1709526151023
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526151275
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151276
+USER	extratos	START	1709526151277
+USER	extratos	END	1709526151277
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151277
+USER	débitos	START	1709526151277
+USER	débitos	END	1709526151277
+USER	créditos	START	1709526151278
+USER	créditos	END	1709526151278
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151440
+USER	débitos	START	1709526151441
+USER	débitos	END	1709526151441
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151540
+USER	créditos	START	1709526151541
+USER	créditos	END	1709526151541
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151625
+USER	débitos	START	1709526151626
+USER	débitos	END	1709526151626
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151771
+USER	créditos	START	1709526151774
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151774
+USER	créditos	END	1709526151775
+USER	débitos	START	1709526151775
+USER	débitos	END	1709526151775
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526151940
+USER	débitos	START	1709526151940
+USER	débitos	END	1709526151940
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152017
+USER	créditos	START	1709526152018
+USER	créditos	END	1709526152018
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152100
+USER	débitos	START	1709526152101
+USER	débitos	END	1709526152101
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526152290
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152290
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152291
+USER	extratos	START	1709526152291
+USER	extratos	END	1709526152291
+USER	créditos	END	1709526152291
+USER	créditos	START	1709526152291
+USER	débitos	START	1709526152291
+USER	débitos	END	1709526152292
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152419
+USER	débitos	START	1709526152420
+USER	débitos	END	1709526152420
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152524
+USER	créditos	START	1709526152526
+USER	créditos	END	1709526152526
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152557
+USER	débitos	START	1709526152559
+USER	débitos	END	1709526152559
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152703
+USER	débitos	START	1709526152704
+USER	débitos	END	1709526152705
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152794
+USER	créditos	START	1709526152795
+USER	créditos	END	1709526152795
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152841
+USER	débitos	START	1709526152842
+USER	débitos	END	1709526152842
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526152998
+USER	débitos	START	1709526152999
+USER	débitos	END	1709526152999
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153031
+USER	créditos	START	1709526153032
+USER	créditos	END	1709526153032
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153134
+USER	débitos	START	1709526153135
+USER	débitos	END	1709526153135
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526153273
+USER	extratos	START	1709526153274
+USER	extratos	END	1709526153274
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153275
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153275
+USER	débitos	START	1709526153276
+USER	créditos	START	1709526153276
+USER	débitos	END	1709526153276
+USER	créditos	END	1709526153276
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153386
+USER	débitos	START	1709526153387
+USER	débitos	END	1709526153387
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153475
+USER	créditos	START	1709526153476
+USER	créditos	END	1709526153476
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153489
+USER	débitos	START	1709526153490
+USER	débitos	END	1709526153490
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153610
+USER	débitos	START	1709526153610
+USER	débitos	END	1709526153610
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153677
+USER	créditos	START	1709526153678
+USER	créditos	END	1709526153678
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153713
+USER	débitos	START	1709526153714
+USER	débitos	END	1709526153714
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153827
+USER	débitos	START	1709526153828
+USER	débitos	END	1709526153828
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153878
+USER	créditos	START	1709526153880
+USER	créditos	END	1709526153880
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526153944
+USER	débitos	START	1709526153945
+USER	débitos	END	1709526153945
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154054
+USER	débitos	START	1709526154056
+USER	débitos	END	1709526154056
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154070
+USER	créditos	START	1709526154071
+USER	créditos	END	1709526154071
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154165
+USER	débitos	START	1709526154166
+USER	débitos	END	1709526154166
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526154271
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154271
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154273
+USER	extratos	START	1709526154273
+USER	extratos	END	1709526154273
+USER	créditos	START	1709526154273
+USER	créditos	END	1709526154273
+USER	débitos	START	1709526154274
+USER	débitos	END	1709526154274
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154369
+USER	débitos	START	1709526154370
+USER	débitos	END	1709526154370
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154444
+USER	créditos	START	1709526154445
+USER	créditos	END	1709526154445
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154458
+USER	débitos	START	1709526154460
+USER	débitos	END	1709526154461
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154549
+USER	débitos	START	1709526154550
+USER	débitos	END	1709526154550
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154617
+USER	créditos	START	1709526154618
+USER	créditos	END	1709526154618
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154634
+USER	débitos	START	1709526154635
+USER	débitos	END	1709526154635
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154734
+USER	débitos	START	1709526154734
+USER	débitos	END	1709526154735
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526154780
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154782
+USER	extratos	START	1709526154783
+USER	extratos	END	1709526154783
+USER	créditos	START	1709526154783
+USER	créditos	END	1709526154783
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154819
+USER	débitos	START	1709526154820
+USER	débitos	END	1709526154820
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154910
+USER	débitos	START	1709526154911
+USER	débitos	END	1709526154911
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526154942
+USER	créditos	START	1709526154943
+USER	créditos	END	1709526154943
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155003
+USER	débitos	START	1709526155004
+USER	débitos	END	1709526155004
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155094
+USER	débitos	START	1709526155095
+USER	débitos	END	1709526155095
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155110
+USER	créditos	START	1709526155110
+USER	créditos	END	1709526155110
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155188
+USER	débitos	START	1709526155188
+USER	débitos	END	1709526155189
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526155277
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155277
+USER	extratos	START	1709526155279
+USER	extratos	END	1709526155279
+USER	créditos	START	1709526155279
+USER	créditos	END	1709526155279
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155279
+USER	débitos	START	1709526155280
+USER	débitos	END	1709526155280
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155355
+USER	débitos	START	1709526155356
+USER	débitos	END	1709526155356
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155426
+USER	débitos	START	1709526155427
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155427
+USER	débitos	END	1709526155427
+USER	créditos	START	1709526155427
+USER	créditos	END	1709526155427
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155515
+USER	débitos	START	1709526155515
+USER	débitos	END	1709526155515
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155562
+USER	créditos	START	1709526155563
+USER	créditos	END	1709526155563
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155577
+USER	débitos	START	1709526155578
+USER	débitos	END	1709526155578
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155650
+USER	débitos	START	1709526155650
+USER	débitos	END	1709526155651
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155701
+USER	créditos	START	1709526155701
+USER	créditos	END	1709526155701
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155727
+USER	débitos	START	1709526155727
+USER	débitos	END	1709526155727
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155804
+USER	débitos	START	1709526155807
+USER	débitos	END	1709526155808
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155847
+USER	créditos	START	1709526155848
+USER	créditos	END	1709526155848
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155894
+USER	débitos	START	1709526155894
+USER	débitos	END	1709526155895
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155962
+USER	débitos	START	1709526155963
+USER	débitos	END	1709526155963
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526155990
+USER	créditos	START	1709526155992
+USER	créditos	END	1709526155992
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156050
+USER	débitos	START	1709526156050
+USER	débitos	END	1709526156051
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156120
+USER	débitos	START	1709526156121
+USER	débitos	END	1709526156121
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156150
+USER	créditos	START	1709526156151
+USER	créditos	END	1709526156151
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156196
+USER	débitos	START	1709526156197
+USER	débitos	END	1709526156197
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526156277
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156278
+USER	extratos	START	1709526156279
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156279
+USER	débitos	START	1709526156279
+USER	extratos	END	1709526156280
+USER	débitos	END	1709526156280
+USER	créditos	START	1709526156280
+USER	créditos	END	1709526156280
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156337
+USER	débitos	START	1709526156337
+USER	débitos	END	1709526156338
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156399
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156399
+USER	créditos	START	1709526156400
+USER	créditos	END	1709526156400
+USER	débitos	START	1709526156400
+USER	débitos	END	1709526156400
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156474
+USER	débitos	START	1709526156475
+USER	débitos	END	1709526156475
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156536
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156538
+USER	débitos	START	1709526156538
+USER	débitos	END	1709526156538
+USER	créditos	START	1709526156539
+USER	créditos	END	1709526156539
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156613
+USER	débitos	START	1709526156614
+USER	débitos	END	1709526156614
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156651
+USER	créditos	START	1709526156652
+USER	créditos	END	1709526156652
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156667
+USER	débitos	START	1709526156667
+USER	débitos	END	1709526156667
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156735
+USER	débitos	START	1709526156737
+USER	débitos	END	1709526156737
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526156766
+USER	extratos	START	1709526156766
+USER	extratos	END	1709526156766
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156767
+USER	créditos	START	1709526156767
+USER	créditos	END	1709526156767
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156813
+USER	débitos	START	1709526156815
+USER	débitos	END	1709526156815
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156876
+USER	débitos	START	1709526156879
+USER	débitos	END	1709526156879
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156893
+USER	créditos	START	1709526156895
+USER	créditos	END	1709526156895
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156937
+USER	débitos	START	1709526156938
+USER	débitos	END	1709526156938
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526156999
+USER	débitos	START	1709526157000
+USER	débitos	END	1709526157000
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157039
+USER	créditos	START	1709526157041
+USER	créditos	END	1709526157041
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157071
+USER	débitos	START	1709526157072
+USER	débitos	END	1709526157072
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157147
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157148
+USER	débitos	START	1709526157148
+USER	débitos	END	1709526157148
+USER	créditos	START	1709526157149
+USER	créditos	END	1709526157149
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157212
+USER	débitos	START	1709526157213
+USER	débitos	END	1709526157213
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526157270
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157271
+USER	extratos	START	1709526157271
+USER	extratos	END	1709526157272
+USER	créditos	START	1709526157272
+USER	créditos	END	1709526157272
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157272
+USER	débitos	START	1709526157272
+USER	débitos	END	1709526157272
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157329
+USER	débitos	START	1709526157330
+USER	débitos	END	1709526157330
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157395
+USER	débitos	START	1709526157397
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157397
+USER	débitos	END	1709526157397
+USER	créditos	START	1709526157397
+USER	créditos	END	1709526157397
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157457
+USER	débitos	START	1709526157458
+USER	débitos	END	1709526157458
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157520
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157520
+USER	créditos	START	1709526157520
+USER	créditos	END	1709526157521
+USER	débitos	START	1709526157521
+USER	débitos	END	1709526157521
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157591
+USER	débitos	START	1709526157592
+USER	débitos	END	1709526157593
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157645
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157646
+USER	débitos	START	1709526157647
+USER	créditos	START	1709526157647
+USER	débitos	END	1709526157647
+USER	créditos	END	1709526157647
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157717
+USER	débitos	START	1709526157718
+USER	débitos	END	1709526157718
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526157790
+USER	extratos	START	1709526157791
+USER	extratos	END	1709526157792
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157793
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157794
+USER	débitos	START	1709526157794
+USER	débitos	END	1709526157794
+USER	créditos	START	1709526157795
+USER	créditos	END	1709526157795
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157837
+USER	débitos	START	1709526157839
+USER	débitos	END	1709526157839
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157900
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157902
+USER	créditos	START	1709526157902
+USER	créditos	END	1709526157902
+USER	débitos	START	1709526157902
+USER	débitos	END	1709526157902
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526157965
+USER	débitos	START	1709526157967
+USER	débitos	END	1709526157967
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158039
+USER	créditos	START	1709526158040
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158040
+USER	créditos	END	1709526158040
+USER	débitos	START	1709526158040
+USER	débitos	END	1709526158040
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158087
+USER	débitos	START	1709526158088
+USER	débitos	END	1709526158088
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158148
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158149
+USER	créditos	START	1709526158149
+USER	créditos	END	1709526158149
+USER	débitos	START	1709526158150
+USER	débitos	END	1709526158150
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158214
+USER	débitos	START	1709526158215
+USER	débitos	END	1709526158215
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526158276
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158276
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158277
+USER	extratos	START	1709526158277
+USER	extratos	END	1709526158277
+USER	débitos	START	1709526158277
+USER	débitos	END	1709526158277
+USER	créditos	START	1709526158277
+USER	créditos	END	1709526158277
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158323
+USER	débitos	START	1709526158324
+USER	débitos	END	1709526158324
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158373
+USER	créditos	START	1709526158375
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158375
+USER	créditos	END	1709526158375
+USER	débitos	START	1709526158376
+USER	débitos	END	1709526158376
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158424
+USER	débitos	START	1709526158425
+USER	débitos	END	1709526158425
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158471
+USER	créditos	START	1709526158472
+USER	créditos	END	1709526158472
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158488
+USER	débitos	START	1709526158489
+USER	débitos	END	1709526158489
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158534
+USER	débitos	START	1709526158551
+USER	débitos	END	1709526158551
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158568
+USER	créditos	START	1709526158568
+USER	créditos	END	1709526158568
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158583
+USER	débitos	START	1709526158583
+USER	débitos	END	1709526158583
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158642
+USER	débitos	START	1709526158643
+USER	débitos	END	1709526158643
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158673
+USER	créditos	START	1709526158675
+USER	créditos	END	1709526158675
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158703
+USER	débitos	START	1709526158703
+USER	débitos	END	1709526158703
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158753
+USER	débitos	START	1709526158754
+USER	débitos	END	1709526158754
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158770
+USER	créditos	START	1709526158771
+USER	créditos	END	1709526158771
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158801
+USER	débitos	START	1709526158802
+USER	débitos	END	1709526158802
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158858
+USER	débitos	START	1709526158859
+USER	débitos	END	1709526158859
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158879
+USER	créditos	START	1709526158879
+USER	créditos	END	1709526158879
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158905
+USER	débitos	START	1709526158906
+USER	débitos	END	1709526158906
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158954
+USER	débitos	START	1709526158956
+USER	débitos	END	1709526158956
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526158973
+USER	créditos	START	1709526158975
+USER	créditos	END	1709526158975
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159018
+USER	débitos	START	1709526159019
+USER	débitos	END	1709526159019
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159062
+USER	débitos	START	1709526159065
+USER	débitos	END	1709526159065
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159076
+USER	créditos	START	1709526159076
+USER	créditos	END	1709526159076
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159122
+USER	débitos	START	1709526159123
+USER	débitos	END	1709526159123
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159172
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159173
+USER	débitos	START	1709526159173
+USER	débitos	END	1709526159173
+USER	créditos	START	1709526159173
+USER	créditos	END	1709526159173
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159220
+USER	débitos	START	1709526159221
+USER	débitos	END	1709526159221
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526159273
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159273
+USER	extratos	START	1709526159274
+USER	extratos	END	1709526159274
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159274
+USER	créditos	START	1709526159274
+USER	créditos	END	1709526159274
+USER	débitos	START	1709526159274
+USER	débitos	END	1709526159274
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159332
+USER	débitos	START	1709526159334
+USER	débitos	END	1709526159334
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159374
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159375
+USER	créditos	START	1709526159375
+USER	créditos	END	1709526159375
+USER	débitos	START	1709526159375
+USER	débitos	END	1709526159375
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159433
+USER	débitos	START	1709526159434
+USER	débitos	END	1709526159434
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159475
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159476
+USER	créditos	START	1709526159476
+USER	créditos	END	1709526159476
+USER	débitos	START	1709526159476
+USER	débitos	END	1709526159476
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159523
+USER	débitos	START	1709526159523
+USER	débitos	END	1709526159523
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159574
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159575
+USER	créditos	START	1709526159576
+USER	créditos	END	1709526159576
+USER	débitos	END	1709526159576
+USER	débitos	START	1709526159576
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159622
+USER	débitos	START	1709526159624
+USER	débitos	END	1709526159624
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159666
+USER	créditos	START	1709526159668
+USER	créditos	END	1709526159668
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159669
+USER	débitos	START	1709526159670
+USER	débitos	END	1709526159670
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159720
+USER	débitos	START	1709526159722
+USER	débitos	END	1709526159722
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526159765
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159766
+USER	extratos	START	1709526159768
+USER	extratos	END	1709526159768
+USER	créditos	START	1709526159769
+USER	créditos	END	1709526159769
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159783
+USER	débitos	START	1709526159784
+USER	débitos	END	1709526159784
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159819
+USER	débitos	START	1709526159821
+USER	débitos	END	1709526159821
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159878
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159879
+USER	créditos	START	1709526159879
+USER	créditos	END	1709526159879
+USER	débitos	START	1709526159879
+USER	débitos	END	1709526159879
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159925
+USER	débitos	START	1709526159926
+USER	débitos	END	1709526159926
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159967
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526159968
+USER	créditos	START	1709526159968
+USER	créditos	END	1709526159968
+USER	débitos	START	1709526159968
+USER	débitos	END	1709526159968
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160031
+USER	débitos	START	1709526160032
+USER	débitos	END	1709526160032
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160092
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160093
+USER	débitos	END	1709526160093
+USER	débitos	START	1709526160093
+USER	créditos	START	1709526160094
+USER	créditos	END	1709526160094
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160123
+USER	débitos	START	1709526160124
+USER	débitos	END	1709526160124
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160169
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160170
+USER	créditos	START	1709526160171
+USER	créditos	END	1709526160171
+USER	débitos	START	1709526160171
+USER	débitos	END	1709526160171
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160216
+USER	débitos	START	1709526160217
+USER	débitos	END	1709526160217
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526160279
+USER	extratos	START	1709526160279
+USER	extratos	END	1709526160279
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160280
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160280
+USER	débitos	START	1709526160281
+USER	débitos	END	1709526160281
+USER	créditos	START	1709526160281
+USER	créditos	END	1709526160281
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160321
+USER	débitos	START	1709526160322
+USER	débitos	END	1709526160322
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160366
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160366
+USER	débitos	START	1709526160367
+USER	débitos	END	1709526160367
+USER	créditos	START	1709526160367
+USER	créditos	END	1709526160367
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160413
+USER	débitos	START	1709526160413
+USER	débitos	END	1709526160414
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160446
+USER	créditos	START	1709526160458
+USER	créditos	END	1709526160458
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160470
+USER	débitos	START	1709526160470
+USER	débitos	END	1709526160470
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160500
+USER	débitos	START	1709526160502
+USER	débitos	END	1709526160502
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160533
+USER	créditos	START	1709526160534
+USER	créditos	END	1709526160535
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160559
+USER	débitos	START	1709526160560
+USER	débitos	END	1709526160560
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160589
+USER	débitos	START	1709526160591
+USER	débitos	END	1709526160591
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160605
+USER	créditos	START	1709526160606
+USER	créditos	END	1709526160606
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160641
+USER	débitos	START	1709526160642
+USER	débitos	END	1709526160642
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160688
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160689
+USER	créditos	START	1709526160689
+USER	créditos	END	1709526160689
+USER	débitos	END	1709526160690
+USER	débitos	START	1709526160690
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160721
+USER	débitos	START	1709526160722
+USER	débitos	END	1709526160722
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526160768
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160769
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160770
+USER	extratos	START	1709526160770
+USER	extratos	END	1709526160770
+USER	créditos	START	1709526160770
+USER	créditos	END	1709526160770
+USER	débitos	START	1709526160770
+USER	débitos	END	1709526160770
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160816
+USER	débitos	START	1709526160817
+USER	débitos	END	1709526160817
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160870
+USER	créditos	START	1709526160871
+USER	créditos	END	1709526160871
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160871
+USER	débitos	START	1709526160872
+USER	débitos	END	1709526160872
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160918
+USER	débitos	START	1709526160921
+USER	débitos	END	1709526160921
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160934
+USER	créditos	START	1709526160935
+USER	créditos	END	1709526160935
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160952
+USER	débitos	START	1709526160952
+USER	débitos	END	1709526160952
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526160999
+USER	débitos	START	1709526161001
+USER	débitos	END	1709526161001
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161030
+USER	créditos	START	1709526161032
+USER	créditos	END	1709526161032
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161046
+USER	débitos	START	1709526161047
+USER	débitos	END	1709526161047
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161099
+USER	débitos	START	1709526161101
+USER	débitos	END	1709526161101
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161115
+USER	créditos	START	1709526161115
+USER	créditos	END	1709526161115
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161131
+USER	débitos	START	1709526161131
+USER	débitos	END	1709526161131
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161186
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161187
+USER	créditos	START	1709526161187
+USER	créditos	END	1709526161187
+USER	débitos	START	1709526161187
+USER	débitos	END	1709526161187
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161233
+USER	débitos	START	1709526161233
+USER	débitos	END	1709526161234
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526161278
+USER	extratos	START	1709526161279
+USER	extratos	END	1709526161279
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161280
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161280
+USER	débitos	START	1709526161280
+USER	débitos	END	1709526161280
+USER	créditos	START	1709526161280
+USER	créditos	END	1709526161280
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161310
+USER	débitos	START	1709526161311
+USER	débitos	END	1709526161311
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161361
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161362
+USER	débitos	START	1709526161362
+USER	débitos	END	1709526161362
+USER	créditos	START	1709526161362
+USER	créditos	END	1709526161363
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161391
+USER	débitos	START	1709526161392
+USER	débitos	END	1709526161392
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161445
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161446
+USER	débitos	START	1709526161446
+USER	débitos	END	1709526161446
+USER	créditos	START	1709526161446
+USER	créditos	END	1709526161446
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161493
+USER	débitos	START	1709526161493
+USER	débitos	END	1709526161493
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161566
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161566
+USER	débitos	END	1709526161568
+USER	débitos	START	1709526161569
+USER	créditos	START	1709526161569
+USER	créditos	END	1709526161569
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161610
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161616
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161616
+USER	débitos	START	1709526161616
+USER	débitos	END	1709526161616
+USER	créditos	START	1709526161617
+USER	débitos	START	1709526161617
+USER	créditos	END	1709526161617
+USER	débitos	END	1709526161617
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161663
+USER	débitos	START	1709526161665
+USER	débitos	END	1709526161665
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161720
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161720
+USER	créditos	START	1709526161722
+USER	débitos	START	1709526161722
+USER	créditos	END	1709526161722
+USER	débitos	END	1709526161722
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161772
+USER	débitos	START	1709526161774
+USER	débitos	END	1709526161774
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526161780
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161812
+USER	extratos	START	1709526161828
+USER	extratos	END	1709526161828
+USER	créditos	START	1709526161829
+USER	créditos	END	1709526161829
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161829
+USER	débitos	START	1709526161831
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161831
+USER	débitos	END	1709526161831
+USER	débitos	START	1709526161831
+USER	débitos	END	1709526161831
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161901
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161901
+USER	débitos	START	1709526161903
+USER	débitos	END	1709526161903
+USER	créditos	START	1709526161903
+USER	créditos	END	1709526161903
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161904
+USER	débitos	START	1709526161904
+USER	débitos	END	1709526161904
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161971
+USER	créditos	START	1709526161973
+USER	créditos	END	1709526161973
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161973
+USER	débitos	START	1709526161974
+USER	débitos	END	1709526161974
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526161990
+USER	débitos	START	1709526161991
+USER	débitos	END	1709526161991
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162028
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162031
+USER	créditos	END	1709526162036
+USER	créditos	START	1709526162035
+USER	débitos	START	1709526162036
+USER	débitos	END	1709526162036
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162071
+USER	débitos	START	1709526162073
+USER	débitos	END	1709526162073
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162102
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162110
+USER	créditos	START	1709526162110
+USER	créditos	END	1709526162110
+USER	débitos	START	1709526162111
+USER	débitos	END	1709526162111
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162149
+USER	débitos	START	1709526162156
+USER	débitos	END	1709526162156
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162196
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162202
+USER	créditos	START	1709526162207
+USER	créditos	END	1709526162207
+USER	débitos	START	1709526162209
+USER	débitos	END	1709526162209
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162239
+USER	débitos	START	1709526162241
+USER	débitos	END	1709526162241
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162270
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526162271
+USER	débitos	START	1709526162273
+USER	débitos	END	1709526162273
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162273
+USER	extratos	START	1709526162274
+USER	extratos	END	1709526162274
+USER	créditos	START	1709526162274
+USER	créditos	END	1709526162274
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162320
+USER	débitos	START	1709526162321
+USER	débitos	END	1709526162321
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162351
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162360
+USER	créditos	START	1709526162361
+USER	créditos	END	1709526162361
+USER	débitos	START	1709526162362
+USER	débitos	END	1709526162362
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162396
+USER	débitos	START	1709526162398
+USER	débitos	END	1709526162398
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162412
+USER	créditos	START	1709526162413
+USER	créditos	END	1709526162413
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162428
+USER	débitos	START	1709526162428
+USER	débitos	END	1709526162428
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162481
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162483
+USER	débitos	START	1709526162487
+USER	débitos	END	1709526162487
+USER	créditos	START	1709526162488
+USER	créditos	END	1709526162488
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162512
+USER	débitos	START	1709526162515
+USER	débitos	END	1709526162515
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162571
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162573
+USER	créditos	START	1709526162577
+USER	créditos	END	1709526162577
+USER	débitos	START	1709526162578
+USER	débitos	END	1709526162578
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162588
+USER	débitos	START	1709526162589
+USER	débitos	END	1709526162589
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162635
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162637
+USER	débitos	START	1709526162641
+USER	débitos	END	1709526162641
+USER	créditos	START	1709526162641
+USER	créditos	END	1709526162641
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162665
+USER	débitos	START	1709526162667
+USER	débitos	END	1709526162667
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162700
+USER	créditos	START	1709526162709
+USER	créditos	END	1709526162709
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162723
+USER	débitos	START	1709526162723
+USER	débitos	END	1709526162723
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526162772
+USER	extratos	START	1709526162773
+USER	extratos	END	1709526162773
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162775
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162779
+USER	créditos	START	1709526162779
+USER	créditos	END	1709526162779
+USER	débitos	START	1709526162780
+USER	débitos	END	1709526162780
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162789
+USER	débitos	START	1709526162790
+USER	débitos	END	1709526162790
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162835
+USER	débitos	START	1709526162839
+USER	débitos	END	1709526162839
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162852
+USER	créditos	START	1709526162856
+USER	créditos	END	1709526162856
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162884
+USER	débitos	START	1709526162889
+USER	débitos	END	1709526162889
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162916
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162917
+USER	débitos	START	1709526162921
+USER	débitos	END	1709526162922
+USER	créditos	START	1709526162922
+USER	créditos	END	1709526162922
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162947
+USER	débitos	START	1709526162949
+USER	débitos	END	1709526162949
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162991
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526162995
+USER	débitos	START	1709526162999
+USER	débitos	END	1709526162999
+USER	créditos	START	1709526163001
+USER	créditos	END	1709526163001
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163038
+USER	débitos	START	1709526163041
+USER	débitos	END	1709526163041
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163056
+USER	créditos	START	1709526163057
+USER	créditos	END	1709526163058
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163072
+USER	débitos	START	1709526163074
+USER	débitos	END	1709526163074
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163131
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163135
+USER	débitos	START	1709526163139
+USER	débitos	END	1709526163139
+USER	créditos	START	1709526163141
+USER	créditos	END	1709526163141
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163162
+USER	débitos	START	1709526163166
+USER	débitos	END	1709526163166
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163192
+USER	débitos	START	1709526163193
+USER	débitos	END	1709526163193
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163198
+USER	créditos	START	1709526163200
+USER	créditos	END	1709526163200
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163237
+USER	débitos	START	1709526163241
+USER	débitos	END	1709526163241
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526163279
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163279
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163282
+USER	extratos	START	1709526163289
+USER	extratos	END	1709526163289
+USER	créditos	START	1709526163289
+USER	créditos	END	1709526163290
+USER	débitos	START	1709526163290
+USER	débitos	END	1709526163290
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163310
+USER	débitos	START	1709526163312
+USER	débitos	END	1709526163312
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163353
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163357
+USER	créditos	START	1709526163358
+USER	créditos	END	1709526163358
+USER	débitos	START	1709526163363
+USER	débitos	END	1709526163363
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163392
+USER	débitos	START	1709526163396
+USER	débitos	END	1709526163396
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163409
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163410
+USER	créditos	START	1709526163414
+USER	créditos	END	1709526163414
+USER	débitos	START	1709526163416
+USER	débitos	END	1709526163416
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163454
+USER	débitos	START	1709526163456
+USER	débitos	END	1709526163457
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163482
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163483
+USER	débitos	START	1709526163488
+USER	débitos	END	1709526163488
+USER	créditos	START	1709526163488
+USER	créditos	END	1709526163488
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163524
+USER	débitos	START	1709526163526
+USER	débitos	END	1709526163526
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163556
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163559
+USER	débitos	START	1709526163564
+USER	débitos	END	1709526163565
+USER	créditos	START	1709526163566
+USER	créditos	END	1709526163567
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163593
+USER	débitos	START	1709526163595
+USER	débitos	END	1709526163595
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163624
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163628
+USER	créditos	START	1709526163633
+USER	créditos	END	1709526163633
+USER	débitos	START	1709526163634
+USER	débitos	END	1709526163634
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163671
+USER	débitos	START	1709526163675
+USER	débitos	END	1709526163675
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163705
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163709
+USER	débitos	START	1709526163713
+USER	débitos	END	1709526163713
+USER	créditos	START	1709526163715
+USER	créditos	END	1709526163715
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163737
+USER	débitos	START	1709526163742
+USER	débitos	END	1709526163742
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526163766
+USER	extratos	END	1709526163768
+USER	extratos	START	1709526163768
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163773
+USER	créditos	START	1709526163774
+USER	créditos	END	1709526163774
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163787
+USER	débitos	START	1709526163788
+USER	débitos	END	1709526163788
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163802
+USER	débitos	START	1709526163803
+USER	débitos	END	1709526163803
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163848
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163855
+USER	créditos	START	1709526163856
+USER	créditos	END	1709526163856
+USER	débitos	START	1709526163856
+USER	débitos	END	1709526163856
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163893
+USER	débitos	END	1709526163898
+USER	débitos	START	1709526163898
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163929
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163938
+USER	débitos	START	1709526163939
+USER	débitos	END	1709526163939
+USER	créditos	START	1709526163940
+USER	créditos	END	1709526163940
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163964
+USER	débitos	START	1709526163966
+USER	débitos	END	1709526163966
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163987
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526163988
+USER	créditos	START	1709526163992
+USER	créditos	END	1709526163992
+USER	débitos	START	1709526163993
+USER	débitos	END	1709526163993
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164017
+USER	débitos	START	1709526164025
+USER	débitos	END	1709526164025
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164065
+USER	créditos	START	1709526164067
+USER	créditos	END	1709526164067
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164071
+USER	débitos	START	1709526164072
+USER	débitos	END	1709526164072
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164097
+USER	débitos	START	1709526164098
+USER	débitos	END	1709526164098
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164127
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164129
+USER	débitos	START	1709526164134
+USER	débitos	END	1709526164134
+USER	créditos	START	1709526164135
+USER	créditos	END	1709526164135
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164159
+USER	débitos	START	1709526164160
+USER	débitos	END	1709526164160
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164198
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164206
+USER	créditos	START	1709526164207
+USER	créditos	END	1709526164207
+USER	débitos	START	1709526164209
+USER	débitos	END	1709526164209
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164258
+USER	débitos	START	1709526164261
+USER	débitos	END	1709526164261
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526164273
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164274
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164274
+USER	extratos	START	1709526164278
+USER	extratos	END	1709526164279
+USER	créditos	START	1709526164279
+USER	créditos	END	1709526164279
+USER	débitos	START	1709526164280
+USER	débitos	END	1709526164280
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164303
+USER	débitos	START	1709526164305
+USER	débitos	END	1709526164305
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164332
+USER	créditos	START	1709526164339
+USER	créditos	END	1709526164339
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164348
+USER	débitos	START	1709526164350
+USER	débitos	END	1709526164350
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164378
+USER	débitos	START	1709526164381
+USER	débitos	END	1709526164381
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164402
+USER	créditos	START	1709526164406
+USER	créditos	END	1709526164406
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164418
+USER	débitos	START	1709526164423
+USER	débitos	END	1709526164423
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164446
+USER	débitos	START	1709526164448
+USER	débitos	END	1709526164448
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164476
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164478
+USER	débitos	START	1709526164484
+USER	débitos	END	1709526164484
+USER	créditos	START	1709526164485
+USER	créditos	END	1709526164485
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164507
+USER	débitos	START	1709526164509
+USER	débitos	END	1709526164509
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164538
+USER	créditos	START	1709526164540
+USER	créditos	END	1709526164540
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164556
+USER	débitos	START	1709526164556
+USER	débitos	END	1709526164556
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164601
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164602
+USER	créditos	START	1709526164607
+USER	créditos	END	1709526164607
+USER	débitos	START	1709526164607
+USER	débitos	END	1709526164607
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164618
+USER	débitos	START	1709526164622
+USER	débitos	END	1709526164622
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164648
+USER	débitos	START	1709526164650
+USER	débitos	END	1709526164650
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164679
+USER	créditos	START	1709526164683
+USER	créditos	END	1709526164683
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164705
+USER	débitos	START	1709526164706
+USER	débitos	END	1709526164706
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164721
+USER	débitos	START	1709526164723
+USER	débitos	END	1709526164723
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164738
+USER	créditos	START	1709526164740
+USER	créditos	END	1709526164740
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164753
+USER	débitos	START	1709526164757
+USER	débitos	END	1709526164757
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526164765
+USER	extratos	START	1709526164769
+USER	extratos	END	1709526164769
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164796
+USER	débitos	START	1709526164799
+USER	débitos	END	1709526164799
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164812
+USER	créditos	START	1709526164813
+USER	créditos	END	1709526164813
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164829
+USER	débitos	START	1709526164830
+USER	débitos	END	1709526164830
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164860
+USER	débitos	START	1709526164863
+USER	débitos	END	1709526164863
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164878
+USER	créditos	START	1709526164880
+USER	créditos	END	1709526164880
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164907
+USER	débitos	START	1709526164909
+USER	débitos	END	1709526164909
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164937
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164941
+USER	créditos	START	1709526164945
+USER	créditos	END	1709526164945
+USER	débitos	START	1709526164947
+USER	débitos	END	1709526164947
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164978
+USER	débitos	START	1709526164983
+USER	débitos	END	1709526164983
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526164997
+USER	débitos	START	1709526164999
+USER	débitos	END	1709526164999
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165013
+USER	créditos	START	1709526165015
+USER	créditos	END	1709526165015
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165029
+USER	débitos	START	1709526165030
+USER	débitos	END	1709526165030
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165059
+USER	débitos	START	1709526165064
+USER	débitos	END	1709526165064
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165075
+USER	créditos	START	1709526165077
+USER	créditos	END	1709526165077
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165097
+USER	débitos	START	1709526165098
+USER	débitos	END	1709526165098
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165143
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165147
+USER	créditos	START	1709526165152
+USER	créditos	END	1709526165152
+USER	débitos	START	1709526165153
+USER	débitos	END	1709526165153
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165175
+USER	débitos	START	1709526165178
+USER	débitos	END	1709526165178
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165214
+USER	débitos	START	1709526165223
+USER	débitos	END	1709526165223
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165224
+USER	créditos	START	1709526165226
+USER	créditos	END	1709526165226
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165245
+USER	débitos	START	1709526165248
+USER	débitos	END	1709526165248
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165276
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165278
+USER	débitos	START	1709526165283
+USER	débitos	END	1709526165283
+USER	créditos	START	1709526165284
+USER	créditos	END	1709526165284
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526165284
+USER	extratos	START	1709526165286
+USER	extratos	END	1709526165287
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165307
+USER	débitos	START	1709526165308
+USER	débitos	END	1709526165308
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165338
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165340
+USER	créditos	START	1709526165344
+USER	créditos	END	1709526165344
+USER	débitos	START	1709526165345
+USER	débitos	END	1709526165345
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165369
+USER	débitos	START	1709526165372
+USER	débitos	END	1709526165372
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165407
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165409
+USER	débitos	START	1709526165413
+USER	débitos	END	1709526165413
+USER	créditos	START	1709526165414
+USER	créditos	END	1709526165414
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165448
+USER	débitos	START	1709526165451
+USER	débitos	END	1709526165451
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165466
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165467
+USER	créditos	START	1709526165473
+USER	créditos	END	1709526165473
+USER	débitos	START	1709526165475
+USER	débitos	END	1709526165475
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165509
+USER	débitos	START	1709526165511
+USER	débitos	END	1709526165511
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165526
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165528
+USER	créditos	START	1709526165533
+USER	créditos	END	1709526165533
+USER	débitos	START	1709526165535
+USER	débitos	END	1709526165535
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165571
+USER	débitos	START	1709526165575
+USER	débitos	END	1709526165575
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165591
+USER	créditos	START	1709526165593
+USER	créditos	END	1709526165593
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165609
+USER	débitos	START	1709526165611
+USER	débitos	END	1709526165611
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165624
+USER	débitos	START	1709526165624
+USER	débitos	END	1709526165625
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165653
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165656
+USER	débitos	START	1709526165660
+USER	débitos	END	1709526165660
+USER	créditos	START	1709526165661
+USER	créditos	END	1709526165661
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165699
+USER	débitos	START	1709526165706
+USER	débitos	END	1709526165706
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165719
+USER	créditos	START	1709526165724
+USER	créditos	END	1709526165724
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165736
+USER	débitos	START	1709526165740
+USER	débitos	END	1709526165741
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165753
+USER	débitos	START	1709526165757
+USER	débitos	END	1709526165757
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165766
+USER	créditos	START	1709526165767
+USER	créditos	END	1709526165767
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526165780
+USER	extratos	START	1709526165782
+USER	extratos	END	1709526165782
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165801
+USER	débitos	START	1709526165807
+USER	débitos	END	1709526165807
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165816
+USER	débitos	START	1709526165817
+USER	débitos	END	1709526165817
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165832
+USER	créditos	START	1709526165833
+USER	créditos	END	1709526165833
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165848
+USER	débitos	START	1709526165848
+USER	débitos	END	1709526165848
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165892
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165894
+USER	débitos	START	1709526165899
+USER	débitos	END	1709526165899
+USER	créditos	START	1709526165899
+USER	créditos	END	1709526165899
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165925
+USER	débitos	START	1709526165927
+USER	débitos	END	1709526165927
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165968
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165971
+USER	créditos	START	1709526165975
+USER	créditos	END	1709526165975
+USER	débitos	START	1709526165976
+USER	débitos	END	1709526165976
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526165985
+USER	débitos	START	1709526165989
+USER	débitos	END	1709526165989
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166015
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166022
+USER	créditos	START	1709526166023
+USER	créditos	END	1709526166023
+USER	débitos	START	1709526166023
+USER	débitos	END	1709526166023
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166047
+USER	débitos	START	1709526166048
+USER	débitos	END	1709526166049
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166084
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166087
+USER	créditos	START	1709526166089
+USER	créditos	END	1709526166089
+USER	débitos	START	1709526166093
+USER	débitos	END	1709526166093
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166115
+USER	débitos	START	1709526166116
+USER	débitos	END	1709526166116
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166146
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166149
+USER	créditos	START	1709526166155
+USER	créditos	END	1709526166155
+USER	débitos	START	1709526166157
+USER	débitos	END	1709526166157
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166178
+USER	débitos	START	1709526166181
+USER	débitos	END	1709526166181
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166205
+USER	débitos	START	1709526166207
+USER	débitos	END	1709526166207
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166211
+USER	créditos	START	1709526166213
+USER	créditos	END	1709526166213
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166253
+USER	débitos	START	1709526166258
+USER	débitos	END	1709526166258
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526166270
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166285
+USER	extratos	START	1709526166287
+USER	extratos	END	1709526166287
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166290
+USER	débitos	START	1709526166291
+USER	débitos	END	1709526166291
+USER	créditos	START	1709526166292
+USER	créditos	END	1709526166292
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166315
+USER	débitos	START	1709526166315
+USER	débitos	END	1709526166315
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166329
+USER	créditos	START	1709526166330
+USER	créditos	END	1709526166330
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166335
+USER	débitos	START	1709526166337
+USER	débitos	END	1709526166337
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166363
+USER	débitos	START	1709526166364
+USER	débitos	END	1709526166365
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166394
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166396
+USER	créditos	START	1709526166401
+USER	créditos	END	1709526166401
+USER	débitos	START	1709526166402
+USER	débitos	END	1709526166402
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166428
+USER	débitos	START	1709526166429
+USER	débitos	END	1709526166429
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166444
+USER	créditos	START	1709526166449
+USER	créditos	END	1709526166449
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166474
+USER	débitos	START	1709526166474
+USER	débitos	END	1709526166474
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166490
+USER	débitos	START	1709526166490
+USER	débitos	END	1709526166490
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166514
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166514
+USER	débitos	START	1709526166519
+USER	débitos	END	1709526166519
+USER	créditos	START	1709526166520
+USER	créditos	END	1709526166520
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166544
+USER	débitos	START	1709526166545
+USER	débitos	END	1709526166545
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166560
+USER	créditos	START	1709526166561
+USER	créditos	END	1709526166561
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166576
+USER	débitos	START	1709526166577
+USER	débitos	END	1709526166577
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526166603
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166604
+USER	extratos	START	1709526166605
+USER	extratos	END	1709526166605
+USER	débitos	START	1709526166609
+USER	débitos	END	1709526166609
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166631
+USER	créditos	START	1709526166631
+USER	créditos	END	1709526166631
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166646
+USER	débitos	START	1709526166646
+USER	débitos	END	1709526166646
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166661
+USER	débitos	START	1709526166662
+USER	débitos	END	1709526166662
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166677
+USER	créditos	START	1709526166678
+USER	créditos	END	1709526166678
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166692
+USER	débitos	START	1709526166693
+USER	débitos	END	1709526166693
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166730
+USER	débitos	START	1709526166732
+USER	débitos	END	1709526166732
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166747
+USER	créditos	START	1709526166747
+USER	créditos	END	1709526166747
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166762
+USER	débitos	START	1709526166763
+USER	débitos	END	1709526166763
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166793
+USER	débitos	START	1709526166794
+USER	débitos	END	1709526166794
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166814
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166815
+USER	créditos	START	1709526166815
+USER	créditos	END	1709526166815
+USER	débitos	START	1709526166815
+USER	débitos	END	1709526166815
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166845
+USER	débitos	START	1709526166847
+USER	débitos	END	1709526166847
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166862
+USER	créditos	START	1709526166862
+USER	créditos	END	1709526166862
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166878
+USER	débitos	START	1709526166878
+USER	débitos	END	1709526166878
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166906
+USER	débitos	START	1709526166906
+USER	débitos	END	1709526166907
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166923
+USER	créditos	START	1709526166923
+USER	créditos	END	1709526166923
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526166937
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166940
+USER	extratos	END	1709526166940
+USER	extratos	START	1709526166940
+USER	débitos	START	1709526166940
+USER	débitos	END	1709526166940
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166970
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526166973
+USER	débitos	START	1709526166973
+USER	débitos	END	1709526166973
+USER	créditos	START	1709526166973
+USER	créditos	END	1709526166973
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167006
+USER	débitos	START	1709526167008
+USER	débitos	END	1709526167008
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167026
+USER	débitos	START	1709526167027
+USER	débitos	END	1709526167027
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167042
+USER	créditos	START	1709526167043
+USER	créditos	END	1709526167043
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167059
+USER	débitos	START	1709526167059
+USER	débitos	END	1709526167059
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167088
+USER	débitos	START	1709526167091
+USER	débitos	END	1709526167091
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167118
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167118
+USER	créditos	START	1709526167119
+USER	créditos	END	1709526167119
+USER	débitos	START	1709526167119
+USER	débitos	END	1709526167119
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167149
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167151
+USER	créditos	START	1709526167151
+USER	créditos	END	1709526167151
+USER	débitos	START	1709526167151
+USER	débitos	END	1709526167151
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167181
+USER	débitos	START	1709526167182
+USER	débitos	END	1709526167182
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167211
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167211
+USER	débitos	START	1709526167211
+USER	débitos	END	1709526167211
+USER	créditos	START	1709526167212
+USER	créditos	END	1709526167212
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167241
+USER	débitos	START	1709526167243
+USER	débitos	END	1709526167243
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526167271
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167272
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167273
+USER	extratos	START	1709526167273
+USER	extratos	END	1709526167273
+USER	débitos	START	1709526167274
+USER	débitos	END	1709526167274
+USER	créditos	START	1709526167274
+USER	créditos	END	1709526167274
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167305
+USER	débitos	START	1709526167308
+USER	débitos	END	1709526167308
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167337
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167340
+USER	débitos	START	1709526167340
+USER	débitos	END	1709526167340
+USER	créditos	START	1709526167340
+USER	créditos	END	1709526167340
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167356
+USER	débitos	START	1709526167357
+USER	débitos	END	1709526167357
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167387
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167390
+USER	débitos	START	1709526167390
+USER	débitos	END	1709526167390
+USER	créditos	START	1709526167390
+USER	créditos	END	1709526167390
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167422
+USER	débitos	START	1709526167424
+USER	débitos	END	1709526167425
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167441
+USER	débitos	START	1709526167442
+USER	débitos	END	1709526167442
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167442
+USER	créditos	START	1709526167443
+USER	créditos	END	1709526167443
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167469
+USER	débitos	START	1709526167472
+USER	débitos	END	1709526167472
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167500
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167510
+USER	débitos	START	1709526167510
+USER	débitos	END	1709526167511
+USER	créditos	START	1709526167511
+USER	créditos	END	1709526167511
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167527
+USER	débitos	START	1709526167527
+USER	débitos	END	1709526167527
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167564
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167565
+USER	créditos	START	1709526167566
+USER	créditos	END	1709526167566
+USER	débitos	START	1709526167566
+USER	débitos	END	1709526167566
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167582
+USER	débitos	START	1709526167582
+USER	débitos	END	1709526167582
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167613
+USER	débitos	START	1709526167614
+USER	débitos	END	1709526167614
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167629
+USER	créditos	START	1709526167629
+USER	créditos	END	1709526167629
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167645
+USER	débitos	START	1709526167645
+USER	débitos	END	1709526167645
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167675
+USER	débitos	START	1709526167676
+USER	débitos	END	1709526167677
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167696
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167696
+USER	créditos	START	1709526167696
+USER	créditos	END	1709526167696
+USER	débitos	START	1709526167696
+USER	débitos	END	1709526167696
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167727
+USER	débitos	START	1709526167728
+USER	débitos	END	1709526167728
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167744
+USER	créditos	START	1709526167745
+USER	créditos	END	1709526167745
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167760
+USER	débitos	START	1709526167760
+USER	débitos	END	1709526167760
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526167773
+USER	extratos	START	1709526167775
+USER	extratos	END	1709526167776
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167790
+USER	débitos	START	1709526167790
+USER	débitos	END	1709526167790
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167817
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167817
+USER	créditos	START	1709526167817
+USER	créditos	END	1709526167817
+USER	débitos	START	1709526167818
+USER	débitos	END	1709526167818
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167847
+USER	débitos	START	1709526167848
+USER	débitos	END	1709526167848
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167863
+USER	créditos	START	1709526167864
+USER	créditos	END	1709526167864
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167879
+USER	débitos	START	1709526167879
+USER	débitos	END	1709526167879
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167896
+USER	débitos	START	1709526167897
+USER	débitos	END	1709526167897
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167915
+USER	créditos	START	1709526167915
+USER	créditos	END	1709526167915
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167931
+USER	débitos	START	1709526167931
+USER	débitos	END	1709526167931
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167962
+USER	débitos	START	1709526167964
+USER	débitos	END	1709526167964
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167980
+USER	créditos	START	1709526167980
+USER	créditos	END	1709526167980
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526167995
+USER	débitos	START	1709526167995
+USER	débitos	END	1709526167995
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168010
+USER	débitos	START	1709526168010
+USER	débitos	END	1709526168010
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168042
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168043
+USER	créditos	START	1709526168043
+USER	créditos	END	1709526168043
+USER	débitos	END	1709526168043
+USER	débitos	START	1709526168043
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168074
+USER	débitos	START	1709526168075
+USER	débitos	END	1709526168075
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168090
+USER	créditos	START	1709526168090
+USER	créditos	END	1709526168091
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168107
+USER	débitos	START	1709526168107
+USER	débitos	END	1709526168107
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168137
+USER	débitos	START	1709526168140
+USER	débitos	END	1709526168140
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168153
+USER	créditos	START	1709526168154
+USER	créditos	END	1709526168154
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168167
+USER	débitos	START	1709526168168
+USER	débitos	END	1709526168168
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168196
+USER	débitos	START	1709526168197
+USER	débitos	END	1709526168197
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168211
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168211
+USER	débitos	START	1709526168212
+USER	débitos	END	1709526168212
+USER	créditos	START	1709526168212
+USER	créditos	END	1709526168212
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168243
+USER	débitos	START	1709526168244
+USER	débitos	END	1709526168244
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526168273
+USER	extratos	START	1709526168273
+USER	extratos	END	1709526168273
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168275
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168275
+USER	débitos	START	1709526168275
+USER	débitos	END	1709526168275
+USER	créditos	START	1709526168275
+USER	créditos	END	1709526168275
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168306
+USER	débitos	START	1709526168308
+USER	débitos	END	1709526168308
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168329
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168329
+USER	créditos	START	1709526168329
+USER	créditos	END	1709526168329
+USER	débitos	START	1709526168330
+USER	débitos	END	1709526168330
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168362
+USER	débitos	START	1709526168363
+USER	débitos	END	1709526168363
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168380
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168380
+USER	débitos	START	1709526168380
+USER	débitos	END	1709526168380
+USER	créditos	START	1709526168381
+USER	créditos	END	1709526168381
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168410
+USER	débitos	START	1709526168412
+USER	débitos	END	1709526168412
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168431
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168432
+USER	créditos	START	1709526168432
+USER	créditos	END	1709526168432
+USER	débitos	START	1709526168432
+USER	débitos	END	1709526168432
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168462
+USER	débitos	START	1709526168464
+USER	débitos	END	1709526168464
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168479
+USER	créditos	START	1709526168480
+USER	créditos	END	1709526168480
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168494
+USER	débitos	START	1709526168495
+USER	débitos	END	1709526168495
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168530
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168531
+USER	créditos	START	1709526168531
+USER	créditos	END	1709526168531
+USER	débitos	START	1709526168531
+USER	débitos	END	1709526168531
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168562
+USER	débitos	START	1709526168562
+USER	débitos	END	1709526168563
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168579
+USER	débitos	START	1709526168579
+USER	débitos	END	1709526168579
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168595
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168595
+USER	débitos	START	1709526168595
+USER	créditos	START	1709526168595
+USER	débitos	END	1709526168595
+USER	créditos	END	1709526168595
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526168615
+USER	extratos	START	1709526168618
+USER	extratos	END	1709526168618
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168633
+USER	débitos	START	1709526168633
+USER	débitos	END	1709526168633
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168648
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168648
+USER	créditos	START	1709526168648
+USER	créditos	END	1709526168648
+USER	débitos	START	1709526168648
+USER	débitos	END	1709526168648
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168678
+USER	débitos	START	1709526168679
+USER	débitos	END	1709526168680
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168697
+USER	créditos	END	1709526168697
+USER	créditos	START	1709526168697
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168712
+USER	débitos	START	1709526168712
+USER	débitos	END	1709526168712
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168734
+USER	débitos	START	1709526168735
+USER	débitos	END	1709526168735
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168749
+USER	créditos	END	1709526168749
+USER	créditos	START	1709526168749
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168769
+USER	débitos	START	1709526168770
+USER	débitos	END	1709526168770
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168781
+USER	débitos	START	1709526168781
+USER	débitos	END	1709526168781
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168797
+USER	créditos	START	1709526168797
+USER	créditos	END	1709526168797
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168826
+USER	débitos	START	1709526168827
+USER	débitos	END	1709526168827
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168848
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168848
+USER	débitos	START	1709526168848
+USER	débitos	END	1709526168848
+USER	créditos	START	1709526168848
+USER	créditos	END	1709526168848
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168864
+USER	débitos	START	1709526168864
+USER	débitos	END	1709526168864
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168893
+USER	débitos	START	1709526168895
+USER	débitos	END	1709526168895
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168910
+USER	créditos	START	1709526168910
+USER	créditos	END	1709526168910
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526168934
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168936
+USER	extratos	START	1709526168936
+USER	extratos	END	1709526168936
+USER	débitos	START	1709526168936
+USER	débitos	END	1709526168936
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168965
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168965
+USER	débitos	START	1709526168965
+USER	débitos	END	1709526168965
+USER	créditos	START	1709526168965
+USER	créditos	END	1709526168965
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526168968
+USER	débitos	START	1709526168968
+USER	débitos	END	1709526168968
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169000
+USER	débitos	START	1709526169002
+USER	débitos	END	1709526169003
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169029
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169029
+USER	créditos	START	1709526169029
+USER	créditos	END	1709526169029
+USER	débitos	START	1709526169029
+USER	débitos	END	1709526169029
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169060
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169061
+USER	créditos	START	1709526169061
+USER	créditos	END	1709526169061
+USER	débitos	END	1709526169061
+USER	débitos	START	1709526169061
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169089
+USER	débitos	START	1709526169091
+USER	débitos	END	1709526169091
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169105
+USER	débitos	START	1709526169106
+USER	débitos	END	1709526169106
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169133
+USER	créditos	START	1709526169134
+USER	créditos	END	1709526169134
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169147
+USER	débitos	START	1709526169147
+USER	débitos	END	1709526169147
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169163
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169163
+USER	débitos	START	1709526169163
+USER	débitos	END	1709526169163
+USER	créditos	END	1709526169163
+USER	créditos	START	1709526169163
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169193
+USER	débitos	START	1709526169194
+USER	débitos	END	1709526169195
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169226
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169228
+USER	créditos	START	1709526169228
+USER	créditos	END	1709526169228
+USER	débitos	START	1709526169228
+USER	débitos	END	1709526169228
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169246
+USER	débitos	START	1709526169246
+USER	débitos	END	1709526169246
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526169273
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169273
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169277
+USER	extratos	START	1709526169277
+USER	extratos	END	1709526169277
+USER	débitos	START	1709526169277
+USER	débitos	END	1709526169277
+USER	créditos	START	1709526169277
+USER	créditos	END	1709526169277
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169304
+USER	débitos	START	1709526169306
+USER	débitos	END	1709526169306
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169321
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169321
+USER	débitos	START	1709526169321
+USER	débitos	END	1709526169321
+USER	créditos	START	1709526169322
+USER	créditos	END	1709526169322
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169353
+USER	débitos	START	1709526169355
+USER	débitos	END	1709526169355
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169370
+USER	créditos	START	1709526169371
+USER	créditos	END	1709526169371
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169386
+USER	débitos	START	1709526169387
+USER	débitos	END	1709526169387
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169409
+USER	débitos	START	1709526169410
+USER	débitos	END	1709526169410
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169426
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169426
+USER	débitos	START	1709526169426
+USER	débitos	END	1709526169426
+USER	créditos	START	1709526169426
+USER	créditos	END	1709526169426
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169461
+USER	débitos	START	1709526169462
+USER	débitos	END	1709526169462
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169477
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169477
+USER	débitos	START	1709526169477
+USER	débitos	END	1709526169477
+USER	créditos	START	1709526169477
+USER	créditos	END	1709526169477
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169509
+USER	débitos	START	1709526169510
+USER	débitos	END	1709526169510
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169527
+USER	créditos	START	1709526169527
+USER	créditos	END	1709526169527
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169544
+USER	débitos	START	1709526169544
+USER	débitos	END	1709526169544
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169561
+USER	débitos	START	1709526169561
+USER	débitos	END	1709526169561
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169576
+USER	créditos	START	1709526169577
+USER	créditos	END	1709526169577
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169593
+USER	débitos	START	1709526169593
+USER	débitos	END	1709526169594
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169620
+USER	créditos	START	1709526169625
+USER	créditos	END	1709526169625
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169627
+USER	débitos	START	1709526169627
+USER	débitos	END	1709526169627
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169645
+USER	débitos	START	1709526169645
+USER	débitos	END	1709526169645
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169673
+USER	débitos	START	1709526169678
+USER	débitos	END	1709526169678
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169678
+USER	créditos	START	1709526169678
+USER	créditos	END	1709526169678
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169696
+USER	débitos	START	1709526169696
+USER	débitos	END	1709526169696
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169729
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169730
+USER	débitos	START	1709526169731
+USER	débitos	END	1709526169731
+USER	créditos	START	1709526169731
+USER	créditos	END	1709526169731
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169746
+USER	débitos	START	1709526169746
+USER	débitos	END	1709526169746
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526169777
+USER	extratos	START	1709526169777
+USER	extratos	END	1709526169777
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169779
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169779
+USER	débitos	START	1709526169779
+USER	débitos	END	1709526169779
+USER	créditos	START	1709526169779
+USER	créditos	END	1709526169779
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169795
+USER	débitos	START	1709526169795
+USER	débitos	END	1709526169796
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169827
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169829
+USER	débitos	START	1709526169829
+USER	débitos	END	1709526169829
+USER	créditos	START	1709526169829
+USER	créditos	END	1709526169829
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169860
+USER	débitos	START	1709526169862
+USER	débitos	END	1709526169862
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169878
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169878
+USER	débitos	START	1709526169878
+USER	débitos	END	1709526169878
+USER	créditos	START	1709526169878
+USER	créditos	END	1709526169878
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169904
+USER	débitos	START	1709526169904
+USER	débitos	END	1709526169904
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169933
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169933
+USER	créditos	START	1709526169934
+USER	créditos	END	1709526169934
+USER	débitos	START	1709526169934
+USER	débitos	END	1709526169934
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169963
+USER	débitos	START	1709526169964
+USER	débitos	END	1709526169964
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169979
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526169979
+USER	créditos	START	1709526169979
+USER	créditos	END	1709526169980
+USER	débitos	START	1709526169980
+USER	débitos	END	1709526169980
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170011
+USER	débitos	START	1709526170014
+USER	débitos	END	1709526170014
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170038
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170038
+USER	créditos	START	1709526170038
+USER	créditos	END	1709526170038
+USER	débitos	START	1709526170039
+USER	débitos	END	1709526170039
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170069
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170072
+USER	créditos	START	1709526170072
+USER	créditos	END	1709526170072
+USER	débitos	START	1709526170072
+USER	débitos	END	1709526170072
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170086
+USER	débitos	START	1709526170087
+USER	débitos	END	1709526170087
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170116
+USER	débitos	START	1709526170117
+USER	débitos	END	1709526170117
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170133
+USER	créditos	START	1709526170134
+USER	créditos	END	1709526170134
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170150
+USER	débitos	START	1709526170150
+USER	débitos	END	1709526170150
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170164
+USER	débitos	START	1709526170164
+USER	débitos	END	1709526170164
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170180
+USER	créditos	START	1709526170181
+USER	créditos	END	1709526170181
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170215
+USER	débitos	START	1709526170216
+USER	débitos	END	1709526170216
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170228
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170228
+USER	créditos	START	1709526170228
+USER	créditos	END	1709526170228
+USER	débitos	START	1709526170228
+USER	débitos	END	1709526170228
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170245
+USER	débitos	START	1709526170245
+USER	débitos	END	1709526170245
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526170276
+USER	extratos	START	1709526170277
+USER	extratos	END	1709526170277
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170278
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170278
+USER	débitos	START	1709526170278
+USER	débitos	END	1709526170278
+USER	créditos	START	1709526170278
+USER	créditos	END	1709526170278
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170294
+USER	débitos	START	1709526170294
+USER	débitos	END	1709526170294
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170325
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170327
+USER	créditos	START	1709526170327
+USER	créditos	END	1709526170327
+USER	débitos	START	1709526170327
+USER	débitos	END	1709526170327
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170346
+USER	débitos	START	1709526170346
+USER	débitos	END	1709526170346
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170376
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170377
+USER	débitos	START	1709526170378
+USER	débitos	END	1709526170378
+USER	créditos	START	1709526170378
+USER	créditos	END	1709526170378
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170393
+USER	débitos	START	1709526170393
+USER	débitos	END	1709526170394
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170425
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170426
+USER	créditos	START	1709526170426
+USER	créditos	END	1709526170426
+USER	débitos	START	1709526170426
+USER	débitos	END	1709526170426
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170447
+USER	débitos	START	1709526170447
+USER	débitos	END	1709526170447
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170477
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170478
+USER	débitos	START	1709526170479
+USER	débitos	END	1709526170479
+USER	créditos	START	1709526170479
+USER	créditos	END	1709526170479
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170494
+USER	débitos	START	1709526170494
+USER	débitos	END	1709526170494
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170524
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170525
+USER	débitos	START	1709526170525
+USER	débitos	END	1709526170525
+USER	créditos	START	1709526170526
+USER	créditos	END	1709526170526
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170548
+USER	débitos	END	1709526170548
+USER	débitos	START	1709526170548
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170579
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170581
+USER	créditos	START	1709526170582
+USER	créditos	END	1709526170582
+USER	débitos	START	1709526170582
+USER	débitos	END	1709526170582
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170598
+USER	débitos	START	1709526170598
+USER	débitos	END	1709526170598
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526170598
+USER	extratos	START	1709526170599
+USER	extratos	END	1709526170599
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170627
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170628
+USER	créditos	START	1709526170628
+USER	créditos	END	1709526170628
+USER	débitos	START	1709526170629
+USER	débitos	END	1709526170629
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170650
+USER	débitos	START	1709526170651
+USER	débitos	END	1709526170651
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170666
+USER	créditos	START	1709526170667
+USER	créditos	END	1709526170667
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170668
+USER	débitos	START	1709526170668
+USER	débitos	END	1709526170668
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170697
+USER	débitos	START	1709526170697
+USER	débitos	END	1709526170697
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170739
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170740
+USER	débitos	START	1709526170741
+USER	débitos	END	1709526170741
+USER	créditos	START	1709526170741
+USER	créditos	END	1709526170741
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170756
+USER	débitos	START	1709526170757
+USER	débitos	END	1709526170757
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170772
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170772
+USER	débitos	START	1709526170772
+USER	débitos	END	1709526170772
+USER	créditos	START	1709526170772
+USER	créditos	END	1709526170772
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170804
+USER	débitos	START	1709526170806
+USER	débitos	END	1709526170806
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170821
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170822
+USER	créditos	START	1709526170822
+USER	débitos	START	1709526170822
+USER	débitos	END	1709526170822
+USER	créditos	END	1709526170822
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170851
+USER	débitos	START	1709526170853
+USER	débitos	END	1709526170853
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170867
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170868
+USER	créditos	START	1709526170868
+USER	créditos	END	1709526170868
+USER	débitos	START	1709526170868
+USER	débitos	END	1709526170868
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170897
+USER	débitos	START	1709526170898
+USER	débitos	END	1709526170899
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170928
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170930
+USER	créditos	START	1709526170930
+USER	créditos	END	1709526170930
+USER	débitos	START	1709526170930
+USER	débitos	END	1709526170930
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526170944
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170946
+USER	extratos	START	1709526170946
+USER	extratos	END	1709526170946
+USER	débitos	START	1709526170947
+USER	débitos	END	1709526170947
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170977
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170977
+USER	créditos	START	1709526170977
+USER	créditos	END	1709526170977
+USER	débitos	START	1709526170977
+USER	débitos	END	1709526170977
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526170995
+USER	débitos	START	1709526170995
+USER	débitos	END	1709526170995
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171024
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171026
+USER	créditos	START	1709526171026
+USER	créditos	END	1709526171026
+USER	débitos	START	1709526171026
+USER	débitos	END	1709526171026
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171056
+USER	débitos	START	1709526171057
+USER	débitos	END	1709526171057
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171072
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171072
+USER	débitos	START	1709526171072
+USER	débitos	END	1709526171072
+USER	créditos	START	1709526171073
+USER	créditos	END	1709526171073
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171105
+USER	débitos	START	1709526171107
+USER	débitos	END	1709526171107
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171121
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171121
+USER	créditos	START	1709526171122
+USER	créditos	END	1709526171122
+USER	débitos	START	1709526171122
+USER	débitos	END	1709526171122
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171146
+USER	débitos	START	1709526171146
+USER	débitos	END	1709526171146
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171175
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171176
+USER	débitos	START	1709526171176
+USER	débitos	END	1709526171176
+USER	créditos	START	1709526171176
+USER	créditos	END	1709526171177
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171192
+USER	débitos	START	1709526171192
+USER	débitos	END	1709526171192
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171222
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171225
+USER	débitos	START	1709526171225
+USER	débitos	END	1709526171225
+USER	créditos	START	1709526171226
+USER	créditos	END	1709526171226
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171253
+USER	débitos	START	1709526171254
+USER	débitos	END	1709526171256
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526171281
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171281
+USER	extratos	START	1709526171281
+USER	extratos	END	1709526171281
+USER	créditos	START	1709526171282
+USER	créditos	END	1709526171282
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171282
+USER	débitos	START	1709526171283
+USER	débitos	END	1709526171283
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171298
+USER	débitos	START	1709526171298
+USER	débitos	END	1709526171298
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171313
+USER	créditos	START	1709526171314
+USER	créditos	END	1709526171314
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171330
+USER	débitos	START	1709526171331
+USER	débitos	END	1709526171331
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171356
+USER	débitos	START	1709526171356
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171356
+USER	débitos	END	1709526171356
+USER	créditos	START	1709526171356
+USER	créditos	END	1709526171356
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171371
+USER	débitos	START	1709526171371
+USER	débitos	END	1709526171372
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171388
+USER	débitos	START	1709526171388
+USER	débitos	END	1709526171389
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171404
+USER	créditos	START	1709526171405
+USER	créditos	END	1709526171405
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171420
+USER	débitos	START	1709526171421
+USER	débitos	END	1709526171421
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171435
+USER	débitos	START	1709526171436
+USER	débitos	END	1709526171436
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171461
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171461
+USER	créditos	START	1709526171461
+USER	créditos	END	1709526171461
+USER	débitos	START	1709526171462
+USER	débitos	END	1709526171462
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171490
+USER	débitos	START	1709526171492
+USER	débitos	END	1709526171492
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171507
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171507
+USER	créditos	START	1709526171508
+USER	créditos	END	1709526171508
+USER	débitos	START	1709526171508
+USER	débitos	END	1709526171508
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171536
+USER	débitos	START	1709526171538
+USER	débitos	END	1709526171538
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171562
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171562
+USER	créditos	START	1709526171562
+USER	créditos	END	1709526171562
+USER	débitos	START	1709526171562
+USER	débitos	END	1709526171563
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171578
+USER	débitos	START	1709526171579
+USER	débitos	END	1709526171579
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171593
+USER	créditos	START	1709526171594
+USER	créditos	END	1709526171594
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171609
+USER	débitos	START	1709526171610
+USER	débitos	END	1709526171610
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171631
+USER	débitos	START	1709526171632
+USER	débitos	END	1709526171632
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171645
+USER	créditos	START	1709526171646
+USER	créditos	END	1709526171646
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171668
+USER	débitos	START	1709526171668
+USER	débitos	END	1709526171669
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171682
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171682
+USER	débitos	START	1709526171682
+USER	débitos	END	1709526171682
+USER	créditos	START	1709526171682
+USER	créditos	END	1709526171682
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171701
+USER	débitos	START	1709526171701
+USER	débitos	END	1709526171701
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171729
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171732
+USER	débitos	START	1709526171732
+USER	débitos	END	1709526171732
+USER	créditos	START	1709526171732
+USER	créditos	END	1709526171732
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171762
+USER	débitos	START	1709526171765
+USER	débitos	END	1709526171765
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526171777
+USER	extratos	START	1709526171778
+USER	extratos	END	1709526171778
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171779
+USER	créditos	START	1709526171779
+USER	créditos	END	1709526171779
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171780
+USER	débitos	START	1709526171780
+USER	débitos	END	1709526171780
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171805
+USER	débitos	START	1709526171806
+USER	débitos	END	1709526171806
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171821
+USER	créditos	START	1709526171821
+USER	créditos	END	1709526171821
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171837
+USER	débitos	START	1709526171838
+USER	débitos	END	1709526171838
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171862
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171862
+USER	créditos	START	1709526171863
+USER	créditos	END	1709526171863
+USER	débitos	START	1709526171863
+USER	débitos	END	1709526171863
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171878
+USER	débitos	START	1709526171878
+USER	débitos	END	1709526171878
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171895
+USER	débitos	START	1709526171896
+USER	débitos	END	1709526171896
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171912
+USER	créditos	START	1709526171912
+USER	créditos	END	1709526171912
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171926
+USER	débitos	START	1709526171927
+USER	débitos	END	1709526171927
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171942
+USER	débitos	START	1709526171943
+USER	débitos	END	1709526171943
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171967
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171967
+USER	débitos	START	1709526171968
+USER	débitos	END	1709526171968
+USER	créditos	START	1709526171968
+USER	créditos	END	1709526171968
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171997
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526171997
+USER	débitos	START	1709526171998
+USER	débitos	END	1709526171998
+USER	créditos	START	1709526171998
+USER	créditos	END	1709526171998
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172026
+USER	débitos	START	1709526172028
+USER	débitos	END	1709526172028
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172043
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172043
+USER	créditos	START	1709526172044
+USER	créditos	END	1709526172044
+USER	débitos	START	1709526172044
+USER	débitos	END	1709526172044
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172068
+USER	débitos	START	1709526172068
+USER	débitos	END	1709526172069
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172096
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172099
+USER	débitos	START	1709526172099
+USER	débitos	END	1709526172099
+USER	créditos	START	1709526172100
+USER	créditos	END	1709526172100
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172114
+USER	débitos	START	1709526172115
+USER	débitos	END	1709526172115
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172143
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172146
+USER	débitos	START	1709526172146
+USER	débitos	END	1709526172146
+USER	créditos	START	1709526172146
+USER	créditos	END	1709526172146
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172168
+USER	débitos	START	1709526172169
+USER	débitos	END	1709526172169
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172182
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172183
+USER	créditos	START	1709526172183
+USER	créditos	END	1709526172183
+USER	débitos	START	1709526172183
+USER	débitos	END	1709526172183
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172211
+USER	débitos	START	1709526172213
+USER	débitos	END	1709526172213
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172228
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172228
+USER	créditos	START	1709526172228
+USER	créditos	END	1709526172228
+USER	débitos	START	1709526172228
+USER	débitos	END	1709526172228
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172264
+USER	débitos	START	1709526172266
+USER	débitos	END	1709526172266
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526172278
+USER	extratos	START	1709526172281
+USER	extratos	END	1709526172281
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172281
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172282
+USER	débitos	START	1709526172282
+USER	débitos	END	1709526172282
+USER	créditos	START	1709526172282
+USER	créditos	END	1709526172283
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172298
+USER	débitos	START	1709526172298
+USER	débitos	END	1709526172298
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172312
+USER	débitos	START	1709526172313
+USER	débitos	END	1709526172313
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172326
+USER	créditos	START	1709526172330
+USER	créditos	END	1709526172330
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172358
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172358
+USER	débitos	START	1709526172359
+USER	débitos	END	1709526172359
+USER	débitos	START	1709526172359
+USER	débitos	END	1709526172359
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172374
+USER	créditos	START	1709526172374
+USER	créditos	END	1709526172374
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172387
+USER	débitos	START	1709526172387
+USER	débitos	END	1709526172387
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172403
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172403
+USER	débitos	START	1709526172403
+USER	débitos	END	1709526172403
+USER	créditos	START	1709526172403
+USER	créditos	END	1709526172403
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172433
+USER	débitos	START	1709526172435
+USER	débitos	END	1709526172435
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172449
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172450
+USER	débitos	START	1709526172450
+USER	débitos	END	1709526172450
+USER	créditos	START	1709526172450
+USER	créditos	END	1709526172450
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172481
+USER	débitos	START	1709526172483
+USER	débitos	END	1709526172483
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172499
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172500
+USER	débitos	START	1709526172500
+USER	débitos	END	1709526172500
+USER	créditos	END	1709526172500
+USER	créditos	START	1709526172500
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172529
+USER	débitos	START	1709526172531
+USER	débitos	END	1709526172531
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172559
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172560
+USER	débitos	START	1709526172560
+USER	débitos	END	1709526172560
+USER	créditos	START	1709526172560
+USER	créditos	END	1709526172561
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172576
+USER	débitos	START	1709526172576
+USER	débitos	END	1709526172576
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172590
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172590
+USER	débitos	START	1709526172591
+USER	débitos	END	1709526172591
+USER	créditos	START	1709526172591
+USER	créditos	END	1709526172591
+ERROR	extratos: Failed to build request: Failed to build request: j.l.IllegalArgumentException: requirement failed: Invalid bounds 	1709526172603
+USER	extratos	START	1709526172605
+USER	extratos	END	1709526172605
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172621
+USER	débitos	START	1709526172621
+USER	débitos	END	1709526172621
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172637
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172637
+USER	créditos	START	1709526172637
+USER	créditos	END	1709526172637
+USER	débitos	START	1709526172637
+USER	débitos	END	1709526172637
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172667
+USER	débitos	START	1709526172670
+USER	débitos	END	1709526172670
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172697
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172697
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172697
+USER	débitos	START	1709526172697
+USER	débitos	END	1709526172697
+USER	créditos	START	1709526172697
+USER	créditos	END	1709526172697
+USER	débitos	START	1709526172698
+USER	débitos	END	1709526172698
+ERROR	créditos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172727
+ERROR	débitos: Failed to build request: Failed to build request: j.u.NoSuchElementException: No attribute named 'cliente_id' is defined 	1709526172728
+USER	créditos	START	1709526172728
+USER	créditos	END	1709526172728
+USER	débitos	START	1709526172728
+USER	débitos	END	1709526172728
+ERROR	
